@@ -7,7 +7,6 @@ journal: Knowledge & Technology
 ---
 
 
-\captionsetup{labelformat=empty}
 
 >>> ![](png/sword.png) 
 
@@ -44,13 +43,6 @@ journal: Knowledge & Technology
   Die Grundsätzlichkeit seiner Ausführungen ist auf jeden Gegner gerichtet
   und der Wert seiner Arbeit liegt im strategisches Denken.
 
-  Wiewohl der Gegner noch unbestimmt sein mag, sind doch vielleicht schon Ziele
-  vorstellbar. Von Jan Böhmermann ([2018](#Boehmermann2018)) war zu lesen:
-  „Es geht um die Formulierung einer positiven, radikal neu gedachten und 
-  vor allem sozialen Vision einer zukünftigen Gesellschaft, die Neugestaltung 
-  demokratischer Teilhabe angesichts der digitalen Revolution und die 
-  Wiederentdeckung der Kategorie Mensch". Dabei vergisst der Künstler nicht,
-  auf die andere Seite hinzuweisen (Böhmermann [2018](#Boehmermann2017)).
 
 > *Im Frieden bereite dich auf den Krieg vor, im Krieg bereite dich auf 
 > den Frieden vor* (Sun Tzu).
