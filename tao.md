@@ -11,7 +11,7 @@ journal: Knowledge & Technology
 >>> ![](png/sword.png) 
 
 
- [Die Kunst des Krieges im Tiefen Staat](?txt=01Contents.txt)
+  [Die Kunst des Krieges im Tiefen Staat](https://github.com/Suntzi/Complement/blob/master/tao.md)
 ===============================================================
 
 >  Nach Jahrhunderten von Religions-, Kabinetts- und Nationalkriegen schien
@@ -41,7 +41,7 @@ journal: Knowledge & Technology
   Sun Tzu entwickelt sein Werk in dreizehn Kapiteln; Ihm kommt es nicht darauf
   an, eine Schlacht zu gewinnen: Er will den Gegner besiegen.
   Die Grundsätzlichkeit seiner Ausführungen ist auf jeden Gegner gerichtet
-  und der Wert seiner Arbeit liegt im strategisches Denken.
+  und der wirkliche Wert seiner Arbeit liegt im strategischen Denken.
 
 
 > *Im Frieden bereite dich auf den Krieg vor, im Krieg bereite dich auf 
@@ -50,8 +50,8 @@ journal: Knowledge & Technology
 
 ### I. Planung: Temet Nosce
 
->  *Wenn du den Feind nicht kennst, doch dich selbst, wirst du
->  für jede Niederlage, die du erleidest, einen Sieg erringen* (Sun Tzu).
+> *Wenn du den Feind nicht kennst, doch dich selbst, wirst du
+> für jede Niederlage, die du erleidest, einen Sieg erringen* (Sun Tzu).
 
   In der letzten Verfilmung des Platonischen Höhlengleichnisses, dem Film
   "Die Matrix" der geschwister Wachowsky, ist es der Programmierer Neo, der 
@@ -124,13 +124,13 @@ journal: Knowledge & Technology
 >  Schlachten nicht fürchten* (Sun Tzu).
 
 
-
   Nach Adorno ([Adorno 1955](#Adorno1955)) „rächt sich der vergessene Spengler,
   indem er droht recht zu behalten“.
   Oswald Spengler bemerkte einmal, dass die Staaten und damit auch die 
   Kriegsführung in die Hand von Konzernen und Großvermögen gelangen könnten.
-  Sichtbarer Teil ist der international ausgerichtete Finanzkapitalismus, der
-  rücksichtslos expandiert und  dabei ganze Volkswirtschaften umgestaltet. 
+  Sichtbarer Teil dieser Entwicklung ist der international ausgerichtete 
+  Finanzkapitalismus, der rücksichtslos expandiert und dabei ganze 
+  Volkswirtschaften umgestaltet. 
   Auch der Mensch selbst wird umgestaltet: Neben der Expansion in die Breite 
   hat also dieses Prinzip eine Tiefenwirkung in die Psyche des einzelnen.
   Der um sich greifende Finanzkapitalismus reduziert die Komplexität des Lebens
@@ -471,7 +471,7 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
   sie aktiv gestalten."
 
   "Wenn man ins Bett macht, ist es erst warm, dann wird es kalt".
-  So ergeht es wohl nicht nur dem jungen Künstler [[Joyce 1916](#Joyce1916)], 
+  So ergeht es wohl nicht nur dem jungen Künstler ([Joyce 1916](#Joyce1916)), 
   betroffen sind nun die gutmeinenden linken Zeitgenossen.
 
 
@@ -534,7 +534,7 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
 
   Der KGB-Agent Yuri Bezmenov ([Bezmenov 2011](#Bezmenov2011)) berichtet
   von seiner Arbeit zur Destabilisierung eines Landes, die er als
-  "nichterklärten totalen Krieg" beschreibt.
+  nichterklärten totalen Krieg beschreibt.
 
 
 _____________________________________________________________________________
@@ -565,15 +565,10 @@ _____________________________________________________________________________
   Joyce, J. (1916). *A Portrait of the Artist as a Young Man*. [Wikisource.org
   ](https://en.wikisource.org/wiki/A_Portrait_of_the_Artist_as_a_Young_Man)
 
-  [5] Aron, Raymond. Clausewitz. Den Krieg denken. Frankfurt a.M., Berlin, 
-  Wien 1980, S. 78
 
   Barnett, T. (2003). [*Why the Pentagon Changes Its Maps*
   ](https://www.esquire.com/news-politics/a1546/thomas-barnett-iraq-war-primer)
 
-  [5] Friederike Beck, "Die geheime Migrationsagenda: Wie elitäre Netzwerke 
-  mithilfe von EU, UNO, superreichen Stiftungen und NGOs Europa zerstören 
-  wollen"
 
   <a name="Berger2018"></a>
   Berger, J. (2018). *Wahlkämpfer der Woche: Jakob Augstein*.
@@ -628,8 +623,6 @@ _____________________________________________________________________________
   Eisleben, J. (2018). [Politisches Handeln gegen die eigenen Interessen
   ](http://www.achgut.com/artikel/politisches_handeln_gegen_die_eigenen_interessen)
 
-  El-Kholy, A. (2016). Karl Mays Orient und 'die bösen Araber' im Roman 
-  [„Durch die Wüste“](http://www.grin.com/document/336474).
 
   Jasinna (2018), *Die Flüchtlings-Macher*.
   [You Tube](https://www.youtube.com/watch?v=nsCBN4sHHSA).
@@ -650,6 +643,7 @@ _____________________________________________________________________________
   Hamm, B. (2014). Das Ende der Demokratie – wie wir sie kennen. 
   https://www.weltwirtschaft-und-entwicklung.org/downloads/hammlang.pdf
 
+  <a name="Heihnsohn2018"></a>
   Heinsohn, G. (2018). "Seehofer hat mehr gegen sich als Merkel".
   [Achgut.com 16.6.2018
   ](http://www.achgut.com/artikel/seehofer_hat_mehr_gegen_sich_als_merkel)
@@ -715,6 +709,7 @@ _____________________________________________________________________________
 
   Oxfam (2018). *Reward Work, not Wealth*.
   [Oxfam](https://www.oxfam.de/ueber-uns/publikationen/reward-work-not-wealth)
+
   
   <a name="Quigley1966"></a>
   Quigley, C. (1966). *Tragedy and Hope: A History of the World in Our Time*.
