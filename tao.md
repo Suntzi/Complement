@@ -8,11 +8,11 @@ journal: Knowledge & Technology
 
 
 
->>> ![](png/sword.png) 
-
 
   [Die Kunst des Krieges im Tiefen Staat](https://github.com/Suntzi/Complement/blob/master/tao.md)
 ===============================================================
+
+>>> ![](png/sword.png) 
 
 >  Nach Jahrhunderten von Religions-, Kabinetts- und Nationalkriegen schien
 >  es lange Zeit so, als wäre schlußendlich Frieden in Europa eingekehrt.
@@ -124,11 +124,13 @@ journal: Knowledge & Technology
 >  Schlachten nicht fürchten* (Sun Tzu).
 
 
-  Nach Adorno ([Adorno 1955](#Adorno1955)) „rächt sich der vergessene Spengler,
-  indem er droht recht zu behalten“.
-  Oswald Spengler bemerkte einmal, dass die Staaten und damit auch die 
-  Kriegsführung in die Hand von Konzernen und Großvermögen gelangen könnten.
-  Sichtbarer Teil dieser Entwicklung ist der international ausgerichtete 
+  Der [geistreiche Vielschwätzer](https://www.welt.de/print-welt/article257787)
+  Adorno ([Adorno 1955](#Adorno1955)) hat einmal zu Oswald Spengler bemerkt,
+  „es rächt sich der vergessene Spengler, indem er droht recht zu behalten“.
+
+  Spengler schreibt, dass die Staaten und damit auch die Kriegsführung in die 
+  Hand von Konzernen und Großvermögen gelangen könnten.  
+  Sichtbarer Teil dieser Entwicklung ist heute der international ausgerichtete 
   Finanzkapitalismus, der rücksichtslos expandiert und dabei ganze 
   Volkswirtschaften umgestaltet. 
   Auch der Mensch selbst wird umgestaltet: Neben der Expansion in die Breite 
@@ -144,8 +146,8 @@ journal: Knowledge & Technology
   Zivilisation, also der ganzen Erde, durch ein einziges gestaltendes Prinzip, 
   nicht durch Ausgleich und Zugeständnis, sondern durch Sieg und Vernichtung. 
 
-  Ein System zum globalen Management aller menschlichen Ressourcen ist
-  tatsächlich seit einiger Zeit im Enstehen begriffen. 
+  Und tatsächlich ist ein System zum globalen Management aller menschlichen 
+  Ressourcen seit einiger Zeit im Enstehen begriffen. 
   Diese "Global Governance" arbeitet für große ökonomische Ziele und soziale 
   Interessen und tritt gegen die in Europa bekannten Sozialstaaten an.
   Zwei wesentliche Schritte sind zur Verwirklichung erforderlich 
@@ -204,37 +206,33 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
   Dieses sogenannte Phänomen des "Clubs der Reichen" beschreibt die Tendenz
   "mächtiger" Knoten, in komplexen Netzwerken miteinander verbunden zu sein.
 
+  Einer der schärfsten Kritiker der "westlichen Wertegemeinschaft, der
+  Linguist Noam Chomsky, beschreibt das Bild eines "Kapitalismus ohne 
+  mensches Antlitz" ([Chomsky 2000](#Chomsky2000)). 
+  Je mehr Seiten man in seinem Werken liest, umso weniger kann man sich 
+  des Eindrucks erwehren, dass die Globalisierung ihr menschliches Antlitz 
+  verloren hat – und dies nicht erst seit das spekulative dem realen Kapital 
+  den Rang abgelaufen hat. 
+
+
+
+
   Der Soziologen Bernd Hamm ([2014](#Hamm2014)) geht einen Schritt weiter 
   und beschreibt einen Oligarchenkomkomplex aus Superreichen, CEOs und 
   Führungskadern multinationaler Großunternehmen und deren Funktionseliten 
   in Politik, Militär, Medien und Think Tanks, die er als "Dunkler Staat" 
   bezeichnet.
 
-  Einer der schärfsten Kritiker der "westlichen Wertegemeinschaft, der
-  Linguist Noam Chomsky, beschreibt das Bild eines "Kapitalismus ohne 
-  mensches Antlitz" ([Chomsky 2000](#Chomsky2000)). 
-  Je mehr Seiten man liest, umso weniger kann man sich des Eindrucks erwehren, 
-  dass die Globalisierung ihr menschliches Antlitz verloren hat – und dies 
-  nicht erst seit das spekulative dem realen Kapital den Rang abgelaufen hat. 
-
-
-  Schödlbauer ([2018](Schoedlbauer2018)) bescheinigt dem durch die sogenannten 
-  Eliten des Westens getragenen Regiment aus UN-Resolutionen, EU-Verfügungen 
-  und Konferenz-Absichtserklärungen – aus denen zum Teil niemals ratifizierte, 
-  geschweige denn adäquat umgesetzte Verträge hervorgehen – einen starken 
-  Korrekturbedarf.
-
-
   In den USA existiert eine Diskussion und Spekulation über einen 
   "Tiefen Staat" schon etwas länger als in Europa ([Storm Is Upon Us](#Q2018)).
-  Allerdings sprach schon Helmut Schmidt von einem "Staatsterrorismus" 
+  Aber auch Helmut Schmidt sprach einmal von "Staatsterrorismus" 
   ([Lorenzo 2007](#Lorenzo2007)), was sich durchaus auch als Verdacht auf ein 
-  mit dem Staat verbundenes Verbrechersyndikat verstehen lässt.
+  mit dem Staat eng verbundenes Verbrechersyndikat verstehen lässt.
 
   Ob dieses Syndikat existiert und einen globalen Krieg gegen die Menschheit 
-  führt oder ob der deregulierte Kapitalismus in Form grosser 
-  Kapitalmassen auch ohne weitere personale Konkretisierung einen eigenen 
-  Willen zur Macht entwickelt muß zunächst im Dunkeln bleiben.
+  führt oder ob der deregulierte Kapitalismus in Form grosser Kapitalmassen 
+  auch ohne weitere personale Konkretisierung einen eigenen Willen zur Macht 
+  entwickelt muß zunächst allerdings im Dunkeln bleiben.
 
 
 ### III. Das Schwert in der Scheide
@@ -243,12 +241,28 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
 > Leistung. Die größte Leistung besteht darin, den Widerstand des Feindes 
 > ohne einen Kampf zu brechen* (Sun Tzu).
 
+
+  Infiltration, Subversion, Propaganda und verdecktes militärisches Vorgehen
+  haben nicht die Vernichtung des gegnerischen Militärs und die Zerstörung 
+  seines Arsenals als Ziel, sondern die Durchsetzung politischer Ziele durch 
+  offene und verdeckte Beeinflussung des ideologischen, wirtschaftlichen, 
+  gesellschaftlichen und politischen Umfeldes mit zivilen und militärischen 
+  Mitteln.
+
   Walther Lippmanns schon 1922 erschienenes Buch „Public Opinion“ gilt als 
   Klassiker in der Kunst der Beeinflussung der öffentlichen Meinung. 
   Um erwünschte Meinungen über politische Themen herzustellen, bedarf es 
   demnach eines Netzwerkes von Experten, die „den Massen“ unter Einsatz 
   manipulativer Techniken dazu verhelfen, komplexe Angelegenheiten zu 
   „verstehen“.
+  Die menschliche Erlebenswelt besteht nicht aus gegebenen Tatsachen, sondern
+  aus inneren Bildern, die durchaus ein Eigenleben führen und nur bedingt mit
+  der äußeren Welt verbunden sind. Durch mediale Manipulation durch
+  "Meinungsführer" wie Nachrichtensprecher, Kommentatoren und Medienstars
+  sind Menschen  (ver-)formbar und ihre Meinung kann gesteuert werden.
+  Im poltischen Bereich bedeutet das, das eine Meinungssteuerung möglich ist,
+  und ein "öffentliche Wille“ nach Lippmann bewusst und gezielt hergestellt 
+  werden kann.
   In einer so gelenkten Demokratie ist es möglich, dass diejenigen politischen 
   Repräsentanten, die durch ihre Politik in die Krise geführt haben, eine 
   Mehrheit erlangen und weiter machen können wie zuvor ([Lieb 2009](#Lieb2009)).
@@ -256,20 +270,21 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
   Die manipulativen Möglichkeiten sind enorm und erlauben es, das 
   katastrophale Scheitern des Marktradikalismus und der Deregulierungsideologie
   unerkannt zu lassen. 
-  Öffentliche Diskussionen über die Verwandlung des Staates in ein 
-  Shithole-Country werden effektiv unterbunden ([Berger 2018](#Berger2018)).
+  Öffentliche Diskussionen über die Verwandlung eines funktionierenden 
+  Staatwesens in ein Shithole-Country werden effektiv 
+  unterbunden ([Berger 2018](#Berger2018)).
 
 
   Im "Klassenkrieg von oben" ist ein selbstbewußtes und gebildetes Volk der 
   größte Gegner. Damit dieser Kampf ohne Widerstand gewonnen und der
   Staat unbemerkt zum "Gegner seiner Bürger" ([Eisleben 2018](#Eisleben2018b))
-  werden kann, bedarf es der "Ausweitung der Moralkampfzone" 
+  werden kann, kommt es zu einer "Ausweitung der Moralkampfzone" 
   ([Wendt 2018](#Wendt2018)) in allen Medien.
   Damit entsteht in den Köpfen ein *naiver Humanismus*, der den Charakter 
   eines Glaubens an die Möglichkeit zur Schaffung einer grenzenlosen 
   Weltgesellschaft mit umfassenden Friedens- und Wohlstandsversprechen besitzt.
-  Diese Ideologie verdeckt die Enteignung und ermöglicht den Staatsverfall
-  ([Eisleben 2018](Eisleben2018c)). 
+  Die so implementierte Ideologie verdeckt die Enteignung und ermöglicht den 
+  Staatsverfall ([Eisleben 2018](Eisleben2018c)). 
 
 
 
@@ -309,13 +324,18 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
 > *Der Ansturm der siegreichen Streitkräfte ist wie das Hereinbrechen
 >  aufgestauter Wasser in eine tausend Faden tiefe Schlucht* (Sun Tzu).
 
-  Die Minorisierung der autochtonen Bevölkerung und die Auflösung ihrer 
-  kulturellen Kohärenz hilft bei der Zersetzung nationaler Identitäten.
+  Die demografische Dynamik außerhalb Europas ist enorm 
+  ([Heihnsohn 2018](#Heihnsohn2018)) und gut für die irreguläre
+  Kriegführung zu gebrauchen ([Barnett 2003](#Barnett2003)).
+
+  Die Minorisierung der autochtonen europäsichen Bevölkerungen und die 
+  Auflösung ihrer kulturellen Kohärenz hilft bei der Zersetzung nationaler 
+  Identitäten.
   Eine solche identitätsarme Bevölkerung ist zur politischen Willensbildung zu 
   schwach, als Rechtssubjekt vernachlässigbar und darum perfekt beherrschbar.
-  Nur eine „enthomogenisierte“, durchmischte Bevölkerung, in der sich keine 
-  innere Gemeinsamkeit einer Fremdsteuerung widersetzen kann, ist leicht 
-  zentral lenkbar.
+  Eine „enthomogenisierte“, durchmischte Bevölkerung, in der sich keine innere 
+  Gemeinsamkeit einer Fremdsteuerung widersetzen kann, ist leicht zentral 
+  lenkbar.
 
   "Eine Durchmischung geschieht in der Regel nicht freiwillig. Sie kann nur 
   von außen durch erzwungene Flüchtlings- und Massenmigrations-Ströme 
@@ -475,6 +495,7 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
   betroffen sind nun die gutmeinenden linken Zeitgenossen.
 
 
+
 ### VIII. Taktische Varianten
 
 > *Locke die besten und klügsten Männer des Feindes fort, damit er keine 
@@ -532,8 +553,8 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
 > Spione sind ein äußerst wichtiges Element des Krieges, denn von ihnen hängt 
 > die Fähigkeit der Armee ab, sich zu bewegen* (Sun Tzu).
 
-  Der KGB-Agent Yuri Bezmenov ([Bezmenov 2011](#Bezmenov2011)) berichtet
-  von seiner Arbeit zur Destabilisierung eines Landes, die er als
+  Der übergelaufene KGB-Agent Yuri Bezmenov ([Bezmenov 2011](#Bezmenov2011)) 
+  berichtet von seiner Arbeit zur Destabilisierung eines Landes, die er als
   nichterklärten totalen Krieg beschreibt.
 
 
@@ -566,6 +587,7 @@ _____________________________________________________________________________
   ](https://en.wikisource.org/wiki/A_Portrait_of_the_Artist_as_a_Young_Man)
 
 
+  <a name="Barnett2003"></a> 
   Barnett, T. (2003). [*Why the Pentagon Changes Its Maps*
   ](https://www.esquire.com/news-politics/a1546/thomas-barnett-iraq-war-primer)
 
@@ -578,9 +600,6 @@ _____________________________________________________________________________
   Bezmenov, Y. (2011): Deception Was My Job.
   [YouTube](https://www.youtube.com/watch?v=y3qkf3bajd4&t=321s).
 
-  <a name="Boehmermann2017"></a>
-  Böhmerman, J. (2017). 
-  [Im Reichstag](https://www.youtube.com/watch?v=23xGlNO1TdA).
 
   <a name="Brigandes2017"></a>
   Brigandes, L. (2017). 
@@ -603,8 +622,6 @@ _____________________________________________________________________________
   Chomsky, N (2001). *Die politische Ökonomie der Menschenrechte*.
   Grafenau : Trotzdem-Verl.-Genossenschaft.
 
-  <a name="9">[9]</a>
-  Craig, P. (2018). [What Secretary of State Tillerson’s Firing Means](https://www.paulcraigroberts.org/2018/03/13/secretary-state-tillersons-firing-means)
 
   <a name="Deckwirth2008"></a>
   Deckwirth, C. (2008). *Die Europäische Union als Triebkraft der 
