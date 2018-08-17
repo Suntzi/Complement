@@ -47,7 +47,7 @@ journal: Knowledge & Technology
 > *Im Frieden bereite dich auf den Krieg vor, im Krieg bereite dich auf 
 > den Frieden vor* (Sun Tzu).
 
-
+<a name="I"></a>
 ### I. Planung: Temet Nosce
 
 > *Wenn du den Feind nicht kennst, doch dich selbst, wirst du
@@ -118,6 +118,7 @@ journal: Knowledge & Technology
   Vorraussetzung, um gegen die Agenten der Matrix zu bestehen.
 
 
+<a name="II"></a>
 ### II. Über die Kriegführung: The Global Governance Machinery
 
 > *Wer den Gegner kennt und sich selbst kennt muß den Ausgang von hundert 
@@ -225,16 +226,20 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
 
   In den USA existiert eine Diskussion und Spekulation über einen 
   "Tiefen Staat" schon etwas länger als in Europa ([Storm Is Upon Us](#Q2018)).
-  Aber auch Helmut Schmidt sprach einmal von "Staatsterrorismus" 
+  Auch Helmut Schmidt sprach einmal von "Staatsterrorismus" 
   ([Lorenzo 2007](#Lorenzo2007)), was sich durchaus auch als Verdacht auf ein 
   mit dem Staat eng verbundenes Verbrechersyndikat verstehen lässt.
 
   Ob dieses Syndikat existiert und einen globalen Krieg gegen die Menschheit 
-  führt oder ob der deregulierte Kapitalismus in Form grosser Kapitalmassen 
-  auch ohne weitere personale Konkretisierung einen eigenen Willen zur Macht 
-  entwickelt muß zunächst allerdings im Dunkeln bleiben.
+  führt, ob der deregulierte Kapitalismus in Form grosser Kapitalmassen auch 
+  ohne weitere personale Konkretisierung einen eigenen Willen zur Macht 
+  entwickelt oder ob ein abstraktes Wirkprinzip mit dem schillernden Namen
+  "Neoliberlismus" ([Ptak 2018](#Ptak2018)) sein Unwesen treibt - 
+  es dürfte vom einiger Wichtigkeit sein, diese Phänomene und ihre
+  Wirkprinzipien genauer kennenzulernen.
 
 
+<a name="III"></a>
 ### III. Das Schwert in der Scheide
 
 > *In all deinen Schlachten zu kämpfen und zu siegen ist nicht die größte 
@@ -290,6 +295,8 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
 
 
 
+
+<a name="IV"></a>
 ### IV. Taktik 
 
 > *Soweit der Sieg durch Umstände errungen wurde, die nicht ans Licht kommen, 
@@ -347,6 +354,8 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
 
   
 
+
+<a name="V"></a>
 ### V. Energie 
 > *Es ist wichtiger, dem Gegner geistig überlegen zu sein, als ihn
 > niederzukämpfen.* (Sun Tzu).
@@ -394,6 +403,7 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
 
 
 
+<a name="VI"></a>
 ### VI. Schwache und starke Punkte 
 
 > *Das Wasser strömt in seinem natürlichen Lauf von hohen Orten herunter und 
@@ -465,6 +475,7 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
   zeigen.
 
 
+<a name="VII"></a>
 ### VII. Manöver 
 
 > *Siegen wird, wer den Kunstgriff der Täuschung beherrscht. 
@@ -494,8 +505,23 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
   So ergeht es wohl nicht nur dem jungen Künstler ([Joyce 1916](#Joyce1916)), 
   betroffen sind nun die gutmeinenden linken Zeitgenossen.
 
+  Skepsis gegenüber Migranten und Ausländern ist im Menschen tief verwurzelt, 
+  das ist weltweit der Fall, und keine Besonderheit der Deutschen, sondern hat 
+  evolutionsbiologische Ursachen. Das muss man nicht gut finden, man sollte es 
+  aber zur Kenntnis nehmen. Ob das dann gleich in Rassismus umschlägt, muss 
+  man im Einzelfall sehen, und dann sicher dagegen vorgehen.
+
+  Ich sehe aber nicht, wieso jemand, der wahllose Migration ablehnt, ein 
+  Rassist sein sollte. Das ist weder logisch begründbar, noch sinnvoll, 
+  sondern dient einzig und alleine der Diskreditierung und Diskriminierung 
+  dieser Person.
 
 
+
+
+
+
+<a name="VIII"></a>
 ### VIII. Taktische Varianten
 
 > *Locke die besten und klügsten Männer des Feindes fort, damit er keine 
@@ -727,6 +753,10 @@ _____________________________________________________________________________
   Oxfam (2018). *Reward Work, not Wealth*.
   [Oxfam](https://www.oxfam.de/ueber-uns/publikationen/reward-work-not-wealth)
 
+
+  Ptak R. (2017). *Grundlagen des Neoliberalismus*. 
+  [In: Kritik des Neoliberalismus. VS Verlag für Sozialwissenschaften, Wiesbaden
+  ](https://doi.org/10.1007/978-3-531-20006-4_1)
   
   <a name="Quigley1966"></a>
   Quigley, C. (1966). *Tragedy and Hope: A History of the World in Our Time*.
