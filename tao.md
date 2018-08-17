@@ -1,7 +1,7 @@
 ---
 date: 2018
 tags: [Soft Power Technology, Social Engineering]
-author: 
+author: Suntzi
 title: The Art of War in the Deep State
 journal: Knowledge & Technology
 ---
@@ -14,15 +14,14 @@ journal: Knowledge & Technology
 
 >  Nach Jahrhunderten von Religions-, Kabinetts- und Nationalkriegen schien
 >  es lange Zeit so, als wäre schlußendlich Frieden in Europa eingekehrt.
->  Das Europa sich hingegen aktuell wieder in einer tiefen Krise befindet, 
->  wird kaum noch ein politisch interessierter Beobachter bestreiten wollen.
+>  Nichts davon ist wahr. 
 >  
 >  In einem sehr breit bekannt gewordenem Interview hat Warren Buffet die 
 >  großen derzeitigen Interessenkonflikte einmal als Klassenkrieg 
->  bezeichnet ([Stein 2006](#Stein2006)).
+>  bezeichnet ([Stein 2006](#Stein2006)). 
 >
->  Wie schon Heraklit, der Dunkle, zu Griechenlands besseren Zeiten bemerkte, 
->  ist nun "der Krieg der Vater aller Dinge" - die einen macht er zu Göttern, 
+>  Nun ist "der Krieg der Vater aller Dinge", wie schon Heraklit, der Dunkle, 
+>  zu Griechenlands besseren Zeiten bemerkte. Die einen macht er zu Göttern, 
 >  die anderen zu Menschen, die einen zu Sklaven, die anderen zu Freien. 
 >
 >  Heraklits Zeitgenosse [Sun Tzu](#SunTzu) hat sich näher mit dem Phänomen 
@@ -39,7 +38,15 @@ journal: Knowledge & Technology
   Sun Tzu entwickelt sein Werk in dreizehn Kapiteln; Ihm kommt es nicht darauf
   an, eine Schlacht zu gewinnen: Er will den Gegner besiegen.
   Die Grundsätzlichkeit seiner Ausführungen ist auf jeden Gegner gerichtet
-  und der wirkliche Wert seiner Arbeit liegt im strategischen Denken.
+  und der wirkliche Wert seiner Arbeit liegt darin, das sie geeignet ist,
+  jeden Gegner zu besiegen. 
+
+  Die 13 Kapitel des Suntzi werden hier referenziert. Die ersten beiden
+  Abschnitte stellen die Gegner vor -- Mensch vs. Maschine. 
+  Die verbleibenden 11 Abschnitte stellen die einzelnen strategischen 
+  Vorgehensweisen des Gegners vor. 
+  Die Aufgabe, eine Gegenstrategie zu entwickeln, bleibt.
+  
 
 
 > *Im Frieden bereite dich auf den Krieg vor, im Krieg bereite dich auf 
@@ -52,7 +59,7 @@ journal: Knowledge & Technology
 > für jede Niederlage, die du erleidest, einen Sieg erringen* (Sun Tzu).
 
   In der letzten Verfilmung des Platonischen Höhlengleichnisses, dem Film
-  "Die Matrix" der geschwister Wachowsky, ist es der Programmierer Neo, der 
+  "Die Matrix" der Geschwister Wachowsky, ist es der Programmierer Neo, der 
   nach seiner Verfolgung durch den Geheimagenten Smith vom Rebellen Morpheus 
   erfährt, wie es wirklich um die Menschen steht: Der Kampf gegen die Maschinen
   wurde verloren und die gesamte bekannte Welt ist eine Illusion.
@@ -90,23 +97,24 @@ journal: Knowledge & Technology
 >  Willst du das Leben leicht haben, bleib bei der Herde:
 >  Liebe den Hirten und ehre das Gebiß seines Hundes. 
 
-  Der Verräter verät also die Rebellen an den Agenten Smith und erhält dafür 
+  Der Verräter verrät also die Rebellen an den Agenten Smith und erhält dafür 
   das Versprechen, luxuriös innerhalb der Matrix leben zu können. 
   Die meisten Rebellen sterben, doch Neo und seine Freundin Trinity entkommen 
   und können den in Gefangenschaft geratenen Morpheus befreien. 
-  Nach einigen weiteren Kämpfen kann Neo den Code der Matrix deutlich sehen 
-  und mit seinen Gedanken frei manipulieren. In einem kurzen ungleichen Kampf
-  besiegt er schließlich seinen Gegner Agent Smith souverän.
+  Nach einigen weiteren Kämpfen kann Neo jedoch den Code der Matrix deutlich 
+  sehen und mit seinen Gedanken frei manipulieren. 
+  In einem kurzen ungleichen Kampf besiegt er schließlich seinen Gegner 
+  Agent Smith souverän.
   Gegen Ende des Films geht Neo wieder in die Matrix und erklärt, die dort
   gefangenen Menschen befreien zu wollen.
 
   Simons ([2009](#Simons2009)) weist auf die Parallelen des Films zum
   Platonschen Höhlengleichnis hin. In diesem wird der Bewusstseinszustand der 
   Menschen als tief unterirdisch beschrieben, sie sind nur zur Wahrnehmung 
-  verwackelten Schatten, die das Fackellicht auf die Felswände wirft, befähigt.
-  Derjenige, der die Höhle verlässt und draußen in der Lichtung die nun
-  unverborgen Dinge erblickt, kann in die Höhle zurück und mit der
-  Befreiung beginnen.
+  verwackelter Schatten, die das Fackellicht auf die Felswände wirft, befähigt.
+  Erst Derjenige, der die Höhle verlässt und draußen in der Lichtung die nun
+  unverborgen Dinge erblickt, kann in die Höhle zurückkehren und sich an der
+  Befreiung der dort Verbliebenen versuchen.
 
 
   Die zentrale Bedeutung des Orakels im Matrixfilm liegt darin, das es
@@ -233,8 +241,8 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
   ohne weitere personale Konkretisierung einen eigenen Willen zur Macht 
   entwickelt oder ob ein abstraktes Wirkprinzip mit dem schillernden Namen
   "Neoliberlismus" ([Ptak 2018](#Ptak2018)) sein Unwesen treibt - 
-  es dürfte vom einiger Wichtigkeit sein, diese Phänomene und ihre
-  Wirkprinzipien genauer kennenzulernen.
+  es dürfte von einiger Wichtigkeit sein, diese Phänomene und ihre
+  Prinzipien genauer kennenzulernen.
 
 
 <a name="III"></a>
@@ -776,7 +784,7 @@ _____________________________________________________________________________
 
   <a name="Q2018"></a>
   Rei, R. (2018). *Q - der Plan die Welt zu retten - deutsche Fassung*.
-  [1.8.2018](https://www.youtube.com/watch?v=lxRyNzvfqAI)
+  [1.8.2018](https://www.youtube.com/watch?v=-y0M1Wd8RLA
 
   <a name="Schoedlbauer2018"></a>
   Schödlbauer, U. (2018). "Merkel-Internationale auf der Rutschbahn".
