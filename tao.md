@@ -12,8 +12,6 @@ journal: Knowledge & Technology
   [Die Kunst des Krieges im Tiefen Staat](https://github.com/Suntzi/Complement/blob/master/tao.md)
 ===============================================================
 
->>> ![](png/sword.png) 
-
 >  Nach Jahrhunderten von Religions-, Kabinetts- und Nationalkriegen schien
 >  es lange Zeit so, als wäre schlußendlich Frieden in Europa eingekehrt.
 >  Das Europa sich hingegen aktuell wieder in einer tiefen Krise befindet, 
@@ -587,19 +585,7 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
 _____________________________________________________________________________
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+>>> ![](png/sword.png) 
 
 ### Bibliographie
 
