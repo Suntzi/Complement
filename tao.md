@@ -560,14 +560,24 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
 
 
 ### IX. Die Armee auf dem Marsch
+> *In militärischen Angelegenheiten ist es nicht notwendigerweise von Vorteil, 
+>  über die größere Anzahl zu verfügen; was allein zählt, ist, aggressives 
+>  Handeln zu vermeiden; es genügt, die eigene Kraft zu konzentrieren, den 
+>  Gegner richtig einzuschätzen und Menschen zu gewinnen; das ist alles.*
 
 ### X. Terrain
+> *Wenn du den Feind und dich selbst kennst, besteht kein Zweifel an deinem 
+> Sieg; wenn du Himmel und Erde kennst, dann wird dein Sieg vollständig 
+> sein.* (Sun Tzu)
+
 
 ### XI. Die neun Situationen
 
 
 
 ### XII. Angriff durch Feuer
+>>> ![](png/sword.png) 
+
 
 ### XIII. Der Einsatz von Spionen
 
@@ -585,7 +595,19 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
 _____________________________________________________________________________
 
 
->>> ![](png/sword.png) 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Bibliographie
 
