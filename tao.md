@@ -2,25 +2,25 @@
 date: 2018
 tags: [Soft Power Technology, Social Engineering]
 author: Suntzi
-title: The Art of War in the Deep State
+title: The Art of War in the mechanical State
 journal: Knowledge & Technology
 ---
 
 
 
+>>> ![](png/sword.png) 
 
-  [Die Kunst des Krieges im Tiefen Staat](https://github.com/Suntzi/Complement/blob/master/tao.md)
+
+  [Die Kunst des Krieges im mechanischen Staat](https://github.com/Suntzi/Complement/blob/master/tao.md)
 ===============================================================
 
 >  Nach Jahrhunderten von Religions-, Kabinetts- und Nationalkriegen schien
->  es lange Zeit so, als wäre schlußendlich Frieden in Europa eingekehrt.
->  Nichts davon ist wahr. 
+>  es lange Zeit so, als wäre schlußendlich Frieden in den europäischen
+>  Nationalstaaten eingekehrt.
+>  In der globalisierten Welt ändert nun der Krieg seine Gestalt und wird 
+>  durch das Schlachtfeld der globalen Ökonomie zu den Völkern getragen.
 >  
->  In einem sehr breit bekannt gewordenem Interview hat Warren Buffet die 
->  großen derzeitigen Interessenkonflikte einmal als Klassenkrieg 
->  bezeichnet ([Stein 2006](#Stein2006)). 
->
->  Nun ist "der Krieg der Vater aller Dinge", wie schon Heraklit, der Dunkle, 
+>  Nun ist der Krieg der Vater aller Dinge, wie schon Heraklit, der Dunkle, 
 >  zu Griechenlands besseren Zeiten bemerkte. Die einen macht er zu Göttern, 
 >  die anderen zu Menschen, die einen zu Sklaven, die anderen zu Freien. 
 >
@@ -140,6 +140,10 @@ journal: Knowledge & Technology
   Sichtbarer Teil dieser Entwicklung ist heute der international ausgerichtete 
   Finanzkapitalismus, der rücksichtslos expandiert und dabei ganze 
   Volkswirtschaften umgestaltet. 
+  In einem sehr breit bekannt gewordenem Interview hat Warren Buffet die 
+  großen derzeitigen Interessenkonflikte einmal als Klassenkrieg 
+  bezeichnet ([Stein 2006](#Stein2006)). 
+
   Auch der Mensch selbst wird umgestaltet: Neben der Expansion in die Breite 
   hat also dieses Prinzip eine Tiefenwirkung in die Psyche des einzelnen.
   Der um sich greifende Finanzkapitalismus reduziert die Komplexität des Lebens
@@ -584,7 +588,6 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
 
 
 ### XII. Angriff durch Feuer
->>> ![](png/sword.png) 
 
 
 ### XIII. Der Einsatz von Spionen
@@ -709,6 +712,10 @@ _____________________________________________________________________________
 
   Herbst, T. (2018). [Die Entzauberung neoliberaler Propaganda und 
   Desinformation](https://heise.de/-4010804).
+  
+  <a name="Hobbes1651"></a>
+  Hobbes, T. (1651). Leviathan. Cambridge [u.a.] : Cambridge Univ. Press,
+  [1991](https://hds.hebis.de/ubmr/Record/HEB018507514).
 
   <a name="Johnstone2017"></a>
   Johnstone, D. (2017). *Von der Vielfalt zur Einfalt*.
