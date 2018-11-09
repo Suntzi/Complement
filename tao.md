@@ -47,33 +47,29 @@ journal: German Mechanical Research Group
   schlimmer werdender Vermögensverteilung von unten nach oben wird die
   Frage nach dem inneren Charakter dieser Prozesse unabdingbar.
 
-  In einem sehr breit bekannt gewordenem Interview hat der bekannt Investor
+> *Im Frieden bereite dich auf den Krieg vor, im Krieg bereite dich auf 
+> den Frieden vor* (Sun Tzu).
+
+  In einem sehr breit bekannt gewordenem Interview hat der bekannte Investor
   Warren Buffet die großen derzeitigen Interessenkonflikte einmal als 
   Klassenkrieg bezeichnet ([Stein 2006](#Stein2006)). 
-  Dieses Zitat des bekannten Analytikers mag hier als erster Anhaltspunkt
-  für die Betrachtung des schon entstandenen Kriegsschauplatzes dienen.
   Nimmt man die Einschätzung ernst, darf man von einem starken Gegner
-  ausgehen, der sich auch selbst an die Anweisung des Suntzi hält:
+  ausgehen, der sich nicht zu erkennen geben wird.
 > *Der Höhepunkt militärischer Entfaltung findet sich im Formlosen: Weiset 
 >  keine Form auf und sogar der sinnestiefste Spion suchet Euch vergebens 
 >  und der Weise kann keine Pläne gegen Euch schmieden* (Sun Tzu).
 
-  Die 13 Kapitel des Suntzi werden hier zur Entwicklung eines Verständnisses
-  unserer Situation herangezogen. 
-  Die ersten beiden Abschnitte stellen die Gegner im Konflikt vor -- das sind
-  einmal wir, die Bürger, und andererseits das vom gottlosen Katholiken
-  Friedrich Nietzsche noch unterschätzte "kälteste aller kalten Ungeheuer",
-  der globalisierte Staat.
-
-  Da es zunächst darauf ankommen wird, überhaupt eine genauere Vorstellung
-  dieser Gegnerschaft zu entwickeln, stellen die verbleibenden 11 Abschnitte 
-  dieser Arbeit die einzelnen strategischen Optionen aus der 
-  Sicht des Gegners vor. Die Aufgabe, eine strategische Option zur Abwehr
-  zu entwickeln, bleibt bestehen.
+  Der gottlose Katholik Friedrich Nietzsche hat den Staat einmal als
+  "das kälteste aller kalten Ungeheuer" gekennzeichnet.
+  Nun tritt der globalisierte Weltstaat als „Maschinenstaat“ auf, so
+  wie bereits Thomas Hobbes ([Hobbes 1651](#Hobbes1651)) die Auswirkungen
+  der Übertragung der mechanistischen Methode auf Gesellschaft und Staat 
+  erkannt hat.
+  Im Zeitalter der Technik wurde nicht nur die Technik zum Schlüssel
+  des Verstehens des Menschen selbst, sie wurde zum eigentlichen Souverän.
 
 
-> *Im Frieden bereite dich auf den Krieg vor, im Krieg bereite dich auf 
-> den Frieden vor* (Sun Tzu).
+
 
 <a name="I"></a>
 ### I. Planung: Temet Nosce
