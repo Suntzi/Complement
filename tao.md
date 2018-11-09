@@ -1,9 +1,9 @@
 ---
 date: 2018
-tags: [Soft Power Technology, Social Engineering]
-author: Suntzi
-title: The Art of War in the mechanical State
-journal: Knowledge & Technology
+tags: [Soft Power Technology, Social Engineering, Political Mechanics]
+author: Siegfried Sunderfeld
+title: The Art of War in the Mechanical State
+journal: German Mechanical Research Group
 ---
 
 
@@ -15,12 +15,13 @@ journal: Knowledge & Technology
 ===============================================================
 
 >  Nach Jahrhunderten von Religions-, Kabinetts- und Nationalkriegen schien
->  es lange Zeit so, als wäre schlußendlich Frieden in den europäischen
+>  es einige Zeit so, als wäre schlußendlich Frieden in den europäischen
 >  Nationalstaaten eingekehrt.
->  In der globalisierten Welt ändert nun der Krieg seine Gestalt und wird 
->  durch das Schlachtfeld der globalen Ökonomie zu den Völkern getragen.
+>  In der sich globalisierenden Welt ändert nun auch der Krieg seine Gestalt 
+>  und erscheint auf dem Schlachtfeld der globalen Ökonomie, um von dort aus
+>  die Völker der Welt erreichen.
 >  
->  Nun ist der Krieg der Vater aller Dinge, wie schon Heraklit, der Dunkle, 
+>  Der Krieg aber ist der Vater aller Dinge, wie schon Heraklit, der Dunkle, 
 >  zu Griechenlands besseren Zeiten bemerkte. Die einen macht er zu Göttern, 
 >  die anderen zu Menschen, die einen zu Sklaven, die anderen zu Freien. 
 >
@@ -37,16 +38,38 @@ journal: Knowledge & Technology
 
   Sun Tzu entwickelt sein Werk in dreizehn Kapiteln; Ihm kommt es nicht darauf
   an, eine Schlacht zu gewinnen: Er will den Gegner besiegen.
-  Die Grundsätzlichkeit seiner Ausführungen ist auf jeden Gegner gerichtet
-  und der wirkliche Wert seiner Arbeit liegt darin, das sie geeignet ist,
-  jeden Gegner zu besiegen. 
+  Dabei ist die Grundsätzlichkeit seiner Ausführungen auf jeden Gegner 
+  gerichtet, und der Wert seiner Arbeit liegt wohl gerade darin, 
+  das sie geeignet scheint, jeden Gegner zu besiegen. 
 
-  Die 13 Kapitel des Suntzi werden hier referenziert. Die ersten beiden
-  Abschnitte stellen die Gegner vor -- Mensch vs. Maschine. 
-  Die verbleibenden 11 Abschnitte stellen die einzelnen strategischen 
-  Vorgehensweisen des Gegners vor. 
-  Die Aufgabe, eine Gegenstrategie zu entwickeln, bleibt.
-  
+  In einer Zeit, in der der Abbau des Sozialstaats, der Demokratie und der
+  Redefreiheit einher gehen mit Desinformation, Meinungsmache und stetig
+  schlimmer werdender Vermögensverteilung von unten nach oben wird die
+  Frage nach dem inneren Charakter dieser Prozesse unabdingbar.
+
+  In einem sehr breit bekannt gewordenem Interview hat der bekannt Investor
+  Warren Buffet die großen derzeitigen Interessenkonflikte einmal als 
+  Klassenkrieg bezeichnet ([Stein 2006](#Stein2006)). 
+  Dieses Zitat des bekannten Analytikers mag hier als erster Anhaltspunkt
+  für die Betrachtung des schon entstandenen Kriegsschauplatzes dienen.
+  Nimmt man die Einschätzung ernst, darf man von einem starken Gegner
+  ausgehen, der sich auch selbst an die Anweisung des Suntzi hält:
+> *Der Höhepunkt militärischer Entfaltung findet sich im Formlosen: Weiset 
+>  keine Form auf und sogar der sinnestiefste Spion suchet Euch vergebens 
+>  und der Weise kann keine Pläne gegen Euch schmieden* (Sun Tzu).
+
+  Die 13 Kapitel des Suntzi werden hier zur Entwicklung eines Verständnisses
+  unserer Situation herangezogen. 
+  Die ersten beiden Abschnitte stellen die Gegner im Konflikt vor -- das sind
+  einmal wir, die Bürger, und andererseits das vom gottlosen Katholiken
+  Friedrich Nietzsche noch unterschätzte "kälteste aller kalten Ungeheuer",
+  der globalisierte Staat.
+
+  Da es zunächst darauf ankommen wird, überhaupt eine genauere Vorstellung
+  dieser Gegnerschaft zu entwickeln, stellen die verbleibenden 11 Abschnitte 
+  dieser Arbeit die einzelnen strategischen Optionen aus der 
+  Sicht des Gegners vor. Die Aufgabe, eine strategische Option zur Abwehr
+  zu entwickeln, bleibt bestehen.
 
 
 > *Im Frieden bereite dich auf den Krieg vor, im Krieg bereite dich auf 
@@ -55,8 +78,8 @@ journal: Knowledge & Technology
 <a name="I"></a>
 ### I. Planung: Temet Nosce
 
-> *Wenn du den Feind nicht kennst, doch dich selbst, wirst du
-> für jede Niederlage, die du erleidest, einen Sieg erringen* (Sun Tzu).
+> *Wenn du weder den Feind noch dich selbst kennst, wirst du in jeder Schlacht 
+> unterliegen* (Sun Tzu).
 
   In der letzten Verfilmung des Platonischen Höhlengleichnisses, dem Film
   "Die Matrix" der Geschwister Wachowsky, ist es der Programmierer Neo, der 
@@ -127,8 +150,9 @@ journal: Knowledge & Technology
 <a name="II"></a>
 ### II. Über die Kriegführung: The Global Governance Machinery
 
-> *Wer den Gegner kennt und sich selbst kennt muß den Ausgang von hundert 
->  Schlachten nicht fürchten* (Sun Tzu).
+> *Wenn du den Feind nicht kennst, doch dich selbst, wirst du
+> für jede Niederlage, die du erleidest, einen Sieg erringen* (Sun Tzu).
+
 
 
   Der [geistreiche Vielschwätzer](https://www.welt.de/print-welt/article257787)
@@ -140,9 +164,6 @@ journal: Knowledge & Technology
   Sichtbarer Teil dieser Entwicklung ist heute der international ausgerichtete 
   Finanzkapitalismus, der rücksichtslos expandiert und dabei ganze 
   Volkswirtschaften umgestaltet. 
-  In einem sehr breit bekannt gewordenem Interview hat Warren Buffet die 
-  großen derzeitigen Interessenkonflikte einmal als Klassenkrieg 
-  bezeichnet ([Stein 2006](#Stein2006)). 
 
   Auch der Mensch selbst wird umgestaltet: Neben der Expansion in die Breite 
   hat also dieses Prinzip eine Tiefenwirkung in die Psyche des einzelnen.
@@ -251,6 +272,9 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
 
 <a name="III"></a>
 ### III. Das Schwert in der Scheide
+
+> *Wer den Gegner kennt und sich selbst kennt muß den Ausgang von hundert 
+>  Schlachten nicht fürchten* (Sun Tzu).
 
 > *In all deinen Schlachten zu kämpfen und zu siegen ist nicht die größte 
 > Leistung. Die größte Leistung besteht darin, den Widerstand des Feindes 
@@ -604,6 +628,7 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
 
 
 _____________________________________________________________________________
+
 
 
 
