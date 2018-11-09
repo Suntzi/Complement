@@ -36,37 +36,39 @@ journal: German Mechanical Research Group
 > Deshalb darf sie unter keinen Umständen vernachlässigt werden.*
 >
 
+  In einer Zeit, in der der Abbau des Sozialstaats, der Demokratie und der
+  Redefreiheit einher gehen mit Desinformation, Meinungsmache und stetig
+  schlimmer werdender Vermögensverteilung von unten nach oben wird die
+  Frage nach dem inneren Charakter dieser Zersetzung unabdingbar.
+
+  Der gottlose Katholik Friedrich Nietzsche hat den Staat selbst einmal als
+  "das kälteste aller kalten Ungeheuer" gekennzeichnet.
+  Tritt nun der globalisierte Weltstaat als „Maschinenstaat“ auf, so
+  wie bereits Thomas Hobbes ([Hobbes 1651](#Hobbes1651)) die Auswirkungen
+  der Übertragung der mechanistischen Methode auf Gesellschaft und Staat 
+  angekündigt hat, so bleibt im Zeitalter der technik zum Einen die Technik 
+  selbst aks Schlüssel des Verstehens des Menschen selbst, sie wurde insoweit 
+  zum Souverän.
+
+  In einem sehr breit bekannt gewordenem Interview hat Warren Buffet die 
+  großen derzeitigen Interessenkonflikte einmal als Klassenkrieg bezeichnet 
+  ([Stein 2006](#Stein2006)). 
+  Nimmt man die Einschätzung ernst, stellt sich die Frage, welche Techniken
+  die feudale Klasse in dieser Auseinandersetzung verwendet.
+  Jednefalls darf man von einem starken Gegner ausgehen, der die Schwächen 
+  seiner Gegner kennt und sich nicht zu erkennen geben wird.
+> *Der Höhepunkt militärischer Entfaltung findet sich im Formlosen: Weiset 
+>  keine Form auf und sogar der sinnestiefste Spion suchet Euch vergebens 
+>  und der Weise kann keine Pläne gegen Euch schmieden* (Sun Tzu).
+
   Sun Tzu entwickelt sein Werk in dreizehn Kapiteln; Ihm kommt es nicht darauf
   an, eine Schlacht zu gewinnen: Er will den Gegner besiegen.
   Dabei ist die Grundsätzlichkeit seiner Ausführungen auf jeden Gegner 
   gerichtet, und der Wert seiner Arbeit liegt wohl gerade darin, 
   das sie geeignet scheint, jeden Gegner zu besiegen. 
 
-  In einer Zeit, in der der Abbau des Sozialstaats, der Demokratie und der
-  Redefreiheit einher gehen mit Desinformation, Meinungsmache und stetig
-  schlimmer werdender Vermögensverteilung von unten nach oben wird die
-  Frage nach dem inneren Charakter dieser Prozesse unabdingbar.
-
 > *Im Frieden bereite dich auf den Krieg vor, im Krieg bereite dich auf 
 > den Frieden vor* (Sun Tzu).
-
-  In einem sehr breit bekannt gewordenem Interview hat der bekannte Investor
-  Warren Buffet die großen derzeitigen Interessenkonflikte einmal als 
-  Klassenkrieg bezeichnet ([Stein 2006](#Stein2006)). 
-  Nimmt man die Einschätzung ernst, darf man von einem starken Gegner
-  ausgehen, der sich nicht zu erkennen geben wird.
-> *Der Höhepunkt militärischer Entfaltung findet sich im Formlosen: Weiset 
->  keine Form auf und sogar der sinnestiefste Spion suchet Euch vergebens 
->  und der Weise kann keine Pläne gegen Euch schmieden* (Sun Tzu).
-
-  Der gottlose Katholik Friedrich Nietzsche hat den Staat einmal als
-  "das kälteste aller kalten Ungeheuer" gekennzeichnet.
-  Nun tritt der globalisierte Weltstaat als „Maschinenstaat“ auf, so
-  wie bereits Thomas Hobbes ([Hobbes 1651](#Hobbes1651)) die Auswirkungen
-  der Übertragung der mechanistischen Methode auf Gesellschaft und Staat 
-  erkannt hat.
-  Im Zeitalter der Technik wurde nicht nur die Technik zum Schlüssel
-  des Verstehens des Menschen selbst, sie wurde zum eigentlichen Souverän.
 
 
 
