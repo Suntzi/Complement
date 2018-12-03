@@ -11,17 +11,18 @@ journal: German Mechanical Research Group
 >>> ![](png/sword.png) 
 
 
-  [Die Kunst des Krieges im mechanischen Staat](https://github.com/Suntzi/Complement/blob/master/tao.md)
+  [Die Kunst des Krieges im mechanischen Staat
+  ](https://github.com/Suntzi/Complement/blob/master/tao.md)
 ===============================================================
 
 >  Nach Jahrhunderten von Religions-, Kabinetts- und Nationalkriegen schien
 >  es einige Zeit so, als wäre schlußendlich Frieden in den europäischen
 >  Nationalstaaten eingekehrt.
->  In der sich globalisierenden Welt ändert nun auch der Krieg seine Gestalt 
+>  In der sich globalisierenden Welt ändert nun aber der Krieg seine Gestalt 
 >  und erscheint auf dem Schlachtfeld der globalen Ökonomie, um von dort aus
->  die Völker der Welt erreichen.
+>  erneut die Völker der Welt zu erreichen.
 >  
->  Der Krieg aber ist der Vater aller Dinge, wie schon Heraklit, der Dunkle, 
+>  Der Krieg nun ist der Vater aller Dinge, wie schon Heraklit, der Dunkle, 
 >  zu Griechenlands besseren Zeiten bemerkte. Die einen macht er zu Göttern, 
 >  die anderen zu Menschen, die einen zu Sklaven, die anderen zu Freien. 
 >
@@ -41,43 +42,42 @@ journal: German Mechanical Research Group
   schlimmer werdender Vermögensverteilung von unten nach oben wird die
   Frage nach dem inneren Charakter dieser Zersetzung unabdingbar.
 
+  Den im [Globalismus](https://de.wikipedia.org/wiki/Globalismus)
+  angelegten Konflikt hat der weltweit angesehene Analyst
+  Warren Buffet einmal als "Klassenkrieg" bezeichnet ([Stein 2006](#Stein2006)).
+  In der globalen Weltmarktgesellschaft verlieren nun die einzelnen Staaten 
+  ihre Bedeutung, der Weltstaat wird schließlich beherscht von einer Klasse
+  weltweit handelungsfähiger Konzerne.
+
   Der gottlose Katholik Friedrich Nietzsche hat den Staat selbst einmal als
   "das kälteste aller kalten Ungeheuer" gekennzeichnet.
-  Tritt nun der globalisierte Weltstaat als „Maschinenstaat“ auf, so
-  wie bereits Thomas Hobbes ([Hobbes 1651](#Hobbes1651)) die Auswirkungen
-  der Übertragung der mechanistischen Methode auf Gesellschaft und Staat 
-  angekündigt hat, so bleibt im Zeitalter der technik zum Einen die Technik 
-  selbst aks Schlüssel des Verstehens des Menschen selbst, sie wurde insoweit 
-  zum Souverän.
-
-  In einem sehr breit bekannt gewordenem Interview hat Warren Buffet die 
-  großen derzeitigen Interessenkonflikte einmal als Klassenkrieg bezeichnet 
-  ([Stein 2006](#Stein2006)). 
-  Nimmt man die Einschätzung ernst, stellt sich die Frage, welche Techniken
-  die feudale Klasse in dieser Auseinandersetzung verwendet.
-  Jednefalls darf man von einem starken Gegner ausgehen, der die Schwächen 
-  seiner Gegner kennt und sich nicht zu erkennen geben wird.
+  Der globalisierte Weltstaat dürfte dieses Ungeheuerliche übertreffen und
+  seine Struktur und Handeln nicht zu erkennen geben.
 > *Der Höhepunkt militärischer Entfaltung findet sich im Formlosen: Weiset 
 >  keine Form auf und sogar der sinnestiefste Spion suchet Euch vergebens 
 >  und der Weise kann keine Pläne gegen Euch schmieden* (Sun Tzu).
 
-  Sun Tzu entwickelt sein Werk in dreizehn Kapiteln; Ihm kommt es nicht darauf
-  an, eine Schlacht zu gewinnen: Er will den Gegner besiegen.
-  Dabei ist die Grundsätzlichkeit seiner Ausführungen auf jeden Gegner 
-  gerichtet, und der Wert seiner Arbeit liegt wohl gerade darin, 
-  das sie geeignet scheint, jeden Gegner zu besiegen. 
-
-> *Im Frieden bereite dich auf den Krieg vor, im Krieg bereite dich auf 
-> den Frieden vor* (Sun Tzu).
-
-
+  Diese Situation macht eine Auseinandersetzung mit den grundlegenden
+  Werken der strategischen Kriegsführung unausweichlich. 
+  Das Werk des Sun Tzu ist das wohl älteste Werk der Kriegsführung und
+  entwickelt sich in dreizehn Kapiteln; dabei kommt es dem Autor kommt 
+  nicht darauf an, eine Schlacht zu gewinnen: Er will den Gegner besiegen.
+  Die Grundsätzlichkeit seiner Ausführungen ist auf jeden Gegner gerichtet.
+  Sie können also wie hier zum Verständnis des Angreifers dienen, als auch 
+  andererseits bei der Entwicklung einer Gegenstrategie helfen.
 
 
-<a name="I"></a>
-### I. Planung: Temet Nosce
+
+
+
+
 
 > *Wenn du weder den Feind noch dich selbst kennst, wirst du in jeder Schlacht 
 > unterliegen* (Sun Tzu).
+
+
+<a name="I"></a>
+### Temet Nosce
 
   In der letzten Verfilmung des Platonischen Höhlengleichnisses, dem Film
   "Die Matrix" der Geschwister Wachowsky, ist es der Programmierer Neo, der 
@@ -146,7 +146,7 @@ journal: German Mechanical Research Group
 
 
 <a name="II"></a>
-### II. Über die Kriegführung: The Global Governance Machinery
+### II. The Global Governance Machinery
 
 > *Wenn du den Feind nicht kennst, doch dich selbst, wirst du
 > für jede Niederlage, die du erleidest, einen Sieg erringen* (Sun Tzu).
@@ -673,6 +673,10 @@ _____________________________________________________________________________
   Brigandes, L. (2017). 
   [Cerveau Lavé](https://www.youtube.com/watch?v=zQCF1R8xiFA).
 
+  <a name="Brigandes2018"></a>
+  Brigandes, L. (2018). [Nachricht von Les Brigandes an die Kritiker
+  ](https://www.youtube.com/watch?v=9pucN48xxuE).
+
   <a name="Buehler2017"></a>
   Bühler. S. (2017). *Markt und Gewinnstreben im Sozialsektor: Wirkungen auf 
   die Beschäftigungsbedingungen und die Qualität der Versorgung aus 
@@ -715,6 +719,9 @@ _____________________________________________________________________________
   <a name="Ludwig2016"></a>
   Ludwig, H. (2016). *Globale Planung der Massenmigration*.
   [Fassadenkratzer](https://fassadenkratzer.wordpress.com/2016/04/02/globale-planung-der-massenmigration)
+
+  <a name="Ludwig2016"></a>Ludwig, H. (2018).
+  [Der Einfluss der internationalen Großkonzerne auf den Globalen Migrationspakt der UNO](https://fassadenkratzer.wordpress.com/2018/08/03/der-einfluss-der-internationalen-grosskonzerne-auf-den-globalen-migrationspakt-der-uno/#more-4916)
 
   <a name="Haering2018"></a>
   Häring, N. (2018). *Migrationsabkommen Teil II: Was das Weltwirtschaftsforum 
@@ -816,6 +823,11 @@ _____________________________________________________________________________
   Rei, R. (2018). *Q - der Plan die Welt zu retten - deutsche Fassung*.
   [1.8.2018](https://www.youtube.com/watch?v=-y0M1Wd8RLA
 
+  <a name="Sarrazin2018"></a>
+  Sarrazin, T. (2018). Alles, was Sie über den Migrationspakt wissen sollten.
+  [Achgut 29.11.2018
+  ](https://www.achgut.com/artikel/alles_was_sie_ueber_den_migrationspakt_wissen_sollten)
+
   <a name="Schoedlbauer2018"></a>
   Schödlbauer, U. (2018). "Merkel-Internationale auf der Rutschbahn".
   [Achgut 29.6.2018
@@ -824,6 +836,11 @@ _____________________________________________________________________________
   Schreier, P. (2018): ARD im Tiefschlaf: Das seltsame Desinteresse an einer 
   [Aufklärung der Maidan-Morde](https://heise.de/-3996302)
 
+
+  <a name="Rabel2011"></a>
+  Rabel, B. (2011). Der neue Leviathan: Der Dollar als Weltgeld und Weltmacht.
+  [Netzjournal von Bernd Rabehl
+  ](https://rabehl.wordpress.com/2011/10/16/der-neue-leviathan-der-dollar-als-weltgeld-und-weltmacht/)
 
   Schulz, H. (2018). Rechtsbrüche und Manipulationen: Wie Regierende und 
   Medien den Zerfall der Bundesrepublik Deutschland fördern.
@@ -869,7 +886,9 @@ _____________________________________________________________________________
   Wendt, A. (2018). *Ausweitung der Moralkampfzone*. [Publico 03/2018
   ](https://www.publicomag.com/2018/03/ausweitung-der-moralkampfzone)
 
-  Wehr, A. (2016). 
+  Andreas Wehr (2016). 
   [Der EU-Retter](http://www.andreas-wehr.eu/der-eu-retter.html).
 
+  Global Intel Hub (2018). The Criminalization of Politics. [Zero Hedge
+  ](https://www.zerohedge.com/news/2018-11-28/criminalization-politics).
 ____________________________________________________________________________
