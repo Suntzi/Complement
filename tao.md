@@ -22,7 +22,7 @@ journal: German Mechanical Research Group
 >  und erscheint auf dem Schlachtfeld der globalen Ökonomie, um von dort aus
 >  erneut die Völker der Welt zu erreichen.
 >  
->  Der Krieg nun ist der Vater aller Dinge, wie schon Heraklit, der Dunkle, 
+>  Der Krieg aber ist der Vater aller Dinge, wie schon Heraklit, der Dunkle, 
 >  zu Griechenlands besseren Zeiten bemerkte. Die einen macht er zu Göttern, 
 >  die anderen zu Menschen, die einen zu Sklaven, die anderen zu Freien. 
 >
@@ -37,34 +37,48 @@ journal: German Mechanical Research Group
 > Deshalb darf sie unter keinen Umständen vernachlässigt werden.*
 >
 
-  In einer Zeit, in der der Abbau des Sozialstaats, der Demokratie und der
-  Redefreiheit einher gehen mit Desinformation, Meinungsmache und stetig
+  Obschon Wachstum der Bevölkerungen, Überlastung natürlicher Ressourcen
+  und Klimaerwärmung sehr grundlegende Probleme für jeden Staat darstellen, 
+  scheinen die globalen Verständigungsprozesse jedoch einer disparaten 
+  Mechanik zu gehorchen.
+
+  In einer Zeit, in der zudem der Abbau des Sozialstaats, der Demokratie und 
+  der Redefreiheit einher gehen mit Desinformation, Meinungsmache und stetig
   schlimmer werdender Vermögensverteilung von unten nach oben wird die
   Frage nach dem inneren Charakter dieser Zersetzung unabdingbar.
 
-  Den im [Globalismus](https://de.wikipedia.org/wiki/Globalismus)
-  angelegten Konflikt hat der weltweit angesehene Analyst
-  Warren Buffet einmal als "Klassenkrieg" bezeichnet ([Stein 2006](#Stein2006)).
-  In der globalen Weltmarktgesellschaft verlieren nun die einzelnen Staaten 
-  ihre Bedeutung, der Weltstaat wird schließlich beherscht von einer Klasse
-  weltweit handelungsfähiger Konzerne.
+  Den im [Globalismus](https://de.wikipedia.org/wiki/Globalismus) angelegten 
+  Konflikt hat der weltweit angesehene Analyst Warren Buffet einmal als 
+  "Klassenkrieg" bezeichnet ([Stein 2006](#Stein2006)).  
+  Da es nun einen globalen Staat herkömmlicher und den europäischen 
+  Sozialstaaten vergleichbaren Prägung nicht gibt, 
+  die globale Weltmarktgesellschaft aber sehr wohl von einer Klasse überaus 
+  handlungsfähiger Konzerne beherrscht wird, soll hier in erster Annäherung 
+  die zerstörerische Mechanik dieser global vernetzten Maschinerie unter
+  den Bedingungen strategischer Kriegsführung betrachtet werden.
+
+  Im Gegensatz zur in der
+  [Analyse realer Kriege](https://swprs.org/jemenkrieg-und-medien)
+  gelegentlich vorgenommenen Konkretisierung der Kriegsgegner auf einzelne 
+  Staaten oder Staatenverbünde hin vermeidet dieser Ansatz die Verbindung
+  des Staatsbürgers mit den tatsächlich kriegführenden Systemen und damit
+  einen Blick auf die eigentliche Mechanik des Geschehens.
 
   Der gottlose Katholik Friedrich Nietzsche hat den Staat selbst einmal als
   "das kälteste aller kalten Ungeheuer" gekennzeichnet.
-  Der globalisierte Weltstaat dürfte dieses Ungeheuerliche übertreffen und
-  seine Struktur und Handeln nicht zu erkennen geben.
+  Der globalisierte Weltstaat dürfte dieses Ungeheuerliche übertreffen, 
+  und als hoch entwickelte Maschine seine Struktur und Handeln nicht zu 
+  erkennen geben.
 > *Der Höhepunkt militärischer Entfaltung findet sich im Formlosen: Weiset 
 >  keine Form auf und sogar der sinnestiefste Spion suchet Euch vergebens 
 >  und der Weise kann keine Pläne gegen Euch schmieden* (Sun Tzu).
 
-  Diese Situation macht eine Auseinandersetzung mit den grundlegenden
-  Werken der strategischen Kriegsführung unausweichlich. 
   Das Werk des Sun Tzu ist das wohl älteste Werk der Kriegsführung und
   entwickelt sich in dreizehn Kapiteln; dabei kommt es dem Autor kommt 
   nicht darauf an, eine Schlacht zu gewinnen: Er will den Gegner besiegen.
   Die Grundsätzlichkeit seiner Ausführungen ist auf jeden Gegner gerichtet.
-  Sie können also wie hier zum Verständnis des Angreifers dienen, als auch 
-  andererseits bei der Entwicklung einer Gegenstrategie helfen.
+  Sie eignen sich zum Verständnis des Angreifers und zur Entwicklung einer 
+  Gegenstrategie helfen.
 
 
 
@@ -72,6 +86,7 @@ journal: German Mechanical Research Group
 
 
 
+Dabei ist die Betrachtung der Gegner der Beginn aller Strategie:
 > *Wenn du weder den Feind noch dich selbst kennst, wirst du in jeder Schlacht 
 > unterliegen* (Sun Tzu).
 
