@@ -59,6 +59,7 @@ journal: Soft Mechanical Research
   dabei kommt es dem Autor nicht darauf an, eine Schlacht zu gewinnen: 
   Er will den Gegner besiegen.
   Die Grundsätzlichkeit seiner Ausführungen ist auf jeden Gegner gerichtet.
+
 > *Wenn du weder den Feind noch dich selbst kennst, wirst du in jeder Schlacht 
 > unterliegen* (Sun Tzu).
 
