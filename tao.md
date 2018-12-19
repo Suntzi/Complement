@@ -24,7 +24,7 @@ journal: Soft Mechanical Research
 >  die anderen zu Menschen, die einen zu Sklaven, die anderen zu Freien. 
 >
 >  Heraklits Zeitgenosse [Sun Tzu](#SunTzu) hat sich näher mit dem Phänomen 
->  "Krieg" befasst und beginnt seine "Kunst des Krieges" mit den 
+>  *Krieg* befasst und beginnt seine *Kunst des Krieges* mit den 
 >  eindrücklichen Worten: 
 
 >
@@ -35,21 +35,21 @@ journal: Soft Mechanical Research
 >
 
   Die Mechanisierung des Staatswesens, die auf der Übertragung des
-  Maschinenbegriffs mitsamt der mechanistischen Methode auf Gesellschaft und 
-  Staat beruht ([Leviathan, 1651](Hobbes1651)) entfaltet mit den jetzt 
-  entstandenen
-  [globalistischen Vorstellungen](https://de.wikipedia.org/wiki/Globalismus)
-  eine Kraft, die den Mensch selbst in den verfügbaren Bestand dieser Mechanik
-  [stellt](https://de.wikipedia.org/wiki/Martin_Heidegger#Technik_als_Gestell).
+  Maschinenbegriffs mitsamt seiner mechanistischen Methodik auf Gesellschaft 
+  und Staat beruht ([Leviathan, 1651](Hobbes1651)) entfaltet mit den jetzt 
+  entstandenen globalistischen
+  [Vorstellungen](https://de.wikipedia.org/wiki/Globalismus) die Kraft, 
+  den Menschen selbst in den verfügbaren Bestand ihrer Mechanik zu
+  [stellen](https://de.wikipedia.org/wiki/Martin_Heidegger#Technik_als_Gestell).
 
-  Ein erster vorläufigen Blick auf den so angelegten Konflikt wird mit Hilfe 
-  des weltweit angesehenen Analysten Warren Buffet möglich, der die großen 
-  Interessenkonflikte unserer Zeit einmal als *Klassenkrieg* bezeichnet 
-  ([Stein 2006](#Stein2006)) hat.  
-  Keinesfalls ist allerdings damit zu rechnen, das ein von einer Oligarchie der 
-  herrschenden Machtelite angetriebener Staatsapparat sich nun als [Feind seiner
+  Einen ersten vorläufigen Blick auf den so angelegten Konflikt ermöglicht 
+  der weltweit angesehene Analyst Warren Buffet, der die großen 
+  Interessenkonflikte unserer Zeit einmal als *Klassenkrieg* bezeichnet hat
+  ([Stein 2006](#Stein2006)).  
+  Keinesfalls ist nun damit zu rechnen, das ein von einer Oligarchie der 
+  herrschenden Machtelite angetriebener Staatsapparat sich als [Feind seiner
   Bürger](http://www.achgut.com/artikel/Der_staat_als_gegner_seiner_buerger) 
-  zu erkennen gibt.
+  zu erkennen gibt:
 
 > *Der Höhepunkt militärischer Entfaltung findet sich im Formlosen: Weiset 
 >  keine Form auf und sogar der sinnestiefste Spion suchet Euch vergebens 
