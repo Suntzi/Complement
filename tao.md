@@ -1,5 +1,5 @@
 ---
-date: 2018
+date: 2019
 tags: [Soft Power Technology, Social Engineering, Political Mechanics]
 author: Suntzi
 title: The Art of War in the Mechanical State
@@ -44,11 +44,12 @@ journal: Soft Mechanical Research
 
   Ein erster vorläufigen Blick auf den so angelegten Konflikt wird mit Hilfe 
   des weltweit angesehenen Analysten Warren Buffet möglich, der die großen 
-  Interessenkonflikte unserer Zeit einmal als "Klassenkrieg" bezeichnet 
+  Interessenkonflikte unserer Zeit einmal als *Klassenkrieg* bezeichnet 
   ([Stein 2006](#Stein2006)) hat.  
-  Keinesfalls ist aber damit zu rechnen, das ein von einer Oligarchie der 
-  herrschenden Machtelite angetriebener Staatsapparat sich als 
-  Feind seiner Bürger zu erkennen gibt.
+  Keinesfalls ist allerdings damit zu rechnen, das ein von einer Oligarchie der 
+  herrschenden Machtelite angetriebener Staatsapparat sich nun als [Feind seiner
+  Bürger](http://www.achgut.com/artikel/Der_staat_als_gegner_seiner_buerger) 
+  zu erkennen gibt.
 
 > *Der Höhepunkt militärischer Entfaltung findet sich im Formlosen: Weiset 
 >  keine Form auf und sogar der sinnestiefste Spion suchet Euch vergebens 
@@ -64,7 +65,7 @@ journal: Soft Mechanical Research
 > unterliegen* (Sun Tzu).
 
 <a name="I"></a>
-### Temet Nosce
+## Temet Nosce
 
   In der letzten Verfilmung des Platonischen Höhlengleichnisses, dem Film
   "Die Matrix" der Geschwister Wachowsky, ist es der Programmierer Neo, der 
@@ -124,36 +125,24 @@ journal: Soft Mechanical Research
   unverborgen Dinge erblickt, kann in die Höhle zurückkehren und sich an der
   Befreiung der dort Verbliebenen versuchen.
 
-
   Die zentrale Bedeutung des Orakels im Matrixfilm liegt darin, das es
   Neo dahin führt, seine Bestimmung von sich aus anzuerkennen.
   Die zunächst beiläufig vorgebrachte Antwort "Temet nosce!" -- erkenne dich 
   selbst -- ist das eigentliche Hauptmotiv und die entscheidende 
   Vorraussetzung, um gegen die Agenten der Matrix zu bestehen.
 
-
-<a name="II"></a>
-### II. The Global Governance Machinery
-
 > *Wenn du den Feind nicht kennst, doch dich selbst, wirst du
 > für jede Niederlage, die du erleidest, einen Sieg erringen* (Sun Tzu).
 
-
-
-
-
-
-
-
-
-
+<a name="II"></a>
+## II. The mechanical State
 
   Der [geistreiche Vielschwätzer](https://www.welt.de/print-welt/article257787)
   Adorno ([Adorno 1955](#Adorno1955)) hat einmal zu Oswald Spengler bemerkt,
   „es rächt sich der vergessene Spengler, indem er droht recht zu behalten“.
 
   Spengler schreibt, dass die Staaten und damit auch die Kriegsführung in die 
-  Hand von Konzernen und Großvermögen gelangen könnten.  
+  Hand von Konzernen und Großvermögen gelangen könnten.
   Sichtbarer Teil dieser Entwicklung ist heute der international ausgerichtete 
   Finanzkapitalismus, der rücksichtslos expandiert und dabei ganze 
   Volkswirtschaften umgestaltet. 
@@ -172,7 +161,7 @@ journal: Soft Mechanical Research
   nicht durch Ausgleich und Zugeständnis, sondern durch Sieg und Vernichtung. 
 
   Und tatsächlich ist ein System zum globalen Management aller menschlichen 
-  Ressourcen seit einiger Zeit im Enstehen begriffen. 
+  Ressourcen im Enstehen begriffen. 
   Diese "Global Governance" arbeitet für große ökonomische Ziele und soziale 
   Interessen und tritt gegen die in Europa bekannten Sozialstaaten an.
   Zwei wesentliche Schritte sind zur Verwirklichung erforderlich 
@@ -599,6 +588,16 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
 > *Wenn du den Feind und dich selbst kennst, besteht kein Zweifel an deinem 
 > Sieg; wenn du Himmel und Erde kennst, dann wird dein Sieg vollständig 
 > sein.* (Sun Tzu)
+
+
+
+
+
+
+
+
+
+
 
 
 ### XI. Die neun Situationen
