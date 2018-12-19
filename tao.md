@@ -1,15 +1,12 @@
 ---
 date: 2018
 tags: [Soft Power Technology, Social Engineering, Political Mechanics]
-author: Siegfried Sunderfeld
+author: Suntzi
 title: The Art of War in the Mechanical State
-journal: German Mechanical Research Group
+journal: Soft Mechanical Research
 ---
 
-
-
 >>> ![](png/sword.png) 
-
 
   [Die Kunst des Krieges im mechanischen Staat
   ](https://github.com/Suntzi/Complement/blob/master/tao.md)
@@ -37,59 +34,33 @@ journal: German Mechanical Research Group
 > Deshalb darf sie unter keinen Umständen vernachlässigt werden.*
 >
 
-  Obschon Wachstum der Bevölkerungen, Überlastung natürlicher Ressourcen
-  und Klimaerwärmung sehr grundlegende Probleme für jeden Staat darstellen, 
-  scheinen die globalen Verständigungsprozesse jedoch einer disparaten 
-  Mechanik zu gehorchen.
+  Die Mechanisierung des Staatswesens, die auf der Übertragung des
+  Maschinenbegriffs mitsamt der mechanistischen Methode auf Gesellschaft und 
+  Staat beruht ([Leviathan, 1651](Hobbes1651)) entfaltet mit den jetzt 
+  entstandenen
+  [globalistischen Vorstellungen](https://de.wikipedia.org/wiki/Globalismus)
+  eine Kraft, die den Mensch selbst in den verfügbaren Bestand dieser Mechanik
+  [stellt](https://de.wikipedia.org/wiki/Martin_Heidegger#Technik_als_Gestell).
 
-  In einer Zeit, in der zudem der Abbau des Sozialstaats, der Demokratie und 
-  der Redefreiheit einher gehen mit Desinformation, Meinungsmache und stetig
-  schlimmer werdender Vermögensverteilung von unten nach oben wird die
-  Frage nach dem inneren Charakter dieser Zersetzung unabdingbar.
+  Ein erster vorläufigen Blick auf den so angelegten Konflikt wird mit Hilfe 
+  des weltweit angesehenen Analysten Warren Buffet möglich, der die großen 
+  Interessenkonflikte unserer Zeit einmal als "Klassenkrieg" bezeichnet 
+  ([Stein 2006](#Stein2006)) hat.  
+  Keinesfalls ist aber damit zu rechnen, das ein von einer Oligarchie der 
+  herrschenden Machtelite angetriebener Staatsapparat sich als 
+  Feind seiner Bürger zu erkennen gibt.
 
-  Den im [Globalismus](https://de.wikipedia.org/wiki/Globalismus) angelegten 
-  Konflikt hat der weltweit angesehene Analyst Warren Buffet einmal als 
-  "Klassenkrieg" bezeichnet ([Stein 2006](#Stein2006)).  
-  Da es nun einen globalen Staat herkömmlicher und den europäischen 
-  Sozialstaaten vergleichbaren Prägung nicht gibt, 
-  die globale Weltmarktgesellschaft aber sehr wohl von einer Klasse überaus 
-  handlungsfähiger Konzerne beherrscht wird, soll hier in erster Annäherung 
-  die zerstörerische Mechanik dieser global vernetzten Maschinerie unter
-  den Bedingungen strategischer Kriegsführung betrachtet werden.
-
-  Im Gegensatz zur in der
-  [Analyse realer Kriege](https://swprs.org/jemenkrieg-und-medien)
-  gelegentlich vorgenommenen Konkretisierung der Kriegsgegner auf einzelne 
-  Staaten oder Staatenverbünde hin vermeidet dieser Ansatz die Verbindung
-  des Staatsbürgers mit den tatsächlich kriegführenden Systemen und damit
-  einen Blick auf die eigentliche Mechanik des Geschehens.
-
-  Der gottlose Katholik Friedrich Nietzsche hat den Staat selbst einmal als
-  "das kälteste aller kalten Ungeheuer" gekennzeichnet.
-  Der globalisierte Weltstaat dürfte dieses Ungeheuerliche übertreffen, 
-  und als hoch entwickelte Maschine seine Struktur und Handeln nicht zu 
-  erkennen geben.
 > *Der Höhepunkt militärischer Entfaltung findet sich im Formlosen: Weiset 
 >  keine Form auf und sogar der sinnestiefste Spion suchet Euch vergebens 
 >  und der Weise kann keine Pläne gegen Euch schmieden* (Sun Tzu).
 
-  Das Werk des Sun Tzu ist das wohl älteste Werk der Kriegsführung und
-  entwickelt sich in dreizehn Kapiteln; dabei kommt es dem Autor kommt 
-  nicht darauf an, eine Schlacht zu gewinnen: Er will den Gegner besiegen.
+  Das Werk des Sun Tzu ist die wohl älteste Beschreibung strategischer 
+  Kriegsführung und entwickelt sich in dreizehn Kapiteln; 
+  dabei kommt es dem Autor nicht darauf an, eine Schlacht zu gewinnen: 
+  Er will den Gegner besiegen.
   Die Grundsätzlichkeit seiner Ausführungen ist auf jeden Gegner gerichtet.
-  Sie eignen sich zum Verständnis des Angreifers und zur Entwicklung einer 
-  Gegenstrategie helfen.
-
-
-
-
-
-
-
-Dabei ist die Betrachtung der Gegner der Beginn aller Strategie:
 > *Wenn du weder den Feind noch dich selbst kennst, wirst du in jeder Schlacht 
 > unterliegen* (Sun Tzu).
-
 
 <a name="I"></a>
 ### Temet Nosce
@@ -165,6 +136,14 @@ Dabei ist die Betrachtung der Gegner der Beginn aller Strategie:
 
 > *Wenn du den Feind nicht kennst, doch dich selbst, wirst du
 > für jede Niederlage, die du erleidest, einen Sieg erringen* (Sun Tzu).
+
+
+
+
+
+
+
+
 
 
 
@@ -345,6 +324,7 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
 
 <a name="IV"></a>
 ### IV. Taktik 
+
 
 > *Soweit der Sieg durch Umstände errungen wurde, die nicht ans Licht kommen, 
 >  wird man den Kämpfer nicht wegen seiner Weisheit loben; und wenn sich der 
@@ -622,6 +602,10 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
 
 ### XI. Die neun Situationen
 
+> *Im Frieden bereite dich auf den Krieg vor, im Krieg bereite dich auf 
+> den Frieden vor* (Sun Tzu).
+
+
 
 
 ### XII. Angriff durch Feuer
@@ -762,6 +746,10 @@ _____________________________________________________________________________
   Hobbes, T. (1651). Leviathan. Cambridge [u.a.] : Cambridge Univ. Press,
   [1991](https://hds.hebis.de/ubmr/Record/HEB018507514).
 
+  <a name="Houllebecq2018"></a>
+  Houllebecq, M. (2018). Donald Trump Is a Good President.
+  [Harper's Magazine, 18.12.2018](https://harpers.org/archive/2019/01/donald-trump-is-a-good-president/)
+
   <a name="Johnstone2017"></a>
   Johnstone, D. (2017). *Von der Vielfalt zur Einfalt*.
   [16.12.2017](https://www.rubikon.news/artikel/von-der-vielfalt-zur-einfalt)
@@ -817,6 +805,9 @@ _____________________________________________________________________________
   In: Fink S., Rollinger R. (eds) Oswald Spenglers Kulturmorphologie. 
   Universal- und kulturhistorische Studien. [Studies in Universal and Cultural 
   History. Springer VS, Wiesbaden](https://doi.org/10.1007/978-3-658-14041-0_17)
+
+  <a name="Orwell1948"></a>
+  Orwell, G. (1948). [1984](https://www.youtube.com/watch?v=s7pbr0wxXBg).
 
   Oxfam (2018). *Reward Work, not Wealth*.
   [Oxfam](https://www.oxfam.de/ueber-uns/publikationen/reward-work-not-wealth)
