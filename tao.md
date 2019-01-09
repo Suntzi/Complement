@@ -1,7 +1,7 @@
 ---
 date: 2019
 tags: [Soft Power Technology, Social Engineering, Political Mechanics]
-author: Suntzi
+author: Susanne Zischka
 title: The Art of War in the Mechanical State
 journal: Soft Mechanical Research
 ---
@@ -19,47 +19,57 @@ journal: Soft Mechanical Research
 >  und erscheint auf dem Schlachtfeld der globalen Ökonomie, um von dort aus
 >  erneut die Völker der Welt zu erreichen.
 >  
->  Der Krieg aber ist der Vater aller Dinge, wie schon Heraklit, der Dunkle, 
+>  Der Krieg ist der Vater aller Dinge, wie schon Heraklit, der Dunkle, 
 >  zu Griechenlands besseren Zeiten bemerkte. Die einen macht er zu Göttern, 
 >  die anderen zu Menschen, die einen zu Sklaven, die anderen zu Freien. 
 >
->  Heraklits Zeitgenosse [Sun Tzu](#SunTzu) hat sich näher mit dem Phänomen 
->  "Krieg" befasst und beginnt seine "Kunst des Krieges" mit den 
+>  Heraklits Zeitgenosse [Sun Tzu](#SunTzu) hat sich genauer mit dem Phänomen 
+>  *Krieg* befasst und beginnt seine *Kunst des Krieges* mit den 
 >  eindrücklichen Worten: 
 
->
-> *Die Kunst des Krieges ist für den Staat von entscheidender Bedeutung. 
-> Sie ist eine Angelegenheit von Leben und Tod, eine Straße, die zur 
-> Sicherheit oder in den Untergang führt. 
-> Deshalb darf sie unter keinen Umständen vernachlässigt werden.*
->
+>>
+>> *Die Kunst des Krieges ist für den Staat von entscheidender Bedeutung. 
+>> Sie ist eine Angelegenheit von Leben und Tod, eine Straße, die zur 
+>> Sicherheit oder in den Untergang führt. 
+>> Deshalb darf sie unter keinen Umständen vernachlässigt werden.*
+>>
 
   Die Mechanisierung des Staatswesens, die auf der Übertragung des
-  Maschinenbegriffs mitsamt der mechanistischen Methode auf Gesellschaft und 
-  Staat beruht ([Leviathan, 1651](Hobbes1651)) entfaltet mit den jetzt 
-  entstandenen
-  [globalistischen Vorstellungen](https://de.wikipedia.org/wiki/Globalismus)
-  eine Kraft, die den Mensch selbst in den verfügbaren Bestand dieser Mechanik
-  [stellt](https://de.wikipedia.org/wiki/Martin_Heidegger#Technik_als_Gestell).
+  Maschinenbegriffs mitsamt seiner mechanistischen Methodik auf Gesellschaft 
+  und Staat beruht ([Leviathan, 1651](#Hobbes1651)) entfaltet mit den jetzt 
+  entstandenen globalistischen
+  [Vorstellungen](https://de.wikipedia.org/wiki/Globalismus) die Kraft, 
+  den Menschen selbst im und in den verfügbaren Bestand ihrer Mechanik zu
+  [stellen](https://de.wikipedia.org/wiki/Martin_Heidegger#Technik_als_Gestell).
 
-  Ein erster vorläufigen Blick auf den so angelegten Konflikt wird mit Hilfe 
-  des weltweit angesehenen Analysten Warren Buffet möglich, der die großen 
-  Interessenkonflikte unserer Zeit einmal als *Klassenkrieg* bezeichnet 
-  ([Stein 2006](#Stein2006)) hat.  
-  Keinesfalls ist allerdings damit zu rechnen, das ein von einer Oligarchie der 
-  herrschenden Machtelite angetriebener Staatsapparat sich nun als [Feind seiner
-  Bürger](http://www.achgut.com/artikel/Der_staat_als_gegner_seiner_buerger) 
-  zu erkennen gibt.
+  Einen ersten vorläufigen Blick auf den so angelegten Konflikt ermöglicht 
+  der weltweit angesehene Analyst Warren Buffet, der die großen 
+  Interessenkonflikte unserer Zeit einmal als *Klassenkrieg* bezeichnet hat
+  ([Stein 2006](#Stein2006)).  
+  Keinesfalls ist nun damit zu rechnen, das etwa eine vom Syndikat der 
+  Kriegsbanker angetriebene globale Staatsmaschine sich als Feind ihrer 
+  Bürger ([Eisleben 2018](#Eisleben2018b)) zu erkennen gibt. 
+  Denn Perfektion im Feldzug liegt darin, die eigene Gestalt zu verbergen:
 
 > *Der Höhepunkt militärischer Entfaltung findet sich im Formlosen: Weiset 
 >  keine Form auf und sogar der sinnestiefste Spion suchet Euch vergebens 
 >  und der Weise kann keine Pläne gegen Euch schmieden* (Sun Tzu).
 
-  Das Werk des Sun Tzu ist die wohl älteste Beschreibung strategischer 
-  Kriegsführung und entwickelt sich in dreizehn Kapiteln; 
+  Und doch revoltieren einige Bürger ([Tyler 2018](#Tyler2018)) gegen die 
+  bestehende politische und moralische Ordnung, erste Untersuchungen zum 
+  Kriegsgeschenen unserer Tage erscheinen ([Meggle 2019](#Meggle2019))
+  und humanitäre Erzählungen werden bezweifelt ([SWPR 2018](#Swpr2018)).
+  
+  Die wohl älteste und sehr grundsätzlich angelegte Konfliktanalyse findet 
+  sich nun im Werk des Sun Tzu. 
+  Sun Tzu entwickelt seine Ausführungen in dreizehn Kapiteln; 
   dabei kommt es dem Autor nicht darauf an, eine Schlacht zu gewinnen: 
-  Er will den Gegner besiegen.
-  Die Grundsätzlichkeit seiner Ausführungen ist auf jeden Gegner gerichtet.
+  Er will den Gegner besiegen, und seine Ausführungen richten sich gegen
+  jeden Gegner.
+
+  Den ersten hier veröffentlichten 7 Abschnitten dieser Groteske werden 
+  6 weitere folgen, Aktualisierung und Mitarbeit ist für jeden möglich,
+  der *Markdown* und *Github* kennt ([Suntzi 2019](#self)). 
 
 > *Wenn du weder den Feind noch dich selbst kennst, wirst du in jeder Schlacht 
 > unterliegen* (Sun Tzu).
@@ -67,7 +77,10 @@ journal: Soft Mechanical Research
 <a name="I"></a>
 ## Temet Nosce
 
-  In der letzten Verfilmung des Platonischen Höhlengleichnisses, dem Film
+> *Wenn du den Feind nicht kennst, doch dich selbst, wirst du
+> für jede Niederlage, die du erleidest, einen Sieg erringen* (Sun Tzu).
+
+  In der letzten Verfilmung des Platon'schen Höhlengleichnisses, dem Film
   "Die Matrix" der Geschwister Wachowsky, ist es der Programmierer Neo, der 
   nach seiner Verfolgung durch den Geheimagenten Smith vom Rebellen Morpheus 
   erfährt, wie es wirklich um die Menschen steht: Der Kampf gegen die Maschinen
@@ -122,50 +135,32 @@ journal: Soft Mechanical Research
   Menschen als tief unterirdisch beschrieben, sie sind nur zur Wahrnehmung 
   verwackelter Schatten, die das Fackellicht auf die Felswände wirft, befähigt.
   Erst Derjenige, der die Höhle verlässt und draußen in der Lichtung die nun
-  unverborgen Dinge erblickt, kann in die Höhle zurückkehren und sich an der
-  Befreiung der dort Verbliebenen versuchen.
+  unverborgen Dinge erblickt, kann in die Höhle zurückkehren und sich an
+  Aufklärung und Befreiung der dort Verbliebenen versuchen.
 
-  Die zentrale Bedeutung des Orakels im Matrixfilm liegt darin, das es
+  Die zentrale Bedeutung des Orakels im Matrixfilm liegt nun darin, das es
   Neo dahin führt, seine Bestimmung von sich aus anzuerkennen.
-  Die zunächst beiläufig vorgebrachte Antwort "Temet nosce!" -- erkenne dich 
-  selbst -- ist das eigentliche Hauptmotiv und die entscheidende 
+  Die zunächst beiläufig vorgebrachte Antwort "Temet nosce!" *- erkenne dich 
+  selbst -* ist das eigentliche Hauptmotiv und die entscheidende 
   Vorraussetzung, um gegen die Agenten der Matrix zu bestehen.
 
-> *Wenn du den Feind nicht kennst, doch dich selbst, wirst du
-> für jede Niederlage, die du erleidest, einen Sieg erringen* (Sun Tzu).
-
 <a name="II"></a>
-## II. The mechanical State
+## II. Der mechanische Staat
 
-  Der [geistreiche Vielschwätzer](https://www.welt.de/print-welt/article257787)
-  Adorno ([Adorno 1955](#Adorno1955)) hat einmal zu Oswald Spengler bemerkt,
-  „es rächt sich der vergessene Spengler, indem er droht recht zu behalten“.
+> *Wer den Gegner kennt und sich selbst muß den Ausgang von hundert 
+>  Schlachten nicht fürchten* (Sun Tzu).
 
-  Spengler schreibt, dass die Staaten und damit auch die Kriegsführung in die 
-  Hand von Konzernen und Großvermögen gelangen könnten.
-  Sichtbarer Teil dieser Entwicklung ist heute der international ausgerichtete 
-  Finanzkapitalismus, der rücksichtslos expandiert und dabei ganze 
-  Volkswirtschaften umgestaltet. 
+  Der gottlose Katholik Friedrich Nietzsche hat den Staat selbst einmal als
+  "das kälteste aller kalten Ungeheuer" gekennzeichnet.
 
-  Auch der Mensch selbst wird umgestaltet: Neben der Expansion in die Breite 
-  hat also dieses Prinzip eine Tiefenwirkung in die Psyche des einzelnen.
-  Der um sich greifende Finanzkapitalismus reduziert die Komplexität des Lebens
-  tatsächlich auf ein einziges „gestaltendes Prinzip“, eine einzige Zahl: 
-  die Rendite ([Otte 2018](#Otte2018)).
-
-  Zivilisation bezeichnet nun die Stufe einer Kultur, auf welcher Tradition 
-  und Persönlichkeit ihre unmittelbare Geltung verloren haben und jede Idee 
-  zunächst in Geld umgedacht werden muss, um verwirklicht zu werden.
-  Die echte Internationale ist dann Imperialismus, Beherrschung der faustischen 
-  Zivilisation, also der ganzen Erde, durch ein einziges gestaltendes Prinzip, 
-  nicht durch Ausgleich und Zugeständnis, sondern durch Sieg und Vernichtung. 
-
-  Und tatsächlich ist ein System zum globalen Management aller menschlichen 
-  Ressourcen im Enstehen begriffen. 
-  Diese "Global Governance" arbeitet für große ökonomische Ziele und soziale 
-  Interessen und tritt gegen die in Europa bekannten Sozialstaaten an.
-  Zwei wesentliche Schritte sind zur Verwirklichung erforderlich 
-  ([Kjos 2006](#Kjos2006)):
+  Obschon ein globaler Staat formal nicht existiert, wird doch die kalte 
+  Mechanik zur Organisation aller menschlichen Ressourcen im weltweiten 
+  Maßstab sichtbar und lässt sich als hoch entwickelte Struktur und 
+  wirkmächtige Maschine verstehen.
+  Die "Global Governance" dieses Apparates arbeitet für große ökonomische 
+  Ziele und soziale Interessen und tritt gegen die in Europa bekannten 
+  Sozialstaaten an.
+  Zwei wesentliche Schritte sind erkennbar: ([Kjos 2006](#Kjos2006)):
 
    - Installation eines effektiven Systems zum globalen Management, welches 
      die Nationen der Welt durch "demokratisch" erscheinende Prozesse
@@ -177,10 +172,10 @@ journal: Soft Mechanical Research
      Arbeitskräften zu organisieren. 
 
 Die Transformation bestehender Strukturen in die Verfügungsgewalt dieses
-  Systems erfolgt durch:
+  internationalen Systems erfolgt durch:
 
    - Die Neuverteilung humanitärer und finanzieller Ressourcen 
-     durch Migration und international arbeitender Wirtschaftskonzerne.
+     durch Migration und international arbeitende Wirtschaftskonzerne.
    - Ein weltweit einheitliches Ausbildungssystem, welches sowohl
      soziale als auch die für ein Arbeitsleben erforerlichen Fähigkeiten
      standardisiert.
@@ -188,48 +183,11 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieses
    - Eine Zivilgesellschaft, die auf eine kulturelle und religiöse 
      Synthese hinarbeitet.
 
-Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the 
-  20th century a power structure between London and New York which penetrated 
-  deeply into university life, the press, and the practice of foreign policy. 
-  The American branch of this 'English Establishment' exerted much of its 
-  influence through five American newspapers (New York Times and Herald 
-  Tribune, Christian Science Monitor, Washington Post...) 
-  ([Quigley 1966](#Quigley1966)).
-
-  Die Installation einer solchen "Global Governance" festigt die Herrschaft 
-  des Kapitals unter der Bedingung des Totalkapitalismus in einer globalen 
-  Feudalherrschaft. 
-  Die dazu in Gang gesetzte Maschine hinterlässt Spuren: Renten werden 
-  besteuert und verkleinert, Wohnungen werden unbezahlbar und Meinungen 
-  einheitlich.
-  Dafür nimmt die Konzentration von Reichtum in den Händen weniger ständig zu.
-  ([Oxfam 2018](#Oxfam2018)).  
-  "Alles für uns selbst und nichts für andere scheint zu allen Zeiten die
-  niederträchtige Maxime der Herren der Welt gewesen zu sein."
-  (Adam Smith, Wohlstand der Nationen, 1776).
-
-  Die Struktur des globalen Netzwerkes internationaler Konzerne lässt sich
-  auch anhand ihrer finanziellen Beteiligungsverhältnisse darstellen.
-  Vitali et. al. ([2011](#Vitali2011)) verwenden zur quantitativen Analyse 
-  dieses Netzwerkes eine "ownership matrix", in der für jede Komponente der 
-  Matrix der Eigentumsanteil eines Beteilgten an einer Firma notiert wird.
-  Es zeigt sich, das ein kleiner Kern eng miteinander verbundender 
-  Finanzinstitutionen einen sehr großer Teil der transnationalen
-  Organsiationen kontrolliert. 
-
-  Dieses sogenannte Phänomen des "Clubs der Reichen" beschreibt die Tendenz
-  "mächtiger" Knoten, in komplexen Netzwerken miteinander verbunden zu sein.
-
-  Einer der schärfsten Kritiker der "westlichen Wertegemeinschaft, der
-  Linguist Noam Chomsky, beschreibt das Bild eines "Kapitalismus ohne 
-  mensches Antlitz" ([Chomsky 2000](#Chomsky2000)). 
-  Je mehr Seiten man in seinem Werken liest, umso weniger kann man sich 
-  des Eindrucks erwehren, dass die Globalisierung ihr menschliches Antlitz 
-  verloren hat – und dies nicht erst seit das spekulative dem realen Kapital 
-  den Rang abgelaufen hat. 
-
-
-
+Dieses wirkmächtige System globaler Organisation mit allen damit 
+  verbundenen Suborganisationen, poltischen Abhängigkeiten und medialen
+  Einflußnahmen wird hier ohne weitere Konkretisierung als mechanischer
+  Staat bezeichnet. Dieser verwendet die bekannten Wirkmechanismen zur
+  politischen Einflußnahme und menschlichen Willensbildung für seine Zwecke.
 
   Der Soziologen Bernd Hamm ([2014](#Hamm2014)) geht einen Schritt weiter 
   und beschreibt einen Oligarchenkomkomplex aus Superreichen, CEOs und 
@@ -237,38 +195,55 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
   in Politik, Militär, Medien und Think Tanks, die er als "Dunkler Staat" 
   bezeichnet.
 
-  In den USA existiert eine Diskussion und Spekulation über einen 
-  "Tiefen Staat" schon etwas länger als in Europa ([Storm Is Upon Us](#Q2018)).
-  Auch Helmut Schmidt sprach einmal von "Staatsterrorismus" 
-  ([Lorenzo 2007](#Lorenzo2007)), was sich durchaus auch als Verdacht auf ein 
-  mit dem Staat eng verbundenes Verbrechersyndikat verstehen lässt.
+  Die konkrete Struktur des globalen Netzwerkes internationaler Konzerne lässt 
+  sich anhand ihrer finanziellen Beteiligungsverhältnisse darstellen.
+  Vitali et. al. ([2011](#Vitali2011)) verwenden zur quantitativen Analyse 
+  dieses Netzwerkes eine "ownership matrix", in der für jede Komponente der 
+  Matrix der Eigentumsanteil eines Beteiligten an einer Firma notiert wird.
+  Es zeigt sich, das ein kleiner Kern eng miteinander verbundender 
+  Finanzinstitutionen einen sehr großen Teil aller transnationalen
+  Organsiationen kontrolliert. 
+  Es zeigt sich also das sogenannte Phänomen des "Clubs der Reichen", das die 
+  Tendenz "mächtiger" Knoten beschreibt, selbst in komplexen Netzwerken stark
+  miteinander verbunden zu sein.
 
-  Ob dieses Syndikat existiert und einen globalen Krieg gegen die Menschheit 
-  führt, ob der deregulierte Kapitalismus in Form grosser Kapitalmassen auch 
-  ohne weitere personale Konkretisierung einen eigenen Willen zur Macht 
-  entwickelt oder ob ein abstraktes Wirkprinzip mit dem schillernden Namen
+  Helmut Schmidt sprach einmal von "Staatsterrorismus" 
+  ([Lorenzo 2007](#Lorenzo2007)), was als Hinweis auf ein bestehendes
+  machtvolles und global agierendes Verbrechersyndikat verstanden werden kann.
+  Ob dieses Syndikat existiert oder ob der deregulierte Kapitalismus in 
+  Form grosser Kapitalmassen auch ohne weitere personale Konkretisierung 
+  einen eigenen Willen zur Macht entwickelt und unter dem schillernden Namen
   "Neoliberlismus" ([Ptak 2018](#Ptak2018)) sein Unwesen treibt - 
   es dürfte von einiger Wichtigkeit sein, diese Phänomene und ihre
   Prinzipien genauer kennenzulernen.
 
-
 <a name="III"></a>
 ### III. Das Schwert in der Scheide
-
-> *Wer den Gegner kennt und sich selbst kennt muß den Ausgang von hundert 
->  Schlachten nicht fürchten* (Sun Tzu).
 
 > *In all deinen Schlachten zu kämpfen und zu siegen ist nicht die größte 
 > Leistung. Die größte Leistung besteht darin, den Widerstand des Feindes 
 > ohne einen Kampf zu brechen* (Sun Tzu).
 
+  Der pflichtversessene Pedant Immanuel Kant hat in seiner Schrift 
+  *Zum ewigen Frieden* ([1795](#Kant1795)) bereits die grundlegenden
+  Ideen des Völkerrechts, die Verbindlichkeit zwischenstaatlicher Abkommen 
+  und die Ausrichtung des Friedens als völkerrechtlichen Vertrag formuliert.
+  Dabei ist ihm die vernunftbegabten Wesen eingebaute Doppelmoral nicht 
+  entgangen, die darin besteht, die Einhaltung allgemeiner Gesetze zu
+  verlangen und selbst aber bereit zu sein, sich insgeheim davon auszunehmen.
+  Gegen Doppelmoral hilt Recht:
+  Die Möglichkeit zum ewigen Frieden beruht deshalb auf einem Förderalismus
+  freier Staaten, die sich im Rechtszustand befinden und zum Wohle ihrer
+  Bürger handeln, also die bürgerliche Moral auf das Staatswesen fortsetzen.
 
-  Infiltration, Subversion, Propaganda und verdecktes militärisches Vorgehen
-  haben nicht die Vernichtung des gegnerischen Militärs und die Zerstörung 
-  seines Arsenals als Ziel, sondern die Durchsetzung politischer Ziele durch 
-  offene und verdeckte Beeinflussung des ideologischen, wirtschaftlichen, 
-  gesellschaftlichen und politischen Umfeldes mit zivilen und militärischen 
-  Mitteln.
+  Völlig übersehen hat Kant jedoch, daß die wirklich maßgeblichen Kräfte
+  überhaupt keinen Wert in der Moral sehen wollen. Sie ist vielmehr das
+  unsichtbare Schwert, das die Macht über die Köpfe erringt.
+
+>> »Aber, wenn es um die Machenschaften der Mächtigen geht, sind wir 
+>> anderen und früheren Gesellschaften nur zu ähnlich. Es gibt eine 
+>> gnadenlose Brutalität der Macht, die auf der ganzen Welt und über die 
+>> gesamte Geschichte hinweg bekannt ist.« David Talbot
 
   Walther Lippmanns schon 1922 erschienenes Buch „Public Opinion“ gilt als 
   Klassiker in der Kunst der Beeinflussung der öffentlichen Meinung. 
@@ -281,61 +256,68 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
   der äußeren Welt verbunden sind. Durch mediale Manipulation durch
   "Meinungsführer" wie Nachrichtensprecher, Kommentatoren und Medienstars
   sind Menschen  (ver-)formbar und ihre Meinung kann gesteuert werden.
-  Im poltischen Bereich bedeutet das, das eine Meinungssteuerung möglich ist,
+  Im poltischen Bereich bedeutet das, das eine Meinungssteuerung möglich
   und ein "öffentliche Wille“ nach Lippmann bewusst und gezielt hergestellt 
   werden kann.
   In einer so gelenkten Demokratie ist es möglich, dass diejenigen politischen 
   Repräsentanten, die durch ihre Politik in die Krise geführt haben, eine 
   Mehrheit erlangen und weiter machen können wie zuvor ([Lieb 2009](#Lieb2009)).
 
-  Die manipulativen Möglichkeiten sind enorm und erlauben es, das 
-  katastrophale Scheitern des Marktradikalismus und der Deregulierungsideologie
-  unerkannt zu lassen. 
+  Die manipulativen Möglichkeiten sind enorm und erlauben es, das katastrophale
+  Scheitern des Marktradikalismus und der Deregulierungsideologie unerkannt zu 
+  lassen. 
   Öffentliche Diskussionen über die Verwandlung eines funktionierenden 
-  Staatwesens in ein Shithole-Country werden effektiv 
-  unterbunden ([Berger 2018](#Berger2018)).
-
+  Staatwesens in ein Shithole-Country werden effektiv unterbunden 
+  ([Berger 2018](#Berger2018)).
 
   Im "Klassenkrieg von oben" ist ein selbstbewußtes und gebildetes Volk der 
-  größte Gegner. Damit dieser Kampf ohne Widerstand gewonnen und der
-  Staat unbemerkt zum "Gegner seiner Bürger" ([Eisleben 2018](#Eisleben2018b))
-  werden kann, kommt es zu einer "Ausweitung der Moralkampfzone" 
-  ([Wendt 2018](#Wendt2018)) in allen Medien.
-  Damit entsteht in den Köpfen ein *naiver Humanismus*, der den Charakter 
+  größte Gegner. 
+  Mit der "Ausweitung der Moralkampfzone" ([Wendt 2018](#Wendt2018)) in allen 
+  Medien entsteht in den Köpfen ein *naiver Humanismus*, der den Charakter 
   eines Glaubens an die Möglichkeit zur Schaffung einer grenzenlosen 
   Weltgesellschaft mit umfassenden Friedens- und Wohlstandsversprechen besitzt.
   Die so implementierte Ideologie verdeckt die Enteignung und ermöglicht den 
-  Staatsverfall ([Eisleben 2018](Eisleben2018c)). 
-
-
-
-
-
+  Verfall der europäischen Sozialstaaten ([Eisleben 2018](Eisleben2018c)). 
 
 <a name="IV"></a>
 ### IV. Taktik 
-
 
 > *Soweit der Sieg durch Umstände errungen wurde, die nicht ans Licht kommen, 
 >  wird man den Kämpfer nicht wegen seiner Weisheit loben; und wenn sich der 
 >  feindliche Staat unterwirft, ehe ein Tropfen Blut geflossen ist, wird man 
 >  ihn nicht für seinen Mut rühmen* (Sun Tzu).
 
+  Schon der Okkultist Karl Marx hat sich im Aufdecken und kognitiven
+  Verarbeiten realer Widersprüche versucht ([Jellen 2019](#Jellen2019)).
+  Seinerzeit war jedoch noch nicht abzusehen, das der Interessens- und 
+  Aktionshorizont des großen Kapitals nicht mehr nationalstaatlich ausgerichtet
+  ist; "es dominiert unter dem Mantel von global governance eine 
+  profitstrategische (Verflechtungs-)Orientierung in unterschiedlichste 
+  Herrschafts- und Kulturregionen hinein; die multinational zusammengesetzten 
+  Konzerne sind "divers" und "bunt" zusammengesetzt und gieren nach 
+  unbegrenzter Offenheit für den ungehinderten Fluss von Geld, Waren, 
+  Dienstleistungen und variablem Kapital, also Arbeitskräfte."
+  Die sich gerne als Marxisten tarnenden angeblichen "Linksparteien" befinden 
+  sich "im ideologischen Mahlstrom des bunten globalkapitalistischen 
+  Herrschaftskartells."
+
   Der Club der globalen Großkonzerne, der die postkapitalistische Maschine
   antreibt und deren Vertreter sich jährlich in Davos zu einem Stelldichein 
-  zusammenfinden, hat enormen politischen Einfluss 
+  zusammenfinden, hat enormen politischen Einfluss gewonnen
   ([Häring 2018](#Haering2018)).
-  "Diesen hat er intensiv, planmäßig und erfolgreich genutzt, um bei 
-  den Vereinten Nationen und den Regierungen für mehr Migration, niedrigere 
-  Löhne und weniger Sozialstaat zu werben. Der UN-Migrationspakt, den die 
-  Bundesregierung im Dezember mit unterschreiben will, ist eine Frucht dieser 
-  Arbeit."
+  "Diesen hat er intensiv, planmäßig und erfolgreich genutzt, um bei den 
+  Vereinten Nationen und den Regierungen für mehr Migration, niedrigere Löhne 
+  und weniger Sozialstaat zu werben." 
+  Der UN-Migrationspakt, der keinerlei Ursachen für Migration benennt sondern
+  diese in den Dienst der Kapitalinteressen stellt, ist eine Frucht dieser 
+  Arbeit.
 
   Versetzt man sich in die wahnwitzigen Gedankenwelt der Machteliten, die die
-  Kontrolle über jedes Land der Erde anstreben, dann müsste die Entwicklung 
+  Kontrolle über jedes Land der Erde anstreben, dann muß die Entwicklung 
   logischerweise durch die sukzessive Auflösung der Souveränität der 
   Nationalstaaten vorangetrieben werden.
 
+  Dabei spielt die EU als Vorstufe zu einer Weltregierung eine Vorreiterrolle.
   Schon der Umbbau der EU in eine "demkoratiefreien Herrschaftsarchitektur"
   ([Wehr 2016](http://www.andreas-wehr.eu/der-eu-retter.html)) bedarf der 
   Überwindung der nationalen Identitäten in den Mitgliedsstaaten.
@@ -367,10 +349,6 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
   internationalen Rechts, der Humanität und auch wegen der teilweisen 
   Komplizenschaft der eigenen Regierung nur schwer wehren können"
   ([Ludwig 2016](#Ludwig2016)).
-
-
-  
-
 
 <a name="V"></a>
 ### V. Energie 
@@ -405,19 +383,8 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
   kann diese Reform nur noch schwer Rückgängig gemacht werden.
   Die Umstellung und Verkürzung der Schulzeit bis zum Abitur von dreizehn 
   auf zwölf Jahre geht zurück auf ökonomische Überlegungen der 
-  Bertelsmann-Stiftung und trägt ebenfalls zum Bildungsabbau bei.
-  Die Umstellung und Angleichung der Hochschulbildung durch die Bolognaprozesse
-  geht zurück auf Entscheidungen der EU.
-
-  Die beteiligten Organisationen zielen mit ihrer Arbeit auf die Erzeugung 
-  einer einheitlichen Denkweise in ökonomischen Fragen ab.
-  Der ökonomische Imperialismus als methodisch einzige Weltsicht soll demnach 
-  zur allgemeinen Einstellung werden. 
-  Eine solche Vereinheitlichung von Vorstellungen hatte Walter Lippmann als 
-  »manufacturing of consent« beschrieben.
-
-
-
+  Bertelsmann-Stiftung, die Umstellung und Angleichung der Hochschulbildung 
+  durch die Bolognaprozesse geht zurück auf Entscheidungen der EU.
 
 
 <a name="VI"></a>
@@ -491,6 +458,9 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
   Gesetzesvorhaben Bundesteilhabegesetz und SGB VIII (Kinder- und Jugendhilfe) 
   zeigen.
 
+> *Oh, die göttliche Kunst der Geschicklichkeit und Verstohlenheit! 
+> Durch sie lernen wir, unsichtbar zu sein, durch sie sind wir unhörbar, 
+> und damit halten wir das Schicksal des Feindes in unserer Hand.* (Sun Tzu)
 
 <a name="VII"></a>
 ### VII. Manöver 
@@ -498,9 +468,10 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
 > *Siegen wird, wer den Kunstgriff der Täuschung beherrscht. 
 > Dies ist die Kunst des Manövrierens* (Sun Tzu).
 
-  Schon der Okkultist Georg Friedrich Wilhelm Hegel, Stammvater aller Linken,
-  beschied einem Studenten, der ihn auf den Widerspruch einer seiner Theorien 
-  mit der Wirklichkeit hinwies: „Umso schlimmer für die Wirklichkeit“. 
+  Schon der unwissende Scharlatan Georg Friedrich Wilhelm Hegel, Stammvater 
+  aller Linken, beschied einem Studenten, der ihn auf den Widerspruch einer 
+  seiner Theorien mit der Wirklichkeit hinwies: 
+  „Umso schlimmer für die Wirklichkeit“. 
 
   Diana Johnstone ([2017](#Johnstone2017)) beschreibt die doppelte Täuschung 
   der politischen Linken, die nicht nur den wahren Charakter des 
@@ -517,26 +488,6 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
   Anarchisten und den kapitalistischen Globalisierern liegt in der Wahrnehmung
   der Kräfteverhältnisse, die von ersteren ignoriert werden, während letztere 
   sie aktiv gestalten."
-
-  "Wenn man ins Bett macht, ist es erst warm, dann wird es kalt".
-  So ergeht es wohl nicht nur dem jungen Künstler ([Joyce 1916](#Joyce1916)), 
-  betroffen sind nun die gutmeinenden linken Zeitgenossen.
-
-  Skepsis gegenüber Migranten und Ausländern ist im Menschen tief verwurzelt, 
-  das ist weltweit der Fall, und keine Besonderheit der Deutschen, sondern hat 
-  evolutionsbiologische Ursachen. Das muss man nicht gut finden, man sollte es 
-  aber zur Kenntnis nehmen. Ob das dann gleich in Rassismus umschlägt, muss 
-  man im Einzelfall sehen, und dann sicher dagegen vorgehen.
-
-  Ich sehe aber nicht, wieso jemand, der wahllose Migration ablehnt, ein 
-  Rassist sein sollte. Das ist weder logisch begründbar, noch sinnvoll, 
-  sondern dient einzig und alleine der Diskreditierung und Diskriminierung 
-  dieser Person.
-
-
-
-
-
 
 <a name="VIII"></a>
 ### VIII. Taktische Varianten
@@ -596,10 +547,6 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
 
 
 
-
-
-
-
 ### XI. Die neun Situationen
 
 > *Im Frieden bereite dich auf den Krieg vor, im Krieg bereite dich auf 
@@ -610,6 +557,11 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
 
 ### XII. Angriff durch Feuer
 
+> *Bewege dich nicht, wenn du keinen Vorteil siehst; setze deine Truppen nicht 
+> ein, wenn es nichts zu gewinnen gibt; kämpfe nicht, wenn die Lage nicht 
+> kritisch ist. 
+> Ein Königreich, das einmal zerstört wurde, kann nie wieder errichtet werden; 
+> und auch die Toten können nicht ins Leben zurückgeholt werden* (Sun Tzu).
 
 ### XIII. Der Einsatz von Spionen
 
@@ -624,10 +576,110 @@ Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the
   nichterklärten totalen Krieg beschreibt.
 
 
+<!--
+
+
+
+
+  Der [geistreiche Vielschwätzer](https://www.welt.de/print-welt/article257787)
+  Adorno ([Adorno 1955](#Adorno1955)) hat einmal zu Oswald Spengler bemerkt,
+  „es rächt sich der vergessene Spengler, indem er droht recht zu behalten“.
+
+  Spengler schreibt, dass die Staaten und damit auch die Kriegsführung in die 
+  Hand von Konzernen und Großvermögen gelangen könnten.
+  Sichtbarer Teil dieser Entwicklung ist heute der international ausgerichtete 
+  Finanzkapitalismus, der rücksichtslos expandiert und dabei ganze 
+  Volkswirtschaften umgestaltet. 
+
+  Auch der Mensch selbst wird umgestaltet:
+  Der um sich greifende Finanzkapitalismus reduziert die Komplexität des Lebens
+  tatsächlich auf ein einziges „gestaltendes Prinzip“, eine einzige Zahl: 
+  die Rendite ([Otte 2018](#Otte2018)).
+  Neben der Expansion in die Breite entfaltet also dieses Prinzip eine 
+  Tiefenwirkung bis in die Psyche des einzelnen hinein.
+
+  Zivilisation bezeichnet nun die Stufe einer Kultur, auf welcher Tradition 
+  und Persönlichkeit ihre unmittelbare Geltung verloren haben und jede Idee 
+  zunächst in Geld umgedacht werden muss, um verwirklicht zu werden.
+  Die echte Internationale ist dann Imperialismus, Beherrschung der faustischen 
+  Zivilisation, also der ganzen Erde, durch ein einziges gestaltendes Prinzip, 
+  nicht durch Ausgleich und Zugeständnis, sondern durch Sieg und Vernichtung. 
+
+  Professor Carrol Quigley schrieb in "Tragedy and Hope": "There grew up in the 
+  20th century a power structure between London and New York which penetrated 
+  deeply into university life, the press, and the practice of foreign policy. 
+  The American branch of this 'English Establishment' exerted much of its 
+  influence through five American newspapers (New York Times and Herald 
+  Tribune, Christian Science Monitor, Washington Post...) 
+  ([Quigley 1966](#Quigley1966)).
+
+  Die Installation einer solchen "Global Governance" festigt die Herrschaft 
+  des Kapitals unter der Bedingung des Totalkapitalismus in einer globalen 
+  Feudalherrschaft. 
+  Die dazu in Gang gesetzte Maschinerie hinterlässt Spuren: Renten werden 
+  besteuert und verkleinert, Wohnungen werden unbezahlbar und Meinungen 
+  einheitlich.
+  Dafür nimmt die Konzentration von Reichtum in den Händen weniger ständig zu.
+  ([Oxfam 2018](#Oxfam2018)).  
+  "Alles für uns selbst und nichts für andere scheint zu allen Zeiten die
+  niederträchtige Maxime der Herren der Welt gewesen zu sein."
+  (Adam Smith, Wohlstand der Nationen, 1776).
+
+  Einer der schärfsten Kritiker der "westlichen Wertegemeinschaft, der
+  Linguist Noam Chomsky, beschreibt das Bild eines "Kapitalismus ohne 
+  mensches Antlitz" ([Chomsky 2000](#Chomsky2000)). 
+  Je mehr Seiten man in seinem Werken liest, umso weniger kann man sich 
+  des Eindrucks erwehren, dass die Globalisierung ihr menschliches Antlitz 
+  verloren hat – und dies nicht erst seit das spekulative dem realen Kapital 
+  den Rang abgelaufen hat. 
+
+
+
+
+  In den USA existiert eine Diskussion und Spekulation über einen 
+  "Tiefen Staat" schon etwas länger als in Europa ([Storm Is Upon Us](#Q2018)).
+
+  Demokratie, selbstbestimmte und denkende Menschen und Gesellschaften wie 
+  sie sich in Europa gebildet haben, die man langfristig nicht mehr so einfach 
+  beherrschen und desinformieren kann, die sich nicht an die Kehle gehen 
+  wegen Glauben oder ähnlichem, diese Eurpäer sind nun allerdings ein Stein
+  im Weg auf dem sollen aufgeweicht und vernichtet werden.
+
+
+  Infiltration, Subversion, Propaganda und verdecktes militärisches Vorgehen
+  haben nicht die Vernichtung des gegnerischen Militärs und die Zerstörung 
+  seines Arsenals als Ziel, sondern die Durchsetzung politischer Ziele durch 
+  offene und verdeckte Beeinflussung des ideologischen, wirtschaftlichen, 
+  gesellschaftlichen und politischen Umfeldes mit zivilen und militärischen 
+  Mitteln.
+
+
+
+
+
+
+  
+
+
+
+  "Wenn man ins Bett macht, ist es erst warm, dann wird es kalt".
+  So ergeht es wohl nicht nur dem jungen Künstler ([Joyce 1916](#Joyce1916)), 
+  betroffen sind nun die gutmeinenden linken Zeitgenossen.
+
+  Skepsis gegenüber Migranten und Ausländern ist im Menschen tief verwurzelt, 
+  das ist weltweit der Fall, und keine Besonderheit der Deutschen, sondern hat 
+  evolutionsbiologische Ursachen. Das muss man nicht gut finden, man sollte es 
+  aber zur Kenntnis nehmen. Ob das dann gleich in Rassismus umschlägt, muss 
+  man im Einzelfall sehen, und dann sicher dagegen vorgehen.
+
+  Ich sehe aber nicht, wieso jemand, der wahllose Migration ablehnt, ein 
+  Rassist sein sollte. Das ist weder logisch begründbar, noch sinnvoll, 
+  sondern dient einzig und alleine der Diskreditierung und Diskriminierung 
+  dieser Person.
+
+-->
+
 _____________________________________________________________________________
-
-
-
 
 
 
@@ -699,6 +751,10 @@ _____________________________________________________________________________
   Privatisierung*, 
   in: [WSI-Mitteilungen 10/2008](https://www.boeckler.de/22126_22129.htm)
 
+  <a name="Tyler2018"></a>
+  Tyler, D. (2018). *A European Spring?* [Zero Hedge 28.12.2018
+  ](https://www.zerohedge.com/news/2018-12-27/european-spring)  
+
   <a name="Eisleben2018a"></a>
   Eisleben, J. (2018). [Merkels Masterplan
   ](http://www.achgut.com/artikel/der_masterplan_dser_angela_merkel)
@@ -714,6 +770,10 @@ _____________________________________________________________________________
 
   Jasinna (2018), *Die Flüchtlings-Macher*.
   [You Tube](https://www.youtube.com/watch?v=nsCBN4sHHSA).
+
+  <a name="Jellen2019"></a>
+  Jellen, R. (2019). *Aufdecken und kognitives Verarbeiten von realen 
+  Widersprüchen*. [Telepolis 3.1.2019](https://heise.de/-4252407)
 
   <a name="Ludwig2016"></a>
   Ludwig, H. (2016). *Globale Planung der Massenmigration*.
@@ -753,6 +813,10 @@ _____________________________________________________________________________
   <a name="Johnstone2017"></a>
   Johnstone, D. (2017). *Von der Vielfalt zur Einfalt*.
   [16.12.2017](https://www.rubikon.news/artikel/von-der-vielfalt-zur-einfalt)
+  
+  <a name="Kant1795"></a>
+  Kant, I. (1795). *Zum ewigen Frieden*. [Preußische Akademie der Wissenschaften
+  ](https://korpora.zim.uni-duisburg-essen.de/Kant/aa08/341.html)
 
   Kablitz, S. (2017). [Dieses Land ist unrettbar verloren](https://susannekablitz.wordpress.com/2017/02/10/dieses-land-ist-unrettbar-verloren).
 
@@ -791,6 +855,10 @@ _____________________________________________________________________________
   <a name="Mausfeld2018"></a>
   Mausfeld, R. (2018). [Wie werden politische Debatten gesteuert?
   ](https://www.youtube.com/watch?v=bw5Px3rR9Jo)
+
+  <a name="Meggle2019"></a>
+  Meggle, G. (2019). *Zur Rolle der UN beim Völkermord im Jemen.*
+  [Telepolis 6.1.2019](https://heise.de/-4260392).
 
   Mies, U. und Wernicke, J. (Hrsg) (2017). Fassadendemokratie und Tiefer Staat:
   Auf dem Weg in ein autoritäres Zeitalter.
@@ -851,6 +919,10 @@ _____________________________________________________________________________
   Schulz, H. (2018). Rechtsbrüche und Manipulationen: Wie Regierende und 
   Medien den Zerfall der Bundesrepublik Deutschland fördern.
 
+  <a name="Simpson2017"></a>
+  Simpson, J. (2017). *Die Wasserprivatisierung: EU bricht weiteres 
+  Versprechen!* [watergate.tv 9.4.2017](https://www.watergate.tv/jane-simpson-wasser-privatisierung-eu-bricht-versprechen).
+
   <a name="Simons2009"></a>
   Simons, B. (2009). Die Matrix – Platons Ideen in einer virtuellen Welt der 
   Zukunft. [Pegasus-Onlinezeitschrift IX/1 (2009), 92.
@@ -864,10 +936,17 @@ _____________________________________________________________________________
   <a name="SunTzu"></a> Sun Tzu (500 v. Chr.). 
   [Die Kunst des Krieges](https://hdms.bsz-bw.de/files/357/Sunzi.pdf).
 
+  <a name="self"></a> Suntzi (2019). *Die Kunst des Krieges im mechanischen 
+  Staat*. [github.com](https://github.com/Suntzi/Complement/blob/master/tao.md).
+
   <a name="Spengler1921"></a>
   Spengler, O. (1921). *Preußentum und Sozialismus*. 
   [C. H. Beck'sche Verlagsbuchhandlung
   ](http://gutenberg.spiegel.de/buch/preussentum-und-sozialismus-5331/1).
+
+  <a name="Swpr2018"></a>
+  Autorenkollektiv, A. (2018). *Migration und Medien*. [Swiss Propaganda 
+  Research, November 2018](https://swprs.org/2018/11/04/migration-und-medien)
 
   <a name="Boehmermann2018"></a>
   Unfried, P. und Welzer, H. (2018). *Interview mit Jan Böhmerman*.
@@ -883,6 +962,10 @@ _____________________________________________________________________________
 
   Vonnahme, P. (2018). Gefährliche Anti-Russland-Hysterie: Nowitschok und das 
   Gift der Theresa May. [Telepolis 12. April 2018](https://heise.de/-4022365).
+
+  Partiots, A. (2017). *Cutting the Gordian Knot of all Time*.
+  [aim4truth 18.2.2017
+  ](https://aim4truth.org/2017/02/18/cutting-the-gordian-knot-of-all-time)
 
   <a name="3"></a>
   Wachowski, A., Wachowski, L. (1999). *The Matrix* (Film). [United States 
