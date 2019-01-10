@@ -1,2 +1,2 @@
 # Complement
-The Art of War in the mechanical State
+Die Kunst des Krieges im mechanischen Staat

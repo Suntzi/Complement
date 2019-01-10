@@ -58,18 +58,18 @@ journal: Soft Mechanical Research
   Und doch revoltieren einige Bürger ([Tyler 2018](#Tyler2018)) gegen die 
   bestehende politische und moralische Ordnung, erste Untersuchungen zum 
   Kriegsgeschenen unserer Tage erscheinen ([Meggle 2019](#Meggle2019))
-  und humanitäre Erzählungen werden bezweifelt ([SWPR 2018](#Swpr2018)).
+  und gutmenschliche Erzählungen werden bezweifelt ([SWPR 2018](#Swpr2018)).
   
   Die wohl älteste und sehr grundsätzlich angelegte Konfliktanalyse findet 
   sich nun im Werk des Sun Tzu. 
-  Sun Tzu entwickelt seine Ausführungen in dreizehn Kapiteln; 
+  Dieser entwickelt seine Ausführungen in dreizehn Kapiteln; 
   dabei kommt es dem Autor nicht darauf an, eine Schlacht zu gewinnen: 
   Er will den Gegner besiegen, und seine Ausführungen richten sich gegen
   jeden Gegner.
 
-  Den ersten hier veröffentlichten 7 Abschnitten dieser Groteske werden 
-  6 weitere folgen, Aktualisierung und Mitarbeit ist für jeden möglich,
-  der *Markdown* und *Github* kennt ([Suntzi 2019](#self)). 
+  Den ersten hier veröffentlichten Abschnitten dieser Groteske werden 
+  weitere folgen, Aktualisierung und Mitarbeit ist über *[Github](#self)* 
+  möglich. 
 
 > *Wenn du weder den Feind noch dich selbst kennst, wirst du in jeder Schlacht 
 > unterliegen* (Sun Tzu).
