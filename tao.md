@@ -1,7 +1,7 @@
 ---
 date: 2019
 tags: [Soft Power Technology, Social Engineering, Political Mechanics]
-author: Susanne Zischka
+author: Susi Suhrbier
 title: The Art of War in the Mechanical State
 journal: Soft Mechanical Research
 ---
@@ -15,9 +15,10 @@ journal: Soft Mechanical Research
 >  Nach Jahrhunderten von Religions-, Kabinetts- und Nationalkriegen schien
 >  es einige Zeit so, als wäre schlußendlich Frieden in den europäischen
 >  Nationalstaaten eingekehrt.
+>
 >  In der sich globalisierenden Welt ändert nun aber der Krieg seine Gestalt 
 >  und erscheint auf dem Schlachtfeld der globalen Ökonomie, um von dort aus
->  erneut die Völker der Welt zu erreichen.
+>  erneut die Völker der Welt heimzusuchen.
 >  
 >  Der Krieg ist der Vater aller Dinge, wie schon Heraklit, der Dunkle, 
 >  zu Griechenlands besseren Zeiten bemerkte. Die einen macht er zu Göttern, 
@@ -55,24 +56,25 @@ journal: Soft Mechanical Research
 >  keine Form auf und sogar der sinnestiefste Spion suchet Euch vergebens 
 >  und der Weise kann keine Pläne gegen Euch schmieden* (Sun Tzu).
 
-  Und doch revoltieren einige Bürger ([Tyler 2018](#Tyler2018)) gegen die 
-  bestehende politische und moralische Ordnung, erste Untersuchungen zum 
-  Kriegsgeschenen unserer Tage erscheinen ([Meggle 2019](#Meggle2019))
-  und gutmenschliche Erzählungen werden bezweifelt ([SWPR 2018](#Swpr2018)).
+  Und doch revoltieren einige Bürger gegen die bestehende politische und 
+  moralische Ordnung ([Tyler 2018](#Tyler2018)), Untersuchungen zum 
+  Kriegsgeschenen unserer Tage erscheinen ([SWPR 2019](#Swpr2018)) und
+  willige Vollstrecker groß angelegter Transformationsprozesse werden 
+  in Frage gestellt ([Kollmann2019](#Kollmann2019)).
   
   Die wohl älteste und sehr grundsätzlich angelegte Konfliktanalyse findet 
   sich nun im Werk des Sun Tzu. 
   Dieser entwickelt seine Ausführungen in dreizehn Kapiteln; 
   dabei kommt es dem Autor nicht darauf an, eine Schlacht zu gewinnen: 
   Er will den Gegner besiegen, und seine Ausführungen richten sich gegen
-  jeden Gegner.
-
-  Den ersten hier veröffentlichten Abschnitten dieser Groteske werden 
-  weitere folgen, Aktualisierung und Mitarbeit ist über *[Github](#self)* 
-  möglich. 
+  jeden Gegner:
 
 > *Wenn du weder den Feind noch dich selbst kennst, wirst du in jeder Schlacht 
 > unterliegen* (Sun Tzu).
+
+  Den ersten hier veröffentlichten Abschnitten dieser Groteske sollen weitere 
+  folgen, für den geneigten Leser ist Aktualisierung und Mitarbeit über 
+  eine *[Kollaborationsplatform](#self)* möglich. 
 
 <a name="I"></a>
 ## Temet Nosce
@@ -113,17 +115,13 @@ journal: Soft Mechanical Research
   Neo hält sich demzufolge nicht für den Auserwählten, nimmt aber den Kampf 
   gegen die Agenten der Maschine auf. 
 
-  Es gibt in der Rebellentruppe jedoch einen Verräter, der sich an Friedrich 
-  Nietzsches bewährtes Rezept für ein leichtes Leben hält 
-  ([Mausfeld 2018](#Mausfeld2018)):
->  Willst du das Leben leicht haben, bleib bei der Herde:
->  Liebe den Hirten und ehre das Gebiß seines Hundes. 
 
-  Der Verräter verrät also die Rebellen an den Agenten Smith und erhält dafür 
+  Es gibt in der Rebellentruppe jedoch einen Verräter.
+  Der Verräter verrät die Rebellen an den Agenten Smith und erhält dafür 
   das Versprechen, luxuriös innerhalb der Matrix leben zu können. 
   Die meisten Rebellen sterben, doch Neo und seine Freundin Trinity entkommen 
   und können den in Gefangenschaft geratenen Morpheus befreien. 
-  Nach einigen weiteren Kämpfen kann Neo jedoch den Code der Matrix deutlich 
+  Nach einigen weiteren Kämpfen kann Neo endlich den Code der Matrix deutlich 
   sehen und mit seinen Gedanken frei manipulieren. 
   In einem kurzen ungleichen Kampf besiegt er schließlich seinen Gegner 
   Agent Smith souverän.
@@ -155,8 +153,8 @@ journal: Soft Mechanical Research
 
   Obschon ein globaler Staat formal nicht existiert, wird doch die kalte 
   Mechanik zur Organisation aller menschlichen Ressourcen im weltweiten 
-  Maßstab sichtbar und lässt sich als hoch entwickelte Struktur und 
-  wirkmächtige Maschine verstehen.
+  Maßstab sichtbar ([Fusaro 2017](#Fusaro2017)) und lässt sich zunächst 
+  als Struktur und wirkmächtige Maschine verstehen.
   Die "Global Governance" dieses Apparates arbeitet für große ökonomische 
   Ziele und soziale Interessen und tritt gegen die in Europa bekannten 
   Sozialstaaten an.
@@ -171,14 +169,14 @@ journal: Soft Mechanical Research
      Souveränität zu untergraben und eine global verfügbare Masse an
      Arbeitskräften zu organisieren. 
 
-Die Transformation bestehender Strukturen in die Verfügungsgewalt dieses
-  internationalen Systems erfolgt durch:
+Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
+  internationalen Globalisierungsmaschine erfolgt durch:
 
    - Die Neuverteilung humanitärer und finanzieller Ressourcen 
      durch Migration und international arbeitende Wirtschaftskonzerne.
    - Ein weltweit einheitliches Ausbildungssystem, welches sowohl
      soziale als auch die für ein Arbeitsleben erforerlichen Fähigkeiten
-     standardisiert.
+     standardisiert und ökonomisiertes Denken implementiert.
    - Kontrolle der Massenmedien und anderer Propagandakanäle.
    - Eine Zivilgesellschaft, die auf eine kulturelle und religiöse 
      Synthese hinarbeitet.
@@ -186,8 +184,7 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieses
 Dieses wirkmächtige System globaler Organisation mit allen damit 
   verbundenen Suborganisationen, poltischen Abhängigkeiten und medialen
   Einflußnahmen wird hier ohne weitere Konkretisierung als mechanischer
-  Staat bezeichnet. Dieser verwendet die bekannten Wirkmechanismen zur
-  politischen Einflußnahme und menschlichen Willensbildung für seine Zwecke.
+  Staat bezeichnet. 
 
   Der Soziologen Bernd Hamm ([2014](#Hamm2014)) geht einen Schritt weiter 
   und beschreibt einen Oligarchenkomkomplex aus Superreichen, CEOs und 
@@ -195,26 +192,23 @@ Dieses wirkmächtige System globaler Organisation mit allen damit
   in Politik, Militär, Medien und Think Tanks, die er als "Dunkler Staat" 
   bezeichnet.
 
-  Die konkrete Struktur des globalen Netzwerkes internationaler Konzerne lässt 
-  sich anhand ihrer finanziellen Beteiligungsverhältnisse darstellen.
+  Die konkrete Struktur dieses globalen Netzwerkes internationaler Konzerne 
+  lässt sich anhand ihrer finanziellen Beteiligungsverhältnisse darstellen.
   Vitali et. al. ([2011](#Vitali2011)) verwenden zur quantitativen Analyse 
   dieses Netzwerkes eine "ownership matrix", in der für jede Komponente der 
   Matrix der Eigentumsanteil eines Beteiligten an einer Firma notiert wird.
   Es zeigt sich, das ein kleiner Kern eng miteinander verbundender 
   Finanzinstitutionen einen sehr großen Teil aller transnationalen
   Organsiationen kontrolliert. 
-  Es zeigt sich also das sogenannte Phänomen des "Clubs der Reichen", das die 
-  Tendenz "mächtiger" Knoten beschreibt, selbst in komplexen Netzwerken stark
-  miteinander verbunden zu sein.
+  Dieses sogenannte Phänomen des "Clubs der Reichen" beschreibt die Tendenz 
+  "mächtiger" Knoten, selbst in komplexen Netzwerken stark miteinander 
+  verbunden zu sein.
 
-  Helmut Schmidt sprach einmal von "Staatsterrorismus" 
-  ([Lorenzo 2007](#Lorenzo2007)), was als Hinweis auf ein bestehendes
-  machtvolles und global agierendes Verbrechersyndikat verstanden werden kann.
-  Ob dieses Syndikat existiert oder ob der deregulierte Kapitalismus in 
-  Form grosser Kapitalmassen auch ohne weitere personale Konkretisierung 
-  einen eigenen Willen zur Macht entwickelt und unter dem schillernden Namen
-  "Neoliberlismus" ([Ptak 2018](#Ptak2018)) sein Unwesen treibt - 
-  es dürfte von einiger Wichtigkeit sein, diese Phänomene und ihre
+  Ob nun ein globales Syndikat existiert oder ob der deregulierte Kapitalismus
+  selbst in Form grosser Kapitalmassen auch ohne weitere personale 
+  Konkretisierung einen eigenen Willen zur Macht entwickelt und unter dem 
+  schillernden Namen "Neoliberlismus" ([Ptak 2018](#Ptak2018)) sein Unwesen 
+  treibt - es dürfte von einiger Wichtigkeit sein, diese Phänomene und ihre
   Prinzipien genauer kennenzulernen.
 
 <a name="III"></a>
@@ -231,19 +225,22 @@ Dieses wirkmächtige System globaler Organisation mit allen damit
   Dabei ist ihm die vernunftbegabten Wesen eingebaute Doppelmoral nicht 
   entgangen, die darin besteht, die Einhaltung allgemeiner Gesetze zu
   verlangen und selbst aber bereit zu sein, sich insgeheim davon auszunehmen.
-  Gegen Doppelmoral hilt Recht:
+  Gegen soche Doppelmoral hilt Recht:
   Die Möglichkeit zum ewigen Frieden beruht deshalb auf einem Förderalismus
   freier Staaten, die sich im Rechtszustand befinden und zum Wohle ihrer
-  Bürger handeln, also die bürgerliche Moral auf das Staatswesen fortsetzen.
+  Bürger handeln, also die bürgerliche Moral auf das Staatswesen fortsetzen
+  ([Meggle 2019](#Meggle2019b)).
 
   Völlig übersehen hat Kant jedoch, daß die wirklich maßgeblichen Kräfte
-  überhaupt keinen Wert in der Moral sehen wollen. Sie ist vielmehr das
-  unsichtbare Schwert, das die Macht über die Köpfe erringt.
+  den Wert der Moral kennen und nutzen ohne ihr selbst unterworfen zu sein, 
+  eine Rechtsdurchsetzung ein funktionierendes Staatswesen vorraussetzt und 
+  der globale Maßstab der gnadenlosen Brutalität der Macht gehorcht, nicht
+  dem Recht.
 
->> »Aber, wenn es um die Machenschaften der Mächtigen geht, sind wir 
->> anderen und früheren Gesellschaften nur zu ähnlich. Es gibt eine 
->> gnadenlose Brutalität der Macht, die auf der ganzen Welt und über die 
->> gesamte Geschichte hinweg bekannt ist.« David Talbot
+>> *Das Gesetz der Moral veranlaßt die Menschen, mit ihrem Herrscher völlig 
+>> übereinzustimmen, so daß sie ihm ohne Rücksicht auf ihr Leben folgen und 
+>> sich durch keine Gefahr erschrecken lassen* (Sun Tzu).
+
 
   Walther Lippmanns schon 1922 erschienenes Buch „Public Opinion“ gilt als 
   Klassiker in der Kunst der Beeinflussung der öffentlichen Meinung. 
@@ -319,8 +316,8 @@ Dieses wirkmächtige System globaler Organisation mit allen damit
 
   Dabei spielt die EU als Vorstufe zu einer Weltregierung eine Vorreiterrolle.
   Schon der Umbbau der EU in eine "demkoratiefreien Herrschaftsarchitektur"
-  ([Wehr 2016](http://www.andreas-wehr.eu/der-eu-retter.html)) bedarf der 
-  Überwindung der nationalen Identitäten in den Mitgliedsstaaten.
+  ([Wehr 2016](#Wehr2016)) bedarf der Überwindung der nationalen Identitäten 
+  in den Mitgliedsstaaten.
   "Der Ort der politischen Willensbildung in Europa sind die Nationalstaaten,
   in einem vom Einzelnen nicht mehr zu übersehenden supernationalen, riesigen 
   EU-Staat lassen sich ökonomische Großziele leichter und ohne störende 
@@ -334,14 +331,9 @@ Dieses wirkmächtige System globaler Organisation mit allen damit
   ([Heihnsohn 2018](#Heihnsohn2018)) und gut für die irreguläre
   Kriegführung zu gebrauchen ([Barnett 2003](#Barnett2003)).
 
-  Die Minorisierung der autochtonen europäsichen Bevölkerungen und die 
+  Die Minorisierung der autochtonen europäischen Bevölkerungen und die 
   Auflösung ihrer kulturellen Kohärenz hilft bei der Zersetzung nationaler 
   Identitäten.
-  Eine solche identitätsarme Bevölkerung ist zur politischen Willensbildung zu 
-  schwach, als Rechtssubjekt vernachlässigbar und darum perfekt beherrschbar.
-  Eine „enthomogenisierte“, durchmischte Bevölkerung, in der sich keine innere 
-  Gemeinsamkeit einer Fremdsteuerung widersetzen kann, ist leicht zentral 
-  lenkbar.
 
   "Eine Durchmischung geschieht in der Regel nicht freiwillig. Sie kann nur 
   von außen durch erzwungene Flüchtlings- und Massenmigrations-Ströme 
@@ -355,16 +347,23 @@ Dieses wirkmächtige System globaler Organisation mit allen damit
 > *Es ist wichtiger, dem Gegner geistig überlegen zu sein, als ihn
 > niederzukämpfen.* (Sun Tzu).
 
-  Im "Klassenkrieg von oben" sind nach Chomsky ([1998: 13ff](#Chomsky1998)) 
-  Manipulationsstrategien zur Verdummung der Opfer von zentraler Bedeutung.
+  Der [geistreiche Vielschwätzer](https://www.welt.de/print-welt/article257787)
+  Adorno ([Adorno 1955](#Adorno1955)) hat einmal zu Oswald Spengler bemerkt,
+  „es rächt sich der vergessene Spengler, indem er droht recht zu behalten“.
 
-  "Der schlaueste Weg, Menschen passiv und gehorsam zu halten, ist, das 
-  Spektrum an akzeptabler Meinung streng zu beschränken, aber eine sehr 
-  lebhafte Debatte innerhalb dieses Spektrums zu ermöglichen – sogar die 
-  kritischeren und die Ansichten der Dissidenten zu fördern.
-  Das gibt den Menschen ein Gefühl, dass es ein freies Denken gibt, während 
-  die Voraussetzungen des Systems durch die Grenzen der Diskussion gestärkt 
-  werden." ([Chomsky 2001](#Chomsky2001)).
+  Spengler schreibt, dass die Staaten und damit auch die Kriegsführung in die 
+  Hand von Konzernen und Großvermögen gelangen könnten.
+  Sichtbarer Teil dieser Entwicklung ist heute der international ausgerichtete 
+  Finanzkapitalismus, der rücksichtslos expandiert und dabei ganze 
+  Volkswirtschaften umgestaltet. 
+
+  Auch der Mensch selbst wird umgestaltet:
+  Der um sich greifende Finanzkapitalismus reduziert die Komplexität des Lebens
+  tatsächlich auf ein einziges „gestaltendes Prinzip“, eine einzige Zahl: 
+  die Rendite ([Otte 2018](#Otte2018)).
+  Neben der Expansion in die Breite entfaltet also dieses Prinzip eine 
+  Tiefenwirkung bis in die Psyche des einzelnen hinein.
+  
 
   Damit ein antirationaler, gesinnungsorientierter Konsens entsteht,
   muß die sehr grundsätzliche Frage beantwortet werden, wie eine politisch
@@ -581,23 +580,6 @@ Dieses wirkmächtige System globaler Organisation mit allen damit
 
 
 
-  Der [geistreiche Vielschwätzer](https://www.welt.de/print-welt/article257787)
-  Adorno ([Adorno 1955](#Adorno1955)) hat einmal zu Oswald Spengler bemerkt,
-  „es rächt sich der vergessene Spengler, indem er droht recht zu behalten“.
-
-  Spengler schreibt, dass die Staaten und damit auch die Kriegsführung in die 
-  Hand von Konzernen und Großvermögen gelangen könnten.
-  Sichtbarer Teil dieser Entwicklung ist heute der international ausgerichtete 
-  Finanzkapitalismus, der rücksichtslos expandiert und dabei ganze 
-  Volkswirtschaften umgestaltet. 
-
-  Auch der Mensch selbst wird umgestaltet:
-  Der um sich greifende Finanzkapitalismus reduziert die Komplexität des Lebens
-  tatsächlich auf ein einziges „gestaltendes Prinzip“, eine einzige Zahl: 
-  die Rendite ([Otte 2018](#Otte2018)).
-  Neben der Expansion in die Breite entfaltet also dieses Prinzip eine 
-  Tiefenwirkung bis in die Psyche des einzelnen hinein.
-
   Zivilisation bezeichnet nun die Stufe einer Kultur, auf welcher Tradition 
   und Persönlichkeit ihre unmittelbare Geltung verloren haben und jede Idee 
   zunächst in Geld umgedacht werden muss, um verwirklicht zu werden.
@@ -768,6 +750,14 @@ _____________________________________________________________________________
   ](http://www.achgut.com/artikel/politisches_handeln_gegen_die_eigenen_interessen)
 
 
+  <a name="Fusaro2018"></a>
+  Fusaro, D. (2018). *Marx 2.0*.
+  [Telepolis 11.5.2018](https://heise.de/-4045247).
+
+  <a name="Fusaro2017"></a>
+  Fusaro, D. (2017). *Globalisierung und Entwurzelung*.
+  [Telepolis 7.4.2017](https://heise.de/-3671717).
+
   Jasinna (2018), *Die Flüchtlings-Macher*.
   [You Tube](https://www.youtube.com/watch?v=nsCBN4sHHSA).
 
@@ -820,6 +810,10 @@ _____________________________________________________________________________
 
   Kablitz, S. (2017). [Dieses Land ist unrettbar verloren](https://susannekablitz.wordpress.com/2017/02/10/dieses-land-ist-unrettbar-verloren).
 
+  <a name="Kollmann2019"></a>
+  Kollmann, K. (2019). *Wissenschaft - Helfer für Wirtschaft und Machteliten*.
+  [Telepolis 7.1.2019](https://heise.de/-4236528).
+
   <a name="Krautz2012"></a>
   Krautz, J. (2012). *Bildungsreform und Propaganda*.
   Aus: Frost, Ursula (Hrsg.); Rieger-Ladich, Markus (Hrsg.): Demokratie setzt 
@@ -856,9 +850,13 @@ _____________________________________________________________________________
   Mausfeld, R. (2018). [Wie werden politische Debatten gesteuert?
   ](https://www.youtube.com/watch?v=bw5Px3rR9Jo)
 
-  <a name="Meggle2019"></a>
+  <a name="Meggle2019a"></a>
   Meggle, G. (2019). *Zur Rolle der UN beim Völkermord im Jemen.*
   [Telepolis 6.1.2019](https://heise.de/-4260392).
+
+  <a name="Meggle2019b"></a>
+  Meggle, G. (2019). *Drei Formen des Friedens*.
+  [Telepolis 6.1.2019](https://heise.de/-4260385).
 
   Mies, U. und Wernicke, J. (Hrsg) (2017). Fassadendemokratie und Tiefer Staat:
   Auf dem Weg in ein autoritäres Zeitalter.
@@ -975,8 +973,9 @@ _____________________________________________________________________________
   Wendt, A. (2018). *Ausweitung der Moralkampfzone*. [Publico 03/2018
   ](https://www.publicomag.com/2018/03/ausweitung-der-moralkampfzone)
 
-  Andreas Wehr (2016). 
-  [Der EU-Retter](http://www.andreas-wehr.eu/der-eu-retter.html).
+  <a name="Wehr2016"></a>
+  Andreas Wehr (2016). *Der EU-Retter*.
+  [Junge Welt 16.2.2016](http://www.andreas-wehr.eu/der-eu-retter.html).
 
   Global Intel Hub (2018). The Criminalization of Politics. [Zero Hedge
   ](https://www.zerohedge.com/news/2018-11-28/criminalization-politics).
