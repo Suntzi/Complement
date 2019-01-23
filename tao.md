@@ -76,7 +76,7 @@ journal: Soft Power Research
 
   Den ersten hier veröffentlichten Abschnitten dieser Groteske sollen weitere 
   folgen, für den geneigten Leser ist Aktualisierung und Mitarbeit über 
-  eine *[Kollaborationsplatform](#self)* möglich. 
+  eine *[Kollaborationsplattform](#self)* möglich. 
 
 <a name="I"></a>
 ## Temet Nosce
@@ -480,6 +480,7 @@ Dieses wirkmächtige System globaler Organisation mit allen damit
 
 
 
+
   [^5]: Schopenhauer: [Hegel, ein platter ...  unwissender Scharlatan
   ](https://de.wikiquote.org/wiki/Georg_Wilhelm_Friedrich_Hegel).
 
@@ -570,9 +571,9 @@ Dieses wirkmächtige System globaler Organisation mit allen damit
 > Sieg; wenn du Himmel und Erde kennst, dann wird dein Sieg vollständig 
 > sein.* (Sun Tzu)
 
-  Das Terrain, auf dem sich dieser Krieg bewegt, ist das miteinander des
-  über Kapitalbeteiligungen verflochtenen Militärisch-Industriellen Komplexes
-  ([Patriots 2017](#Patriots2017)).
+  Das Terrain, auf dem sich dieser nichterklärte Krieg bewegt, 
+  ist das miteinander des über Kapitalbeteiligungen verflochtenen 
+  Militärisch-Industriellen Komplexes ([Patriots 2017](#Patriots2017)).
 
   Die konkrete Struktur dieses globalen Netzwerkes internationaler Konzerne 
   lässt sich anhand ihrer finanziellen Beteiligungsverhältnisse darstellen.
@@ -595,30 +596,40 @@ Dieses wirkmächtige System globaler Organisation mit allen damit
 > *Im Frieden bereite dich auf den Krieg vor, im Krieg bereite dich auf 
 > den Frieden vor* (Sun Tzu).
 
-  Die Orte lassen sich unterscheiden in Auseinanderspringende, leichte, 
-  umstrittene, nach allen Seiten offene, sich kreuzenden Straßen, 
+  Die Orte des Handelns lassen sich unterscheiden in Auseinanderspringende, 
+  leichte, umstrittene, nach allen Seiten offene, sich kreuzenden Straßen, 
   gefährliche, schwierige, eingeschränkte und hoffnungslose Orte.
 
+  1) *Auseinanderspringende:* Beendigung des Kasino-Kapitalismus 
+     ([Altvater et. al. 2009](#Altvater2009)).
 
-  1) Die FED (US Federal Reserve) muß geschlossen werden. 
+  2) *Leichte:* Verbot der Pornographie.
 
-  2) Das "Council on Foreign Affairs" und die mit ihm verbundenen 
-     Organistationen sollen als Feind der ganzen Welt erkannt werden. 
+  3) *Umstrittene:* Austritt aus dem UN-Menschenrechtsrat 
+     ([Wrouten 2018](#Wrouten2018)).
 
-  3) Alle Verbindungen zu den UN, den "Vereinten Nationen", sollen beendet
-     und die Finanzierung eingestellt werden.
+  4) *Nach allen Seiten offene:* Kontrolle des Bevölkerungswachstums 
+     ([Seitz 2019](#Seitz2019)).
 
-  4) Strenge Überwachung des Verteigunsministeriums.
+  5) *Sich kreuzende Straßen:* Förderung der kulturellen und sozialen 
+     Identität zur Stärkung des Gemeinschaftsgefühls.
 
-  5)  Immediately cease operations of DARPA, In-Q-Tel, SAIC, Highlands Forums and all military research; all use of war tools, devices, and implements on Americans to be immediately ceased along with the revocation of the National Defense Authorization Act of 2016.
+  6) *Gefährliche:* Beendigung aller Auslandseinsätze der Armee.
 
-  6)  Audit all military contractors and PROSECUTE the guilty. Pass strict laws prohibiting any military development to be shared with any corporation with foreign associations—no matter if the company is Starbucks or Raytheon.
+  7) *Schwierige:* Das "Council on Foreign Affairs" und die mit ihm verbundenen 
+     Organisationen sollen als Feinde der ganzen Welt benannt und geächtet 
+     werden. 
 
-  7)  All investors in any U.S. military development must be American. All taxes must be paid and no profits may leave America.  Americans will no longer die for foreign profits on war.
+  8) *Eingeschränkte:* Vollständiges Verbot des Exportes von Rüstungsgütern.
 
-  8)  Foreign investments in America economic institutions must examined and made transparent so that transnational investors cannot use our money, government, and citizenry to support their business of war.
-  9)  Related to auditing the Fed is the auditing of international banking.  Although the U.S. should not be controlling this activity in other countries, we should encourage citizens around the world to have their banks audited as well.
+  9) *Hoffnungslose:* Sichere Arbeitsplätze.
 
+
+> *Es reicht nicht, Pferde anzubinden und Wagenräder im Boden einzugraben. 
+> Es reicht nicht, die Flucht durch solche mechanischen Mittel unmöglich zu 
+> machen. Du hast keinen Erfolg, wenn deine Männer nicht standhaft und im 
+> Willen geeint sind; vor allem müssen sie von einem Gemeinschaftsgefühl 
+> beseelt sein.*
 
 
 
@@ -747,8 +758,8 @@ _____________________________________________________________________________
 
   <a name="Creveld2004"></a>
   Van Creveld, M. (2004). *Die Zukunft des Krieges: wie wird Krieg geführt 
-  und warum? 
-  [Hamburg: Murmann, 2004](https://hds.hebis.de/ubmr/Record/HEB176543686)
+  und warum?* 
+  [Hamburg: Murmann, 2004](https://hds.hebis.de/ubmr/Record/HEB176543686).
 
   Chomsky, N (2001). *Die politische Ökonomie der Menschenrechte*.
   <a name="Deckwirth2008"></a>
@@ -919,6 +930,11 @@ _____________________________________________________________________________
   [Oxfam](https://www.oxfam.de/ueber-uns/publikationen/reward-work-not-wealth)
 
 
+  <a name="Patriots2017"></a>
+  Patriots, A. (2017). *Cutting the Gordian Knot of all Time*.
+  [Aim4truth.org, 18.2.2017
+  ](https://aim4truth.org/2017/02/18/cutting-the-gordian-knot-of-all-time).
+
   Ptak R. (2017). *Grundlagen des Neoliberalismus*. 
   [In: Kritik des Neoliberalismus. VS Verlag für Sozialwissenschaften, Wiesbaden
   ](https://doi.org/10.1007/978-3-531-20006-4_1)
@@ -957,6 +973,11 @@ _____________________________________________________________________________
   Schulz, H. (2018). Rechtsbrüche und Manipulationen: Wie Regierende und 
   Medien den Zerfall der Bundesrepublik Deutschland fördern.
 
+  <a name="Seitz2019"></a>
+  Seitz, A. (2019). *Teufelskreise des Bevölkerungs-Wachstums*. 
+  [Achgut.com, 23.1.2019
+  ](https://www.achgut.com/artikel/teufelskreise_des_bevoelkerungs_wachstums).
+
   <a name="Simpson2017"></a>
   Simpson, J. (2017). *Die Wasserprivatisierung: EU bricht weiteres 
   Versprechen!* [watergate.tv 9.4.2017](https://www.watergate.tv/jane-simpson-wasser-privatisierung-eu-bricht-versprechen).
@@ -974,8 +995,8 @@ _____________________________________________________________________________
   <a name="SunTzu"></a> Sun Tzu (500 v. Chr.). 
   [Die Kunst des Krieges](https://hdms.bsz-bw.de/files/357/Sunzi.pdf).
 
-  <a name="self"></a> Suntzi (2019). *Die Kunst des Krieges im mechanischen 
-  Staat*. [github.com](https://github.com/Suntzi/Complement/blob/master/tao.md).
+  <a name="self"></a> Susi S. (2019). *Die Kunst des Krieges im mechanischen 
+  Staat*. [Github.com](https://github.com/Suntzi/Complement/blob/master/tao.md).
 
   <a name="Spengler1921"></a>
   Spengler, O. (1921). *Preußentum und Sozialismus*. 
@@ -987,7 +1008,7 @@ _____________________________________________________________________________
   [SWPR, November 2018](https://swprs.org/2018/11/04/migration-und-medien)
 
   <a name="Tyler2018"></a>
-  Tyler, D. (2018). *A European Spring?* [Zero Hedge 28.12.2018
+  Tyler, D. (2018). *A European Spring?* [Zero Hedge, 28.12.2018
   ](https://www.zerohedge.com/news/2018-12-27/european-spring)  
 
   <a name="Boehmermann2018"></a>
@@ -1005,29 +1026,28 @@ _____________________________________________________________________________
   Vonnahme, P. (2018). Gefährliche Anti-Russland-Hysterie: Nowitschok und das 
   Gift der Theresa May. [Telepolis 12. April 2018](https://heise.de/-4022365).
 
-  <a name="Patriots2017"></a>
-  Patriots, A. (2017). *Cutting the Gordian Knot of all Time*.
-  [aim4truth 18.2.2017
-  ](https://aim4truth.org/2017/02/18/cutting-the-gordian-knot-of-all-time)
-
   <a name="3"></a>
   Wachowski, A., Wachowski, L. (1999). *The Matrix* (Film). [United States 
   and Australia: Warner Bros.](https://www.warnerbros.com/matrix)
 
+  <a name="Wehr2016"></a>
+  Wehr, A. (2016). *Der EU-Retter*.
+  [Junge Welt 16.2.2016](http://www.andreas-wehr.eu/der-eu-retter.html).
+
   <a name="Wendt2018"></a>
-  Wendt, A. (2018). *Ausweitung der Moralkampfzone*. [Publico 03/2018
+  Wendt, A. (2018). *Ausweitung der Moralkampfzone*. [Publico, 03/2018
   ](https://www.publicomag.com/2018/03/ausweitung-der-moralkampfzone)
 
-  <a name="Wehr2016"></a>
-  Andreas Wehr (2016). *Der EU-Retter*.
-  [Junge Welt 16.2.2016](http://www.andreas-wehr.eu/der-eu-retter.html).
+  Wrouten, L., Holland, S. (2018). *USA verabschieden sich aus 
+  UN-Menschenrechtsrat*. [Reuters, 20.6.2018
+  ](https://www.reuters.com/article/usa-menschenrechtsrat-idDEKBN1JG0EU)
 
   Global Intel Hub (2018). The Criminalization of Politics. [Zero Hedge
   ](https://www.zerohedge.com/news/2018-11-28/criminalization-politics).
 
   Zizek, S. (2015). *Ärger im Paradies : vom Ende der Geschichte zum Ende des 
   Kapitalismus*. 
-  [Frankfurt am Main, 2015](https://hds.hebis.de/ubmr/Record/HEB366063987)
+  [Frankfurt am Main, 2015](https://hds.hebis.de/ubmr/Record/HEB366063987).
 
   <a name="Zydatis2019"></a>
   Zydatis, K. (2019). *Gelbe Westen überall*.
