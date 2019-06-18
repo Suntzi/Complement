@@ -12,7 +12,7 @@ publisher: Soft Power Press
   [Die Kunst des Krieges im mechanischen Staat](01Contents.txt)
 ================================================================
 
->>> ![](png/tao.png){height=256px width=100%}
+>>> ![](png/tao.png)
 
 >  Nach Jahrhunderten von Religions-, Kabinetts- und Nationalkriegen schien
 >  es einige Zeit so, als wäre schlußendlich Frieden in den europäischen
@@ -148,7 +148,7 @@ publisher: Soft Power Press
 > *Wenn du den Feind nicht kennst, doch dich selbst, wirst du
 > für jede Niederlage, die du erleidest, einen Sieg erringen*.
 
-## [II. Die Diktatur des Kapitals](#II "Über die Kriegführung")
+## [II. Über die Kriegführung](#II "Die Diktatur des Kapitals")
 
   Der gottlose Katholik[^1] Friedrich Nietzsche hat den Staat selbst einmal 
   als „das kälteste aller kalten Ungeheuer“ bezeichnet.
