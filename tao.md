@@ -1,16 +1,18 @@
 ---
 date: 2019
-tags: [Soft Power Technology, Social Engineering, Political Mechanics]
-author: Susi Suhrbier
-title: The Art of War in the Mechanical State
-journal: Soft Power Research
+tags: [Soft Power Technology, Social Engineering, Mechanical State]
+title: Die Kunst des Krieges im mechanischen Staat
+author: Susanne Schrott
+rights: © CC BY-NC
+cover-image: png/tao.png
+publisher: Soft Power Press
 ---
 
 
   [Die Kunst des Krieges im mechanischen Staat](01Contents.txt)
 ================================================================
 
->>> ![Ein Parforceritt durch das Philosophische Kalkül](png/sword.png) 
+>>> ![](png/tao.png){height=256px width=100%}
 
 >  Nach Jahrhunderten von Religions-, Kabinetts- und Nationalkriegen schien
 >  es einige Zeit so, als wäre schlußendlich Frieden in den europäischen
@@ -26,7 +28,7 @@ journal: Soft Power Research
 >
 >  Heraklits Zeitgenosse [Sun Tzu](#SunTzu) hat sich genauer mit dem Phänomen 
 >  [Krieg](https://de.wikipedia.org/wiki/Krieg) befasst und beginnt seine 
->  [Kunst des Krieges](https://de.wikipedia.org/wiki/Kriegsführung)
+>  [*Kunst des Krieges*](https://de.wikipedia.org/wiki/Kriegsführung)
 >  mit den eindrücklichen Worten: 
 
 >>
@@ -36,56 +38,56 @@ journal: Soft Power Research
 >> Deshalb darf sie unter keinen Umständen vernachlässigt werden.*
 >>
 
-  _Die Mechanisierung des Staatswesens, die auf der Übertragung des
-  Maschinenbegriffs mitsamt seiner mechanistischen Methodik auf Gesellschaft 
-  und Staat beruht ([Leviathan, 1651](#Hobbes1651)), entfaltet mit den jetzt 
-  entstandenen globalistischen
-  [Vorstellungen](https://de.wikipedia.org/wiki/Globalismus) die Kraft, 
-  den Menschen selbst im und in den verfügbaren Bestand ihrer Mechanik zu
-  [stellen](https://de.wikipedia.org/wiki/Martin_Heidegger#Technik_als_Gestell).
 
-  Einen ersten vorläufigen Blick auf den so angelegten Konflikt ermöglicht 
-  der weltweit angesehene Analyst Warren Buffet, der die großen 
-  Interessenkonflikte unserer Zeit einmal als *Klassenkrieg* bezeichnet hat
-  ([Stein 2006](#Stein2006)).
-  Keinesfalls ist nun aber damit zu rechnen, das etwa eine vom Syndikat der 
-  Kriegsbanker angetriebene globale Staatsmaschine sich als Feind ihrer 
-  Bürger zu erkennen gibt. 
-  Denn Perfektion im Feldzug liegt darin, die eigene Gestalt zu verbergen:
+  _Die Unlesbarkeit unserer Zeit ist mit den Zeichen der Krise geschrieben; 
+  der gesellschaftliche Zusammenhalt schwindet, die politischen Strukturen 
+  erodieren und die fortschreitende Ökonomisierung aller Lebensbereiche
+  geht mit lange nicht bekannter Ungleichverteilung von Realeigentum einher
+  ([Huether et.al. 2018](#Huether2018), [Piketty 2013](#Piketty2013)).  
+
+  Nun revoltieren zwar Bürger in gelben Westen gegen die bestehende moralische 
+  Ordnung des politisch-medialen Komplotts 
+  ([Schmeiser 2019](#Schmeiser2019), [Zydatis 2019](#Zydatis2019)), 
+  auch wird das Kriegsgeschehen unserer Tage nicht mehr fraglos hingenommen
+  ([SWPR 2018](#Swpr2018)), selbst die Wissenschaften werden als willfährige 
+  Helfer der automatisierten und sich selbst überlassenen Wirtschaft blamiert 
+  ([Kollmann2019](#Kollmann2019)). 
+  Doch lässt sich für diesen Verbund aus Moral, medialer Macht und Ordnung
+  keine ladungsfähige Adresse ermitteln. 
+  Damit ist auch keinesfalls zu rechnen, denn ein starker Gegner kennt den 
+  Vorteil der verborgenen Gestalt. Sun Tzu sagt:
 
 > *Der Höhepunkt militärischer Entfaltung findet sich im Formlosen: Weiset 
 >  keine Form auf und sogar der sinnestiefste Spion suchet Euch vergebens 
->  und der Weise kann keine Pläne gegen Euch schmieden* (Sun Tzu).
+>  und der Weise kann keine Pläne gegen Euch schmieden*.
 
-  Und doch revoltieren Bürger in gelben Westen gegen die bestehende 
-  politische und moralische Ordnung ([Zydatis 2019](#Zydatis2019)), 
-  Untersuchungen zum Kriegsgeschehen unserer Tage belasten die Meister der 
-  Globalisierung ([SWPR 2019](#Swpr2018)) und selbst die Wissenschaften werden 
-  als willige Vollstrecker der Mechanisierung in Frage gestellt 
-  ([Kollmann2019](#Kollmann2019)).
-  
-  Die wohl älteste und sehr grundsätzlich angelegte Konfliktanalyse findet 
-  sich nun im Werk des Sun Tzu. 
-  Dieser entwickelt seine Ausführungen in dreizehn Kapiteln; 
-  dabei kommt es dem Autor nicht darauf an, eine Schlacht zu gewinnen: 
-  Er will den Gegner besiegen, und seine Ausführungen richten sich gegen
-  jeden Gegner:
+  Einen ersten vorläufigen Blick auf den angelegten Konflikt ermöglicht aber
+  der weltweit angesehene Analyst Warren Buffet, der die großen 
+  Interessenkonflikte unserer Zeit einmal als *Klassenkrieg* bezeichnet hat
+  ([Müller 2019](#Mueller2019), [Stein 2006](#Stein2006)).
+
+  Die gesellschaftliche Klasse, die hier alle Anderen bedroht, ist erfolgreich 
+  auf der Grundlage einer äußerst effektven Staatsführung.
+  Nach der Übertragung des Maschinenbegriffs mitsamt seiner mechanistischen
+  Methodik auf Gesellschaft und Staat ([Hobbes, Leviathan, 1651](#Hobbes1651))
+  sind mit den jetzt entstandenen globalistischen
+  [Vorstellungen](https://de.wikipedia.org/wiki/Globalismus) die Kräfte
+  entfaltet, den Menschen selbst im und in den verfügbaren Bestand ihrer 
+  Mechanik zu
+  [stellen](https://de.wikipedia.org/wiki/Martin_Heidegger#Technik_als_Gestell).
+
+  Die dreizehn Kapitel zur strategischen Kriegsführung des Sun Tzu eignen sich
+  nicht, eine Schlacht zu gewinnen: die Ausführungen richten sich gegen jeden 
+  Gegner und sind auf den Sieg gerichtet:
 
 > *Wenn du weder den Feind noch dich selbst kennst, wirst du in jeder Schlacht 
-> unterliegen* (Sun Tzu).
+> unterliegen*.
 
-  Den ersten hier veröffentlichten Abschnitten dieser Groteske sollen weitere 
-  folgen, für den geneigten Leser ist Aktualisierung und Mitarbeit über 
-  eine *[Kollaborationsplattform](#self)* möglich. 
 
-<a name="I"></a>
-## Temet Nosce
+## [I. Temet Nosce](#I "Planung"){name=I}
 
-> *Wenn du den Feind nicht kennst, doch dich selbst, wirst du
-> für jede Niederlage, die du erleidest, einen Sieg erringen* (Sun Tzu).
-
-  In der letzten Verfilmung des Platon'schen Höhlengleichnisses, dem Film
-  "Die Matrix" der Geschwister Wachowsky, ist es der Programmierer Neo, der 
+  In der letzten Verfilmung des Platon'schen Höhlengleichnis, dem Film
+  „Die Matrix“ der Geschwister Wachowsky, ist es der Programmierer Neo, der 
   nach seiner Verfolgung durch den Geheimagenten Smith vom Rebellen Morpheus 
   erfährt, wie es wirklich um die Menschen steht: Der Kampf gegen die Maschinen
   wurde verloren und die gesamte bekannte Welt ist eine Illusion.
@@ -107,17 +109,15 @@ journal: Soft Power Research
   Als Neo antwortet, das er dies selbst nicht weis, nimmt die Seherin diese 
   Antwort hin und bittet Neo, sich herumzuwenden und die Inschrift auf dem 
   Türsturz der Küchentür zu studieren. Dort steht auf Latein: 
-  "Temet nosce!", was soviel heisst wie "Erkenne dich selbst".
+  „Temet nosce!”, was soviel heisst wie „Erkenne dich selbst”.
 
-  Nach dieser Antwort beginnt die eigentliche Sitzung, im der die Seherein
+  Nach dieser Antwort beginnt die eigentliche Sitzung, in der die Seherein
   das tut, was gemeinhin erwartet wird. Sie prüft Hände und Augen, liest 
-  aus Neos Händen und stellt bedauernd fest: "Du hast die Gaben, aber du 
-  wartest auf etwas, vielleicht auf dein nächstes Leben."
+  aus Neos Händen und stellt bedauernd fest: „Du hast die Gaben, aber du 
+  wartest auf etwas, vielleicht auf dein nächstes Leben.“
 
-  Neo hält sich demzufolge nicht für den Auserwählten, nimmt aber den Kampf 
-  gegen die Agenten der Maschine auf. 
-
-
+  Neo hält sich demzufolge nicht für den Auserwählten, nimmt aber dennoch
+  den Kampf gegen die Agenten der Maschine auf. 
   Es gibt in der Rebellentruppe einen Verräter, der die Rebellen an den 
   Agenten Smith verrät und der dafür das Versprechen erhält, luxuriös 
   innerhalb der Matrix leben zu können. 
@@ -130,6 +130,7 @@ journal: Soft Power Research
   Gegen Ende des Films geht Neo wieder in die Matrix und erklärt, die dort
   gefangenen Menschen befreien zu wollen.
 
+
   Simons ([2009](#Simons2009)) weist auf die Parallelen des Films zum
   Platonschen Höhlengleichnis hin. In diesem wird der Bewusstseinszustand der 
   Menschen als tief unterirdisch beschrieben, sie sind nur zur Wahrnehmung 
@@ -140,30 +141,31 @@ journal: Soft Power Research
 
   Die zentrale Bedeutung des Orakels im Matrixfilm liegt nun darin, das es
   Neo dahin führt, seine Bestimmung von sich aus anzuerkennen.
-  Die zunächst beiläufig vorgebrachte Antwort "Temet nosce!" *- erkenne dich 
-  selbst -* ist das eigentliche Hauptmotiv und die entscheidende 
+  Die zunächst beiläufig vorgebrachte Antwort „Temet nosce!“ - *erkenne dich 
+  selbst* - ist das eigentliche Hauptmotiv und die entscheidende 
   Vorraussetzung, um gegen die Agenten der Matrix zu bestehen.
 
-<a name="II"></a>
-## II. Der mechanische Staat
+> *Wenn du den Feind nicht kennst, doch dich selbst, wirst du
+> für jede Niederlage, die du erleidest, einen Sieg erringen*.
 
-> *Wer den Gegner kennt und sich selbst muß den Ausgang von hundert 
->  Schlachten nicht fürchten* (Sun Tzu).
+## [II. Die Diktatur des Kapitals](#II "Über die Kriegführung"){name=II}
 
   Der gottlose Katholik[^1] Friedrich Nietzsche hat den Staat selbst einmal 
-  als "das kälteste aller kalten Ungeheuer" bezeichnet.
+  als „das kälteste aller kalten Ungeheuer“ bezeichnet.
 
-  Obschon ein globaler Staat formal nicht existiert, wird doch die kalte 
-  Mechanik zur Organisation aller menschlichen Ressourcen im weltweiten 
-  Maßstab sichtbar ([Fusaro 2017](#Fusaro2017)) und lässt sich zunächst 
-  in ihrer Struktur als wirkmächtige Maschine verstehen.
-  Die "Global Governance" dieses Apparates arbeitet für große ökonomische 
-  Ziele und soziale Interessen und tritt gegen die in Europa bekannten 
-  Sozialstaaten an.
-  Zwei wesentliche Schritte sind erkennbar ([Kjos 2006](#Kjos2006)):
+  Schon das bekannte politische und auf Macht gerichtete Handeln folgt seit 
+  jeher keinerlei moralischen Imperativen, etwa eines irgendwie definierten 
+  Gemeinwohls, oder einer auch nur rudimentären Figur der Gerechtigkeit 
+  (Machiavelli, 1513).
+  In der sich globalisierenden Welt wird nun die kalte Mechanik zur 
+  Organisation aller menschlichen Ressourcen im weltweiten 
+  Maßstab sichtbar ([Fusaro 2017](#Fusaro2017)).
+  Die „Global Governance“ dieses Apparates arbeitet für große ökonomische 
+  Ziele und Interessen und tritt gegen die in Europa bekannten Sozialstaaten 
+  an. Zwei wesentliche Schritte sind erkennbar ([Kjos 2006](#Kjos2006)):
 
    - Installation eines effektiven Systems zum globalen Management, welches 
-     die Nationen der Welt durch "demokratisch" erscheinende Prozesse
+     die Nationen der Welt durch „demokratisch“ erscheinende Prozesse
      miteinander vereint und für eine willfährige Beachtung einer 
      spezifischen Menge von Regeln und Standards sorgt.
 
@@ -172,88 +174,102 @@ journal: Soft Power Research
      Arbeitskräften zu organisieren. 
 
 Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
-  internationalen Globalisierungsmaschine erfolgt durch:
+  Maschinerie erfolgt durch:
 
    - Die Neuverteilung humanitärer und finanzieller Ressourcen 
      durch Migration und international arbeitende Wirtschaftskonzerne.
    - Ein weltweit einheitliches Ausbildungssystem, welches sowohl
-     soziale als auch die für ein Arbeitsleben erforerlichen Fähigkeiten
+     soziale als auch die für ein Arbeitsleben erforderlichen Fähigkeiten
      standardisiert und ökonomisiertes Denken implementiert.
    - Kontrolle der Massenmedien und anderer Propagandakanäle.
    - Eine Zivilgesellschaft, die auf eine kulturelle und religiöse 
      Synthese hinarbeitet.
 
-Dieses wirkmächtige System globaler Organisation mit allen damit 
-  verbundenen Suborganisationen, poltischen Abhängigkeiten und medialen
-  Einflußnahmen wird hier ohne weitere Konkretisierung als mechanischer
-  Staat bezeichnet. 
-
   Der Soziologen Bernd Hamm ([2014](#Hamm2014)) geht einen Schritt weiter 
   und beschreibt einen Oligarchenkomkomplex aus Superreichen, CEOs und 
   Führungskadern multinationaler Großunternehmen und deren Funktionseliten 
-  in Politik, Militär, Medien und Think Tanks, die er als "Dunkler Staat" 
-  bezeichnet.
+  in Politik, Militär, Medien und Think Tanks, die er als „Dunkler Staat“ 
+  bezeichnet und die diese Prozesse erfolgreich vorantreiben.
 
-  Ob nun ein globales Syndikat existiert oder ob der deregulierte Kapitalismus
-  selbst in Form grosser Kapitalmassen auch ohne weitere personale 
-  Konkretisierung einen eigenen Willen zur Macht entwickelt und unter dem 
-  schillernden Namen "Neoliberlismus" ([Chomsky 2000](#Chomsky2000), 
-  [Ptak 2018](#Ptak2018), [Otte 2019](#Otte2019)) sein Unwesen 
-  treibt - es dürfte von einiger Wichtigkeit sein, diese Phänomene und ihre
-  Prinzipien genauer kennenzulernen.
+  Zum Beschluss des Zweiten Senats vom 22. Juni 1995 - 2 BvL 37/91 des
+  Bundesverfassungsgerichts zur Vermögensteuer dokumentierte der damalige 
+  Richter Ernst-Wolfgang Böckenförde seine abweichende Meinung. 
+  Darin heißt es: „Im Eigentum gerinnt die Ungleichheit der freigesetzten 
+  Gesellschaft zur Materie und wird Ausgangspunkt neuer Ungleichheiten. 
+  Stellt man dieses unter Sicherung von dessen unbegrenzter Akkumulation 
+  sakrosankt, besteht die Gefahr, daß sich die Ungleichheit ungezügelt 
+  potenzieren kann und sich darüber die freiheitliche Rechtsordnung selbst 
+  aufhebt.“ Und zwei Absätze weiter: "Der Staat kann die Leistungsfähigkeit, 
+  die in der Innehabung großer Vermögen liegt, nicht mehr nutzen und wird 
+  gegenüber einer möglichen Eigendynamik, die sich aus der Akkumulation von 
+  Vermögenswerten ergeben kann, machtlos." In gewisser Weise hat Böckenförde 
+  hier den entfesselten Markt vorausgesehen und die Gefahr des Niedergangs 
+  der „freiheitlichen Rechtsordnung“.
+
+  Adorno hat einmal zu Oswald Spengler bemerkt, „es rächt sich der vergessene 
+  Spengler, indem er droht recht zu behalten.“ ([Adorno 1955](#Adorno1955)).
+  Spengler schreibt, dass die Staaten und damit auch die Kriegsführung 
+  in die Hand von Konzernen und Großvermögen gelangen könnten.
+  Sichtbarer Teil dieser Entwicklung ist heute der international ausgerichtete 
+  Finanzkapitalismus, der rücksichtslos expandiert und dabei ganze 
+  Volkswirtschaften umgestaltet. 
+
+  Ob nun ein globales Syndikat aus Kriegsbankern existiert und sich wichtiger
+  westlicher kapitalistischer Staaten bemächtigt hat oder ob der 
+  immer weiter deregulierte Kapitalismus selbst auch ohne weitere personale 
+  Konkretisierung einen eigenen Willen zur Macht entfaltet und unter dem 
+  schillernden Namen „Neoliberlismus“ ([Chomsky 2000](#Chomsky2000), 
+  [Ptak 2018](#Ptak2018), [Otte 2019](#Otte2019)) sein Unwesen treibt - 
+  es dürfte von einiger Wichtigkeit sein, diese Phänomene und seine 
+  Mechanismen genauer kennenzulernen. 
+
+
+  Die Kräfte der Macht wirken abstrakt. Die Mechanismen der menschlichen 
+  Gesellschaften sind bekannt und werden zu Ihrer Unterwerfung verwendet.
+  In der globalisierten Welt muß nun jede menschliche Abweichung und Eigenheit 
+  zugunsten einer effektiven und automatisierbaren Kontrolle unterdrückt 
+  werden.
+  Dies ist der *mechanische Staat*, Inkarnation des Kapitals, 
+  Feind aller Menschen und Nationen.
 
 
 
+
+
+> *Wer den Gegner kennt und sich selbst muß den Ausgang von hundert 
+>  Schlachten nicht fürchten*.
 
   [^1]: Osho: [„After Friedrich Nietzsche declared that "God is Dead" - 
   the word FUCK has become the most important word in the English 
   language“](https://www.youtube.com/watch?v=6D7rWLzloOI).
 
-<a name="III"></a>
-### III. Das Schwert in der Scheide
+## [III. Das Schwert in der Scheide](#III "Moral und Propaganda"){name=III}
 
-> *In all deinen Schlachten zu kämpfen und zu siegen ist nicht die größte 
-> Leistung. Die größte Leistung besteht darin, den Widerstand des Feindes 
-> ohne einen Kampf zu brechen* (Sun Tzu).
+  Der Psychologe Rainer Mausfeld weist in seinen Vorträgen und Publikationen 
+  seit einiger Zeit darauf hin, daß es dem Neoliberalismus gelungen ist, in 
+  der öffentlichen Wahrnehmung weitgehend unsichtbar zu bleiben 
+  ([Mausfeld 2019](#Mausfeld2019)).
 
-  Der pflichtversessene Pedant[^2] Immanuel Kant hat in seiner Schrift 
-  *Zum ewigen Frieden* ([1795](#Kant1795)) bereits die grundlegenden
-  Ideen des Völkerrechts, die Verbindlichkeit zwischenstaatlicher Abkommen 
-  und die Ausrichtung des Friedens als völkerrechtlichen Vertrag formuliert.
-  Dabei ist ihm die vernunftbegabten Wesen eingebaute Doppelmoral nicht 
-  entgangen, die darin besteht, die Einhaltung allgemeiner Gesetze zu
-  verlangen und selbst aber bereit zu sein, sich insgeheim davon auszunehmen.
-  Gegen soche Doppelmoral hilt Recht:
-  Die Möglichkeit zum ewigen Frieden beruht deshalb auf einem Förderalismus
-  freier Staaten, die sich im Rechtszustand befinden und zum Wohle ihrer
-  Bürger handeln, also die bürgerliche Moral auf das Staatswesen fortsetzen
-  ([Meggle 2019](#Meggle2019b)).
-
-  Völlig übersehen hat Kant jedoch, daß wirklich maßgebliche Kräfte den Wert 
-  der Moral kennen ohne ihr aber selbst unterworfen zu sein, 
-  eine Rechtsdurchsetzung ein funktionierendes Staatswesen vorraussetzt und 
-  folglich auf dem globalen Markt kein Recht sondern die gnadenlose Brutalität 
-  der Macht sich Geltung verschafft.
+  Der politisch-mediale Komplex kennt die Macht der Moral, die dafür sorgt, 
+  das die Menschen von ihrem eigenen Verstand keinen Gebrauch machen und
+  sich gegen die sie beherschenden Strukture nicht wehren können.
 
 >> *Das Gesetz der Moral veranlaßt die Menschen, mit ihrem Herrscher völlig 
 >> übereinzustimmen, so daß sie ihm ohne Rücksicht auf ihr Leben folgen und 
->> sich durch keine Gefahr erschrecken lassen* (Sun Tzu).
+>> sich durch keine Gefahr erschrecken lassen*.
 
-
-  Walther Lippmanns schon 1922 erschienenes Buch "Public Opinion" gilt als 
+  Walther Lippmanns schon 1922 erschienenes Buch „Public Opinion“ gilt als 
   Klassiker in der Kunst der Beeinflussung der öffentlichen Meinung. 
   Um erwünschte Meinungen über politische Themen herzustellen, bedarf es 
-  demnach eines Netzwerkes von Experten, die "den Massen" unter Einsatz 
-  manipulativer Techniken dazu verhelfen, komplexe Angelegenheiten zu 
-  "verstehen".
+  demnach eines Netzwerkes von Experten, die „den Massen“ dazu verhelfen, 
+  komplexe Angelegenheiten zu „verstehen“.
   Die menschliche Erlebenswelt besteht nicht aus gegebenen Tatsachen, sondern
   aus inneren Bildern, die durchaus ein Eigenleben führen und nur bedingt mit
   der äußeren Welt verbunden sind. Durch mediale Manipulation durch
-  "Meinungsführer" wie Nachrichtensprecher, Kommentatoren und Medienstars
+  „Meinungsführer“ wie Nachrichtensprecher, Kommentatoren und Medienstars
   sind Menschen  (ver-)formbar und ihre Meinung kann gesteuert werden.
-  Im poltischen Bereich bedeutet das, das eine Meinungssteuerung möglich
-  und ein "öffentliche Wille" nach Lippmann bewusst und gezielt hergestellt 
-  werden kann.
+  Für den politischen Bereich bedeutet das, das eine Meinungssteuerung möglich
+  ist und ein „öffentliche Wille“ bewusst und gezielt hergestellt werden kann.
   In einer so gelenkten Demokratie ist es möglich, dass diejenigen politischen 
   Repräsentanten, die durch ihre Politik in die Krise geführt haben, eine 
   Mehrheit erlangen und weiter machen können wie zuvor ([Lieb 2009](#Lieb2009)).
@@ -263,92 +279,145 @@ Dieses wirkmächtige System globaler Organisation mit allen damit
   lassen. 
   Öffentliche Diskussionen über die Verwandlung eines funktionierenden 
   Staatwesens in ein Shithole-Country werden effektiv unterbunden 
-  ([Berger 2018](#Berger2018)).
+  ([Berger 2018](#Berger2018), [Gärtner 2019](#Gaertner2019)).
 
-  Im "Klassenkrieg von oben" ist ein selbstbewußtes und gebildetes Volk der 
-  größte Gegner. 
-  Mit der "Ausweitung der Moralkampfzone" ([Wendt 2018](#Wendt2018)) in allen 
+  Chomsky ([2000](#Chomsky2000)) nennt die globale Macht der Märkte „eine neue 
+  Form leninistischer Elitenherrschaft“. Die neoliberalen Reformen der letzten 
+  Jahrzehnte haben zur Ausbildung eines konkurrenzlosen Ordnungsmodells
+  geführt, dem die Menschheit ausgeliefert ist und das für Ressourcenmißbrauch,
+  Artensterben und Zerstörung natürlicher Lebensgrundlagen sorgt.
+
+  Es kommt zu einer Zersetzung der bürgerlichen Identität, mit der 
+  „Ausweitung der Moralkampfzone“ ([Wendt 2018](#Wendt2018)) in allen 
   Medien entsteht in den Köpfen ein *naiver Humanismus*, der den Charakter 
   eines Glaubens an die Möglichkeit zur Schaffung einer grenzenlosen 
   Weltgesellschaft mit umfassenden Friedens- und Wohlstandsversprechen besitzt.
   Die so implementierte Ideologie verdeckt die Enteignung und ermöglicht den 
-  Verfall der europäischen Sozialstaaten ([Eisleben 2018](Eisleben2018c)). 
+  Verfall der europäischen Sozialstaaten.
 
+
+> *In all deinen Schlachten zu kämpfen und zu siegen ist nicht die größte 
+> Leistung. Die größte Leistung besteht darin, den Widerstand des Feindes 
+> ohne einen Kampf zu brechen*.
+
+<!--
+  Der pflichtversessene Pedant[^2] Immanuel Kant hat in seiner Schrift 
+  *Zum ewigen Frieden* ([1795](#Kant1795)) bereits die grundlegenden
+  Ideen des Völkerrechts, die Verbindlichkeit zwischenstaatlicher Abkommen 
+  und die Ausrichtung des Friedens als völkerrechtlichen Vertrag formuliert.
+  Dabei ist ihm die vernunftbegabten Wesen eingebaute Doppelmoral nicht 
+  entgangen, die darin besteht, die Einhaltung allgemeiner Gesetze zu
+  verlangen und selbst aber bereit zu sein, sich insgeheim davon auszunehmen.
+  Gegen soche Doppelmoral hilft 
+  [Recht](https://www.youtube.com/watch?v=1Bvej14BrFU):
+  Die Möglichkeit zum ewigen Frieden beruht nach Kant deshalb auf einem 
+  Förderalismus freier Staaten, die sich im Rechtszustand befinden und zum 
+  Wohle ihrer Bürger handeln, also die bürgerliche Moral auf ihr Staatswesen 
+  fortsetzen ([Meggle 2019](#Meggle2019b)).
+
+  Völlig übersehen hat Kant jedoch, daß die Finanzdiktatur die Moral der 
+  Menschen bestimmt ohne ihr selbst 
+  [unterworfen](https://www.youtube.com/watch?v=BvWpavAUNwc) zu sein,
+  und folglich auf dem globalen Markt kein Recht sondern die gnadenlose 
+  Brutalität der Macht sich Geltung verschafft.
+
+  Die allgegenwärtige Privatisiserung von Gewinnen und Sozialisierung von 
+  Verlusten, die Macht der Konzerne und die zertörerische Kraft der 
+  Finanzkrisen werden Dank der Meinungsführerschaft von Think-Tanks und 
+  Lobbyvereinen öffentlich ignoriert.
 
   [^2]: Kant: [„Pflicht ist die Notwendigkeit einer Handlung aus Achtung fürs 
   Gesetz“](https://de.wikipedia.org/wiki/Kategorischer_Imperativ).
+-->
 
-<a name="IV"></a>
-### IV. Taktik 
-
-> *Soweit der Sieg durch Umstände errungen wurde, die nicht ans Licht kommen, 
->  wird man den Kämpfer nicht wegen seiner Weisheit loben; und wenn sich der 
->  feindliche Staat unterwirft, ehe ein Tropfen Blut geflossen ist, wird man 
->  ihn nicht für seinen Mut rühmen* (Sun Tzu).
-
-  Der Okkultist[^3] Karl Marx hat sich im Aufdecken und kognitiven Verarbeiten 
-  realer Widersprüche versucht.
-  Seinerzeit war noch nicht abzusehen, das der Interessens- und 
-  Aktionshorizont des großen Kapitals nicht mehr nationalstaatlich ausgerichtet
-  ist; "es dominiert unter dem Mantel von global governance eine 
-  profitstrategische (Verflechtungs-)Orientierung in unterschiedlichste 
-  Herrschafts- und Kulturregionen hinein; die multinational zusammengesetzten 
-  Konzerne sind "divers" und "bunt" zusammengesetzt und gieren nach 
-  unbegrenzter Offenheit für den ungehinderten Fluss von Geld, Waren, 
-  Dienstleistungen und variablem Kapital, also Arbeitskräfte."
-  Die sich gerne als Marxisten tarnenden angeblichen "Linksparteien" befinden 
-  sich "im ideologischen Mahlstrom des bunten globalkapitalistischen 
-  Herrschaftskartells." ([Jellen 2019](#Jellen2019)).
+## [IV. Taktik](#IV "Migration"){name=IV} 
 
   Der Club der globalen Großkonzerne, der die postkapitalistische Maschine
   antreibt und deren Vertreter sich jährlich in Davos zu einem Stelldichein 
   zusammenfinden, hat enormen politischen Einfluss gewonnen
-  ([Häring 2018](#Haering2018)).
-  "Diesen hat er intensiv, planmäßig und erfolgreich genutzt, um bei den 
+  ([Häring 2018](#Haering2018), [Jaeger 2019](#Jaeger2019)).
+  Diesen hat er intensiv, planmäßig und erfolgreich genutzt, um bei den 
   Vereinten Nationen und den Regierungen für mehr Migration, niedrigere Löhne 
-  und weniger Sozialstaat zu werben." 
-
-> *Der Ansturm der siegreichen Streitkräfte ist wie das Hereinbrechen
->  aufgestauter Wasser in eine tausend Faden tiefe Schlucht* (Sun Tzu).
-
+  und weniger Sozialstaat zu werben.
   Der UN-Migrationspakt, der keinerlei Ursachen für Migration benennt sondern
   diese in den Dienst der Kapitalinteressen stellt, ist eine Frucht dieser 
   Arbeit.
 
+> *Der Ansturm der siegreichen Streitkräfte ist wie das Hereinbrechen
+>  aufgestauter Wasser in eine tausend Faden tiefe Schlucht*.
+
+  Das Wachstum der globalen Weltbevölkerung wird über die von UN und EU 
+  betriebene Migrationsagenda in erster Linie destruktiv genutzt, es geht 
+  darum zu zerstören ([Kolodzik 2017](#Kolodzik2017)), nicht aber etwa durch 
+  bessere Bildung zu steuern ([Klingholz 2018](#Klingholz2018)) und so die
+  negativen Auswirkungen des Wachstums abzumildern. 
+  Fluchtwellen sind vorsätzlich ausgelöst worden, indem EU-Staaten die 
+  Hilfsgelder für die UN-Lebensmittelhilfe für die Lager im Nahen Osten 
+  gestrichen haben. So hat die Bundesregierung 2014/15 die Hilfsgelder von 
+  301 auf 143 Mio. $ gekürzt. „In Afghanistan kürzte man die Hilfe von 13 
+  auf 1 Millionen US-Dollar, im Irak von 16,9 auf 7,4 Millionen, in Jordanien 
+  von 16,9 auf 7,5 Millionen, in der Türkei von 6 auf 2,1 Millionen, in Syrien 
+  von 28 Millionen auf Null.” 
+  Dadurch kam es zu Hunger in den Lagern, was die Fluchtwelle auslöste 
+  („Wie der Hunger die Syrer in die Flucht trieb” FAZ 08.11.2015). 
+  Zeitgleich ließ die Bundesregierung (BAMF) Werbevideos für Asyl in 
+  Deutschland produzieren und in verschiedene orientalischen Sprachen 
+  synchronisieren, darunter Albanisch, Arabisch, Russisch, Arabisch, Dari, 
+  Farsi, Paschtu und Serbisch (Die Welt 30.08.2015).
+  Bereits seit 2013 fährt Bertelsmann eine massive PR-Kampagne für Migration
+  und koordiniert diesbezüglich auch Regierungsentscheidungen
+  ([Haering 2018](#Haering2018b)).
+
+  Das führt zur Plünderung des Sozialstaates mittels Herbeischaffung
+  alimentierter Konsumenten mit einem Mehrumsatz seit 2015 von per anno bis 
+  zu 55 Mrd. € (Die Welt, NZZ), aber auch zum Anstieg der Miet- und 
+  Immobielienpreise und zum Anstieg des Staatsschuldenniveaus.
+
+> *Soweit der Sieg durch Umstände errungen wurde, die nicht ans Licht kommen, 
+>  wird man den Kämpfer nicht wegen seiner Weisheit loben; und wenn sich der 
+>  feindliche Staat unterwirft, ehe ein Tropfen Blut geflossen ist, wird man 
+>  ihn nicht für seinen Mut rühmen*.
+
+
+<!--
   Versetzt man sich in die wahnwitzigen Gedankenwelt der Machteliten, die die
   Kontrolle über jedes Land der Erde anstreben, dann muß die Entwicklung 
   logischerweise durch die sukzessive Auflösung der Souveränität der 
   Nationalstaaten vorangetrieben werden.
 
-  Schon der Umbbau der EU in eine "demkoratiefreien Herrschaftsarchitektur"
+  Schon der Umbbau der EU in eine „demkoratiefreien Herrschaftsarchitektur“
   ([Wehr 2016](#Wehr2016)) bedarf der Überwindung der nationalen Identitäten 
   in den Mitgliedsstaaten.
-  "Der Ort der politischen Willensbildung in Europa sind die Nationalstaaten,
-  in einem vom Einzelnen nicht mehr zu übersehenden supernationalen, riesigen 
+  
+  In einem vom Einzelnen nicht mehr zu übersehenden supernationalen, riesigen 
   EU-Staat lassen sich ökonomische Großziele leichter und ohne störende 
-  demokratische Partizipation und Rechtsstaatlichkeit umsetzen" 
-  ([Eisleben 2018](#Eisleben2018a)).
+  demokratische Partizipation und Rechtsstaatlichkeit umsetzen
+  ([Eisleben 2018](#Eisleben2018a)), die Nationalstaaten als Ort der 
+  politischen Willensbildung in Europa werden übergangen.
+  Schon das EU-Parlament ist nicht nach Regeln freier Wahlen gewählt,
+  die Anzahl der für einen Parlamentssitz erforderlichen Stimmen fallen 
+  zwischen den einzelnen Mitgliedssataaten weit auseinander und ein großer
+  Teil der Bürger beachtet die lebensfremd wirkende im fernen Brüssel 
+  besprochene Politik nicht und beteiligt sich gar nicht erst an Wahlen 
+  zum Parlament.
+-->
 
 
-  [^3]: Marx: [„Die Aufhebung der Religion als des illusorischen Glücks des 
-  Volkes ist die Forderung seines wirklichen Glücks“
-  ](https://horst-koch.de/marx-und-satan-richard-wurmbrand).
 
-<a name="V"></a>
-### V. Energie 
+## [V. Energie](#V "Bildung"){name=V} 
 
 > *Es ist wichtiger, dem Gegner geistig überlegen zu sein, als ihn
-> niederzukämpfen.* (Sun Tzu).
+> niederzukämpfen.*.
 
-  Der geistreiche Vielschwätzer[^4] Adorno hat einmal zu Oswald Spengler 
-  bemerkt, "es rächt sich der vergessene Spengler, indem er droht recht zu 
-  behalten." ([Adorno 1955](#Adorno1955)).
-
-  Spengler schreibt, dass die Staaten und damit auch die Kriegsführung in die 
-  Hand von Konzernen und Großvermögen gelangen könnten.
-  Sichtbarer Teil dieser Entwicklung ist heute der international ausgerichtete 
-  Finanzkapitalismus, der rücksichtslos expandiert und dabei ganze 
-  Volkswirtschaften umgestaltet. 
+  Im "Klassenkrieg von oben" sind nach Chomsky ([1998: 13ff](#Chomsky1998)) 
+  Manipulationsstrategien zur Verdummung der Opfer von zentraler Bedeutung.
+  "Der schlaueste Weg, Menschen passiv und gehorsam zu halten, ist, das 
+  Spektrum an akzeptabler Meinung streng zu beschränken, aber eine sehr 
+  lebhafte Debatte innerhalb dieses Spektrums zu ermöglichen – sogar die 
+  kritischeren und die Ansichten der Dissidenten zu fördern.
+  Das gibt den Menschen ein Gefühl, dass es ein freies Denken gibt, während 
+  die Voraussetzungen des Systems durch die Grenzen der Diskussion gestärkt 
+  werden." ([Chomsky 2001](#Chomsky2001)).
 
   Auch der Mensch selbst wird umgestaltet:
   Der um sich greifende Finanzkapitalismus reduziert die Komplexität des Lebens
@@ -357,18 +426,18 @@ Dieses wirkmächtige System globaler Organisation mit allen damit
   Neben der Expansion in die Breite entfaltet also dieses Prinzip eine 
   Tiefenwirkung bis in die Psyche des einzelnen hinein.
   
-
+  Wie aber wurde die vollständige Ökonomisierung alles Denkens erreicht ?
   Damit ein antirationaler, gesinnungsorientierter Konsens entsteht,
   muß die sehr grundsätzliche Frage beantwortet werden, wie eine politisch
   apathische und konformistische Generation von Menschen herangebildet
-  werden kann. 
+  werden konnte. 
   Jochen Krautz ([Krautz 2012](#Krautz2012)) weits auf die Reformflut hin,
   mit der gegen den Willen der betroffenen Pädagogen ein ökonomistisches
   Denken in Schulen und Hochschulen verankert wird.
 
   Diese »Soft Governance« im Bildungswesen wird von öffentlich wenig 
   wahrgenommenen Akteuren auf globaler, europäischer und nationaler Ebene
-  ausgeführt. Die UN bringt die Inklusion auf den Weg, die dann auf
+  durchgeführt. Die UN bringt die Inklusion auf den Weg, die dann auf
   nationaler Ebene ausgeführt und implementiert wird. Selbst wenn sich
   herausstellt, das hier vor allem die betroffenen und ehemals auf speziell
   dafür eingerichteten Schulen unterrichteten Kinder die Leidtragenden sind,
@@ -384,16 +453,19 @@ Dieses wirkmächtige System globaler Organisation mit allen damit
   zur allgemeinen Einstellung werden. 
   Eine solche Vereinheitlichung von Vorstellungen hatte Walter Lippmann als 
   »manufacturing of consent« beschrieben.
+  Die Messlatte auf diesem Schlachtfeld sind die Werte, die in den PISA-Studien
+  ermittelt werde. Den Studien also, die die OECD, die Institution zur 
+  Förderung der Wirtschaft, in einem geschickten Coup den meisten 
+  Gesellschaften oktroyiert hat ((Schleim 2019)[#Schleim2019]).
 
-  [^4]: Krause: [Auf Adorno geht das Heer der Schwafler und Schwätzer 
-  zurück](https://www.welt.de/print-welt/article257787).
+  [^4]: Krause: [„Auf Adorno geht das Heer der Schwafler und Schwätzer 
+  zurück“](https://www.welt.de/print-welt/article257787).
 
-<a name="VI"></a>
-### VI. Schwache und starke Punkte 
+## [VI. Schwache und starke Punkte](#VI "Privatisierung"){name=VI} 
 
 > *Das Wasser strömt in seinem natürlichen Lauf von hohen Orten herunter und 
 > eilt bergab. So muß im Krieg gemieden werden, was stark ist, und geschlagen 
-> werden, was schwach ist.* (Sun Tzu).
+> werden, was schwach ist*.
 
   Konnte der Idealist Johann Gottlieb Fichte noch die Unsinnigkeit der
   Gleichzeitigkeit von Überfluß und Mangel bemängeln, so hat sich bei
@@ -404,10 +476,10 @@ Dieses wirkmächtige System globaler Organisation mit allen damit
   Die wohl sichbarsten Folgen des Entzugs ehemaligen Gemeineigentums und
   der damit verbundenen Umverteilung beschreibt Deckwirth 
   ([2008](#Deckwirth2008)):
-  "Bei der Liberalisierung und Privatisierung von Einrichtungen der 
+  „Bei der Liberalisierung und Privatisierung von Einrichtungen der 
   öffentlichen Daseinsvorsorge spielt die EU eine entscheidende Rolle: Sie 
   dehnt ihre Regelwerke für die Privatwirtschaft auf immer weitere Teile der 
-  Gesellschaft aus".
+  Gesellschaft aus“.
 
   Die Privatisierung der Wasserversorgung ist vielerorts zunächst gescheitert,
   wird aber bei erkennbarer Schwäche ausgeführt.
@@ -423,16 +495,14 @@ Dieses wirkmächtige System globaler Organisation mit allen damit
 
 
 
-  Wissenschaftliche Manuskripte werden in der Regel durch öffentliche Mittel 
-  finanziert, jedoch müssen öffentliche Einrichtungen - Bibliotheken - für 
-  die Abonnements dieser Artikel viel Geld bezahlen, so daß die Profite 
-  endlich in private Hände fließen, in die der Eigentümer der Verlagshäuser.
 
-  Bevor der damalige Ministerpräsident Hessens, Roland Koch, in die
-  Privatwirtschaft wechselte, brachte er die Fusion und den anschließenden
-  Verkauf der Universitätskliniken Gießen und Marburg auf den Weg.
-  Die Sozial- und Gesundheitswirtschaft wurde als ein Geschäftsfeld entdeckt, 
-  in dem sich viel Geld verdienen lässt. 
+
+> *Oh, die göttliche Kunst der Geschicklichkeit und Verstohlenheit! 
+> Durch sie lernen wir, unsichtbar zu sein, durch sie sind wir unhörbar, 
+> und damit halten wir das Schicksal des Feindes in unserer Hand.*
+
+  Auch die Sozial- und Gesundheitswirtschaft wurde als ein Geschäftsfeld 
+  entdeckt, in dem sich viel Geld verdienen lässt. 
   Sylvia Bühler ([2017](#Buehler2017)) beschreibt die gravierende Auswirkungen
   für Bürgerinnen und Bürger, die unterstützungsbedürftig sind, und für die 
   professionell helfenden Berufsgruppen.
@@ -441,19 +511,14 @@ Dieses wirkmächtige System globaler Organisation mit allen damit
   Gesetzesvorhaben Bundesteilhabegesetz und SGB VIII (Kinder- und Jugendhilfe) 
   zeigen.
 
-> *Oh, die göttliche Kunst der Geschicklichkeit und Verstohlenheit! 
-> Durch sie lernen wir, unsichtbar zu sein, durch sie sind wir unhörbar, 
-> und damit halten wir das Schicksal des Feindes in unserer Hand.* (Sun Tzu)
 
-
-<a name="VII"></a>
-### VII. Manöver 
+## [VII. Manöver](#VII "Doppelsprech"){name=VII} 
 
 > *Siegen wird, wer den Kunstgriff der Täuschung beherrscht. 
-> Dies ist die Kunst des Manövrierens* (Sun Tzu).
+> Dies ist die Kunst des Manövrierens*.
 
   Schon der unwissende Scharlatan[^5] Georg Friedrich Wilhelm Hegel, 
-  Stammvater aller Linken, beschied einem Studenten, der ihn auf den 
+  Stammvater aller Linksideologen, beschied einem Studenten, der ihn auf den 
   Widerspruch einer seiner Theorien mit der Wirklichkeit hinwies: 
   "Umso schlimmer für die Wirklichkeit". 
 
@@ -473,19 +538,54 @@ Dieses wirkmächtige System globaler Organisation mit allen damit
   der Kräfteverhältnisse, die von ersteren ignoriert werden, während letztere 
   sie aktiv gestalten."
 
-  Die demografische Dynamik außerhalb Europas ist enorm 
-  ([Heihnsohn 2018](#Heihnsohn2018)) und gut für die irreguläre Kriegführung 
-  zu gebrauchen ([Barnett 2003](#Barnett2003), [Heinsohn 2019](#Heinsohn2019)).
+  Dabei treten die antinationalen Ideologen heute auch gern im grünen Gewand
+  auf und sehen dabei aus wie Wiedergänger aus längst vergangen geglaubten 
+  religiös-fundamentalistischen Zeiten. 
+  Es werden ja nur die Spielräume des Einzelnen beständig eingeengt, während 
+  das Große – das Postnationale, die Globalisierung, die Weltwirtschaft – sich 
+  am besten regellos ständig weiter ausbreiten soll. "Das ist am Ende der 
+  Fluch, der aus der unsichtbaren Verbrüderung von postnationaler Ökoreligion 
+  und Neoliberalismus erwachsen ist" ([Vahlefeld 2019](Vahlefeld2019)).
+
+  All diese unerhörten Lächerlichkeiten, die Fesselung und Knebelung des 
+  freien Geistes und des freien Bürgers folgen Stück für Stück Konzepten, 
+  die einer sozialistischen Weltrevolution entsprungen sein könnten.
+  Die Organisation, die diese Diskursvergiftung durch weltweite Kampagnen 
+  veranstaltet, heißt United Nations. Sie greift immer dreister auf das Geld 
+  der kleinen Leute in den Industrieländern zurück, um weltweit im Grunde 
+  freiheits- und menschenfeindliche Projekte durchzusetzen. 
+  Mit einem raffiniert zusammengestellten Wortschatz, in dem Rassismus, 
+  Gender, Klima, Menschenrecht, Gerechtigkeit die Hauptrolle spielen, wird 
+  von Diskurs auf lenkende und ausschließende Propaganda umgeschaltet. 
+  So wird das Denken und Handeln kontrolliert.
+
+  Der Okkultist[^3] Karl Marx hat sich einst im Aufdecken und kognitiven 
+  Verarbeiten realer Widersprüche versucht.
+  Seinerzeit war noch nicht abzusehen, das der Interessens- und 
+  Aktionshorizont des großen Kapitals nicht mehr nationalstaatlich ausgerichtet
+  ist; "es dominiert unter dem Mantel von global governance eine 
+  profitstrategische (Verflechtungs-)Orientierung in unterschiedlichste 
+  Herrschafts- und Kulturregionen hinein; die multinational zusammengesetzten 
+  Konzerne sind "divers" und "bunt" zusammengesetzt und gieren nach 
+  unbegrenzter Offenheit für den ungehinderten Fluss von Geld, Waren, 
+  Dienstleistungen und variablem Kapital, also Arbeitskräfte."
+  Die sich gerne als Marxisten tarnenden angeblichen "Linksparteien" befinden 
+  sich "im ideologischen Mahlstrom des bunten globalkapitalistischen 
+  Herrschaftskartells." ([Jellen 2019](#Jellen2019)).
+  [^3]: Marx: [„Die Aufhebung der Religion als des illusorischen Glücks des 
+  Volkes ist die Forderung seines wirklichen Glücks“
+  ](https://horst-koch.de/marx-und-satan-richard-wurmbrand).
 
 
 
 
 
-  [^5]: Schopenhauer: [Hegel, ein platter ...  unwissender Scharlatan
+
+
+  [^5]: Schopenhauer: [„Hegel, ein platter ...  unwissender Scharlatan“
   ](https://de.wikiquote.org/wiki/Georg_Wilhelm_Friedrich_Hegel).
 
-<a name="VIII"></a>
-### VIII. Taktische Varianten
+## [VIII. Taktische Varianten](#VIII "Pornographie"){name=VIII}
 
 > *Locke die besten und klügsten Männer des Feindes fort, damit er keine 
 >  Ratgeber mehr hat. 
@@ -495,12 +595,12 @@ Dieses wirkmächtige System globaler Organisation mit allen damit
 >  seine Männer zu verderben, und sorge dafür, daß er seinen Staatsschatz
 >  verschwendet. Untergrabe seine Moral durch heimtückische Geschenke, die ihn
 >  maßlos machen. Lenke ihn ab und verwirre ihn, indem du ihm schöne Frauen
->  gibst* (Sun Tzu).
+>  gibst*.
 
-  Die Maschinen überschütten uns mit Pornographie.
+  Die Maschinen überschütten uns mit Pornographie. 
   Hargot ([2017](#Hargot2017)) beschreibt die von der Porno-Industrie
-  ausgehende Tyrannei, die das einstmals Animalische des Menschen ihren 
-  Maschinen gleichschaltet:
+  ausgehende Tyrannei, die das einstmals Animalische des Menschen den 
+  Maschinen angleicht:
   "In jeder dieser Geschichten sind die Akteure oder Amateure letztlich nur 
   nacktes, kopulierendes Fleisch, was sicherlich auf den ersten Blick den 
   Fantasievorstellungen der Schaulustigen entspricht, aber im Grunde findet 
@@ -511,71 +611,71 @@ Dieses wirkmächtige System globaler Organisation mit allen damit
 
 > *Schwäche die feindlichen Anführer, indem du ihnen Schaden zufügst; mache 
 >  ihnen Schwierigkeiten und halte sie ständig in Atem; täusche sie mit 
->  Verlockungen und lasse sie jeweils zu dem Ort eilen, den du bestimmst* 
->  (Sun Tzu).
+>  Verlockungen und lasse sie jeweils zu dem Ort eilen, den du bestimmst*.
 
-  Die Medien überschwemmen uns mit Nichtigkeiten 
-  ([Brigandes 2017](#Brigandes2017)).
 
+  Die Medien verdecken das Geschehen und überschwemmen uns mit Nichtigkeiten 
+  ([Brigandes 2016](#Brigandes2016)).
+  Denn der beste Schutz der entstandenen Machtstruktur ist der Entzug dieser
+  Strukturen aus dem demokratischen Diskursraum; der Neoliberalismus hat 
+  sich den Staat zur Beute gemacht und ihn zu einem Interventions- und
+  Subventionsstaat für die Reichen gemacht ([Eisleben 2018](#Eisleben2018b)). 
+  Diese Machstrukturen sind nicht abwählbar, diese Bedeutungszusammenhänge 
+  sind öffentlich nicht wahrnehmbar. Die Stellung ist uneinnehmbar, 
+  "Die Herde schweigt" ([Mausfeld 2015](#Mausfeld2015)).
 
 > *Die Kunst des Krieges lehrt uns, nicht darauf zu hoffen, daß der Feind nicht 
 > kommt, sondern darauf zu bauen, daß wir bereit sind, ihn zu empfangen; nicht 
 > auf die Möglichkeit, daß er nicht angreift, sondern auf die Tatsache, daß wir
-> unsere Stellung uneinnehmbar gemacht haben* (Sun Tzu).
-
-  Der beste Schutz der entstandenen Machtstruktur ist der Entzug dieser
-  Strukturen aus dem demokratischen Diskursraum; der Neoliberalismus hat 
-  sich den Staat zur Beute gemacht und ihn zu einem Interventions- und
-  Subventionsstaat für die Reichen gemacht. Diese Machstrukturen sind nicht
-  abwählbar, diese Bedeutungszusammenhänge sind öffentlich nicht wahrnehmbar. 
-  Die Stellung ist uneinnehmbar, 
-  "Die Herde schweigt" ([Mausfeld 2015](#Mausfeld2015)).
+> unsere Stellung uneinnehmbar gemacht haben*.
 
 
-<a name="IX"></a>
-### IX. Die Armee auf dem Marsch
-
+## [IX. Die Armee auf dem Marsch](#IX "Meditation"){name=IX}
+ 
 > *In militärischen Angelegenheiten ist es nicht notwendigerweise von Vorteil, 
 >  über die größere Anzahl zu verfügen; was allein zählt, ist, aggressives 
 >  Handeln zu vermeiden; es genügt, die eigene Kraft zu konzentrieren, den 
 >  Gegner richtig einzuschätzen und Menschen zu gewinnen; das ist alles.*
 
+> *Überheblich zu beginnen und danach vor der Zahl des Feindes zurückzuschrecken
+> ist ein Beweis für einen außergewöhnlichen Mangel von Intelligenz.*
+
   Der globalisierte, kapitalistische Markt zerstört nun alles, "was die 
   unbegrenzte Ausdehnung und die freie Zirkulation der als Waren neu 
   definierten Menschen, die totale Merkantilisierung des Lebens und die 
   individualistische Privatisierung der Gesellschaft verhindert" 
-  ([Fusaro 2018](Fusaro2018a)).
-
+  ([Fusaro 2018](#Fusaro2018)).
   Es gibt fünf gefährliche Fehler, die zu dieser ungeheuren Macht des Negativen 
-  geführt haben. Sun Tzu beschreibt diese fünf Fehler:
+  geführt haben:
 
-  *Die beiden ersten sind: Unbekümmertheit, da sie zur Vernichtung führt; 
-  und Feigheit, da sie zur Gefangennahme führt.
-  Der nächste ist ein empfindliches Ehrgefühl, das für Scham empfänglich ist; 
-  und ein ungezügeltes Temperament, das durch Beleidigungen provoziert werden 
-  kann. Der letzte dieser Fehler ist übergroße Sorge um das Wohl der Männer, 
-  die den General anfällig macht für Kummer und Schwierigkeiten, denn am Ende 
-  leiden die Truppen mehr unter der Niederlage oder bestenfalls der 
-  Verlängerung des Krieges, welche die Folge sein werden.
-  Dies sind die fünf schrecklichen Sünden eines Generals, die für
-  die Kriegführung verhängnisvoll sind.*
+>  *Die beiden ersten sind: Unbekümmertheit, da sie zur Vernichtung führt; 
+>  und Feigheit, da sie zur Gefangennahme führt.
+>  Der nächste ist ein empfindliches Ehrgefühl, das für Scham empfänglich ist; 
+>  und ein ungezügeltes Temperament, das durch Beleidigungen provoziert werden 
+>  kann. Der letzte dieser Fehler ist übergroße Sorge um das Wohl der Männer, 
+>  die den General anfällig macht für Kummer und Schwierigkeiten, denn am Ende 
+>  leiden die Truppen mehr unter der Niederlage oder bestenfalls der 
+>  Verlängerung des Krieges, welche die Folge sein werden.
+>  Dies sind die fünf schrecklichen Sünden eines Generals, die für
+>  die Kriegführung verhängnisvoll sind.*
  
   Wenn alles verloren ist, ist gewiß einer dieser fünf gefährlichen Fehler 
   die Ursache. Sun Tzu sagt: 
 
->  *Mache sie zum Gegenstand deiner Meditation.*
+>  *[Mache sie zum Gegenstand deiner Meditation](https://www.youtube.com/watch?v=ljvTwbxrylc).*
 
-<a name="X"></a>
-### X. Terrain
+## [X. Terrain](#X "1984"){name=X}
+
 > *Wenn du den Feind und dich selbst kennst, besteht kein Zweifel an deinem 
 > Sieg; wenn du Himmel und Erde kennst, dann wird dein Sieg vollständig 
-> sein.* (Sun Tzu)
+> sein*.
 
-  Das Terrain, auf dem sich dieser nichterklärte Krieg bewegt, 
-  ist das miteinander des über Kapitalbeteiligungen verflochtenen 
-  Militärisch-Industriellen Komplexes ([Patriots 2017](#Patriots2017)).
+  Das Terrain, auf dem sich dieser nichterklärte Krieg gegen alles menschliche 
+  Leben bewegt, ist das miteinander des über Kapitalbeteiligungen verflochtenen 
+  transnationalen Finanzkapitalismus, der globalen Überbevölkerung und der vom 
+  politisch-medialen Komplex erzeugten Scheinrealität.
 
-  Die konkrete Struktur dieses globalen Netzwerkes internationaler Konzerne 
+  Die konkrete Struktur des globalen Netzwerkes internationaler Konzerne 
   lässt sich anhand ihrer finanziellen Beteiligungsverhältnisse darstellen.
   Vitali et. al. ([2011](#Vitali2011)) verwenden zur quantitativen Analyse 
   dieses Netzwerkes eine "ownership matrix", in der für jede Komponente der 
@@ -588,22 +688,33 @@ Dieses wirkmächtige System globaler Organisation mit allen damit
   verbunden zu sein.
 
 
+  Die Verlagerung der Entscheidungsstrukturen weg vom Volk auf supranationale 
+  Institutionen hilt dabei die schon von Hayek erträumte und vorgeschlagene 
+  Elitendiktatur mit Demokratiesimulation zu errichten.
+  Dabei ist „das Schild der Humanität die beste, sicherste Decke der 
+  niederträchtigsten öffentlichen Gaunerei.” (Johann Gottfried Seume)  
+  Die Dystopie eines totalitären Überwachungsstaats, in dem die 
+  herrschende Oligarchie mit Hilfe von „Teleschirmen“ die Gedanken der
+  Bürger kontrolliert und so ihren Machtanspruch durchsetzt, wird bereits
+  von George Orwell im Roman (["1984"](#Orwell1948)) beschrieben.
 
+>> “...war is not meant to be won, it is meant to be continuous” – George Orwell
 
-<a name="XI"></a>
-### XI. Die neun Situationen
+## [XI. Die neun Situationen](#VI "Handlungsfelder"){name=XI}
 
 > *Im Frieden bereite dich auf den Krieg vor, im Krieg bereite dich auf 
-> den Frieden vor* (Sun Tzu).
+> den Frieden vor*.
 
-  Die Orte des Handelns lassen sich unterscheiden in Auseinanderspringende, 
-  leichte, umstrittene, nach allen Seiten offene, sich kreuzenden Straßen, 
-  gefährliche, schwierige, eingeschränkte und hoffnungslose Orte.
+  Die in diesem Krieg maßgeblichen Handlungsfelder lassen sich unterscheiden in
+> *Auseinanderspringende, leichte, umstrittene, nach allen Seiten offene, 
+> sich kreuzenden Straßen, gefährliche, schwierige, eingeschränkte und 
+> hoffnungslose Orte.*
 
-  1) *Auseinanderspringende:* Beendigung des Kasino-Kapitalismus 
+
+  1) *Auseinanderspringende:* Beendigung des Derivatehandels
      ([Altvater et. al. 2009](#Altvater2009)).
 
-  2) *Leichte:* Verbot der Pornographie.
+  2) *Leichte:* Verbot der Pornographie ([Holland 2018](#Holland2018)).
 
   3) *Umstrittene:* Austritt aus dem UN-Menschenrechtsrat 
      ([Wrouten 2018](#Wrouten2018)).
@@ -611,18 +722,21 @@ Dieses wirkmächtige System globaler Organisation mit allen damit
   4) *Nach allen Seiten offene:* Kontrolle des Bevölkerungswachstums 
      ([Seitz 2019](#Seitz2019)).
 
-  5) *Sich kreuzende Straßen:* Förderung der kulturellen und sozialen 
-     Identität zur Stärkung des Gemeinschaftsgefühls.
+  5) *Sich kreuzende Straßen:* Einführung einer regionalisierten Handelspolitik 
+     ([Groll 2019](#Groll2019)).
 
-  6) *Gefährliche:* Beendigung aller Auslandseinsätze der Armee.
-
-  7) *Schwierige:* Das "Council on Foreign Affairs" und die mit ihm verbundenen 
+  7) *Gefährliche:* Das "Council on Foreign Affairs" und die ihm verwandten 
      Organisationen sollen als Feinde der ganzen Welt benannt und geächtet 
-     werden. 
+     werden ([SWPR 2017](#Swpr2017)).
 
-  8) *Eingeschränkte:* Vollständiges Verbot des Exportes von Rüstungsgütern.
+  6) *Schwierige:* Entpolitisierung der öffentlich-rechtlichen 
+     Rundfunkanstalten ([Schauenburg 2018](#Schauenburg2018)]).
 
-  9) *Hoffnungslose:* Sichere Arbeitsplätze.
+  8) *Eingeschränkte:* Vollständiges Verbot des Exportes von Rüstungsgütern
+      ([Brzoska 2017](#Brzoska2017)).
+
+  9) *Hoffnungslose:* Beendigung des Schuldgeldsystems 
+      ([Schwertmann 2018](#Schwertmann2018)).
 
 
 > *Es reicht nicht, Pferde anzubinden und Wagenräder im Boden einzugraben. 
@@ -633,66 +747,82 @@ Dieses wirkmächtige System globaler Organisation mit allen damit
 
 
 
-<a name="XII"></a>
-### XII. Angriff durch Feuer
+## [XII. Angriff durch Feuer](#XII "Angriff"){name=XII}
 
-> *Bewege dich nicht, wenn du keinen Vorteil siehst; setze deine Truppen nicht 
-> ein, wenn es nichts zu gewinnen gibt; kämpfe nicht, wenn die Lage nicht 
-> kritisch ist. 
-> Ein Königreich, das einmal zerstört wurde, kann nie wieder errichtet werden; 
-> und auch die Toten können nicht ins Leben zurückgeholt werden* (Sun Tzu).
+> *Bewege dich nicht, wenn du keinen Vorteil siehst; setze deine Truppen 
+> nicht ein, wenn es nichts zu gewinnen gibt; kämpfe nicht, wenn die Lage 
+> nicht kritisch ist. Kein Herrscher sollte Truppen ins Feld schicken, nur 
+> um einer Laune nachzugeben; kein General sollte aus Verärgerung eine 
+> Schlacht beginnen. Zorn mag sich mit der Zeit in Freude verwandeln; auf
+> Verärgerung mag Zufriedenheit folgen. 
+> Doch ein Königreich, das einmal zerstört wurde, kann nie wieder errichtet 
+> werden; und auch die Toten können nicht ins Leben zurückgeholt werden*.
 
-<a name="XIII"></a>
-### XIII. Der Einsatz von Spionen
+  Der politisch-mediale, der militärisch-industrielle und der
+  wachstums-migrations Komplex greifen sich gegenseitig verbösernd ineinander.
 
-> *So wird der erleuchtete Herrscher und der weise General die Intelligentesten 
-> seiner Armee als Spione einsetzen und auf diese Weise hervorragende Erfolge 
-> erzielen. 
-> Spione sind ein äußerst wichtiges Element des Krieges, denn von ihnen hängt 
-> die Fähigkeit der Armee ab, sich zu bewegen* (Sun Tzu).
+  Nun mag sich mancher wünschen, seinen GEZ-Gebührenbescheid zu verbrennen, 
+  die Wallstreet abzufackeln und das für Migration verbrannte Geld für 
+  Familienpolitik ausgeben zu können.
+  Allein: es gibt hier nichts zu gewinnen.
+
+> *So ist der erleuchtete Herrscher umsichtig, und der gute General voller 
+> Vorsicht. Dies ist der Weg, ein Land in Frieden und eine Armee intakt zu 
+> halten*.
+
+
+## [XIII. Der Einsatz von Spionen](#XIII "Subversion"){name=XIII}
+
+> *Die Kenntnis der Geisterwelt wird durch das Orakel erlangt; Informationen
+> in Naturwissenschaften können durch Erfahrungswerte gewonnen werden; die 
+> Gesetze des Universums können durch mathematische Schlüsse bewiesen werden. 
+> Doch die Pläne des Feindes sind durch Spione und nur durch sie zu ermitteln*.
 
   In einem Interview über die Geschichte der Geheimdienste und ihren
   verdeckten Operationen sagt Edward Snowden ([2017](#Raza2017)):
   "Der Glaube, dass unsere sogenannten gewählten Volksvertreter unsere 
   Probleme lösen werden, ist der Fehler, den wir immer wiederholen." 
 
+  Die Subversion durch Spionage ist langfristig angelegt.
   Der übergelaufene KGB-Agent Yuri Bezmenov ([Bezmenov 2011](#Bezmenov2011)) 
-  berichtet von seiner Arbeit zur Destabilisierung eines Landes, die er als
-  nichterklärten totalen Krieg beschreibt.
+  berichtet von mehreren Jahrzehnten zur Destabilisierung eines Landes, was 
+  einem nichterklärten totalen Krieg gegen die bürgerlichen Ordnung darstellt.
+  Die Demoralisierung ist erfolgreich besonders wegen der Hilfestellung
+  der politischen Linken: „Never bother with lefties. They are political 
+  prostitutes and used to destabilize a country.“
 
+  Die entpersonalisierte, institutionalisierte und übergeordneten ökonomischen
+  Zwecken dienende Macht dehnt sich aus und verfestigt sich mithilfe
+  verschiedener Spionagetechniken. Grundlage dieser weitgehenden Form der
+  Sicherung der Herrschaft ist die dauernde Überwachung des Verhaltens von
+  Menschen, bei denen abweichendes Verhalten zu befürchten ist.
+  Dazu ist die gesamte moderne Maschinerie der Informationssammlung und
+  -übermittlung hervorragedn geeignet. Alle modernen Staaten und alle großen 
+  Social-Media-Konzerne führen eine Massenüberwachung über Aufzeichnungen von 
+  Kommunikation durch.
 
-<a name="Material"></a>
+  Die maschinelle Auswerung dieser Daten ist zum Teil noch mühsam, da viele 
+  Nuancen der menschlichen Sprache wie Ironie und Humor von Maschinen nicht 
+  oder falsch verstanden werden und für ein genaueres maschinelles Verständnis 
+  ganze Dialoge mathematisch modelliert werden müssen. 
+  Auch Videos, die bereits für die Überwachung vieler öffentlicher Plätze zur 
+  Verfügung stehen, sind schwer zu interpretieren und erlauben die 
+  Identifikation von Subjekten nur bei präzisen Aufnahmen der Augen- und 
+  Mundpartie.
 
+  Dennoch liegt eine automatische Überwachung bereits in greifbarer Nähe
+  und dürfte die bereits bestehenden Möglichkeiten in den nächsten 
+  Jahrzehnten derart ausweiten, 
+  „... dass die totale Überwachung Drohungen und Belohnungsversprechen extrem 
+  realistisch macht und den tatsächlichen Aufwand der Gewaltanwendung 
+  reduziert, so dass mehr Mittel in den Herrschaftsausbau investiert werden 
+  können.“ ([Eisleben 2019](#Eisleben2019)).
 
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-<!--
-  Skepsis gegenüber Migranten und Ausländern ist im Menschen tief verwurzelt, 
-  das ist weltweit der Fall, und keine Besonderheit der Deutschen, sondern hat 
-  evolutionsbiologische Ursachen. Das muss man nicht gut finden, man sollte es 
-  aber zur Kenntnis nehmen. Ob das dann gleich in Rassismus umschlägt, muss 
-  man im Einzelfall sehen, und dann sicher dagegen vorgehen.
-
-  Ich sehe aber nicht, wieso jemand, der wahllose Migration ablehnt, ein 
-  Rassist sein sollte. Das ist weder logisch begründbar, noch sinnvoll, 
-  sondern dient einzig und alleine der Diskreditierung und Diskriminierung 
-  dieser Person.
-
--->
+> *So wird der erleuchtete Herrscher und der weise General die Intelligentesten 
+> seiner Armee als Spione einsetzen und auf diese Weise hervorragende Erfolge 
+> erzielen. 
+> Spione sind ein äußerst wichtiges Element des Krieges, denn von ihnen hängt 
+> die Fähigkeit der Armee ab, sich zu bewegen*.
 
 _____________________________________________________________________________
 
@@ -702,355 +832,389 @@ _____________________________________________________________________________
 
 
 
-### Bibliographie
-
-  <a name="Adorno1955"></a>
-  Adorno, T. W. (1955). *Spengler nach dem Untergang. Zu Oswald Spenglers 70.
-  Geburtstag*. In Prismen. Kulturkritik und Gesellschaft, hrsg. Theodor 
-  W. Adorno, 115–128. Frankfurt.
-
-  <a name="Joyce1916"></a> 
-  Joyce, J. (1916). *A Portrait of the Artist as a Young Man*. [Wikisource.org
-  ](https://en.wikisource.org/wiki/A_Portrait_of_the_Artist_as_a_Young_Man)
 
 
-  <a name="Barnett2003"></a> 
-  Barnett, T. (2003). [*Why the Pentagon Changes Its Maps*
-  ](https://www.esquire.com/news-politics/a1546/thomas-barnett-iraq-war-primer)
 
 
-  <a name="Berger2018"></a>
-  Berger, J. (2018). *Wahlkämpfer der Woche: Jakob Augstein*.
-  [NachDenkSeiten](https://www.nachdenkseiten.de/wp-print.php?p=44870).
-    
-  <a name="Bezmenov2011"></a>
-  Bezmenov, Y. (2011): Deception Was My Job.
-  [YouTube](https://www.youtube.com/watch?v=y3qkf3bajd4&t=321s).
+
+  
 
 
-  <a name="Brigandes2017"></a>
-  Brigandes, L. (2017). 
-  [Cerveau Lavé](https://www.youtube.com/watch?v=zQCF1R8xiFA).
 
-  <a name="Brigandes2018"></a>
-  Brigandes, L. (2018). [Nachricht von Les Brigandes an die Kritiker
-  ](https://www.youtube.com/watch?v=9pucN48xxuE).
 
-  <a name="Buehler2017"></a>
-  Bühler. S. (2017). *Markt und Gewinnstreben im Sozialsektor: Wirkungen auf 
-  die Beschäftigungsbedingungen und die Qualität der Versorgung aus 
+
+
+
+
+## Bibliographie
+
+  Titelbild: AlexHe34 [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) oder GFDL (http://www.gnu.org/copyleft/fdl.html)], von Wikimedia Commons.
+
+
+  [Adorno, T. W. (1955)](#Adorno1955){name=Adorno1955}. 
+  *Spengler nach dem Untergang. Zu Oswald Spenglers 70.  Geburtstag*. 
+  In Prismen. Kulturkritik und Gesellschaft, hrsg. Theodor W. Adorno, 115–128. 
+  Frankfurt.
+
+
+  [Barnett, T. (2003)](#Barnett2003){name=Barnett2003}. 
+  [*Why the Pentagon Changes Its Maps*
+  ](https://www.esquire.com/news-politics/a1546/thomas-barnett-iraq-war-primer).
+
+
+  [Berger, J. (2018)](#Berger2018){name=Berger2018}. 
+  *Wahlkämpfer der Woche: Jakob Augstein*. [NachDenkSeiten, 
+   10.7.2018](https://www.nachdenkseiten.de/wp-print.php?p=44870).
+
+  [Bezmenov, Y. (2011)](#Bezmenov2011){name=Bezmenov2011}.
+  *Deception Was My Job*.
+  [YouTube, 21.1.2011](https://www.youtube.com/watch?v=y3qkf3bajd4&t=321s).
+
+
+  [Brigandes, L. (2016)](#Brigandes2016){name=Brigandes2016}. Cerveau Lavé.
+  [Youtube, 28.5.2016](https://www.youtube.com/watch?v=zQCF1R8xiFA).
+
+
+  [Brzoska M. (2017)](#Brzoska2017){name=Brzoska2017}.
+  *Rüstungsherstellung und Rüstungsexport: Gebote, Verbote und Paradoxien*. 
+  In: Werkner IJ., Ebeling K. (eds) Handbuch Friedensethik. 
+  Springer VS, Wiesbaden
+
+  [Bühler. S. (2017)](#Buehler2017){name=Buehler2017}. 
+  *Markt und Gewinnstreben im Sozialsektor: Wirkungen auf die 
+  Beschäftigungsbedingungen und die Qualität der Versorgung aus 
   gewerkschaftlicher Sicht*. [WSI-Mitteilungen Jahrgang 70 (2017) Heft 3
-  ](https://www.nomos-elibrary.de/10.5771/0342-300X-2017-3-218.pdf)
+  ](https://www.nomos-elibrary.de/10.5771/0342-300X-2017-3-218.pdf).
 
-  <a name="Chomsky1998"></a>
-  Chomsky, N. (1998). Haben und Nichthaben. Bodenheim.
+  [Chomsky, N. (1998)](#Chomsky1998){name=Chomsky1998}.
+  Haben und Nichthaben. Bodenheim.
 
-  <a name="Chomsky2000"></a>
-  Chomsky, N. (2000). *Profit over People. Neoliberalismus und globale 
-  Weltordnung.* [Europa Verlag, Hamburg/Wien.
-  ](https://hds.hebis.de/ubmr/Record/HEB093639465)
-
-  <a name="Chomsky2001"></a>
-  Chomsky, N (2001). *Die politische Ökonomie der Menschenrechte*.
-  Grafenau : Trotzdem-Verl.-Genossenschaft.
+  [Chomsky, N. (2000)](#Chomsky2000){name=Chomsky2000}. 
+  *Profit over People. Neoliberalismus und globale Weltordnung.* 
+  [Europa Verlag, Hamburg/Wien](https://hds.hebis.de/ubmr/Record/HEB093639465).
 
 
+  [Chomsky, N. (2018)](#Chomsky2018){name=Chomsky2018}. 
+  *Kampf oder Untergang!: Warum wir gegen die Herren der Menschheit 
+   aufstehen müssen*. Westend Verlag (Frankfurt) 2018.
 
-  <a name="Creveld2004"></a>
-  Van Creveld, M. (2004). *Die Zukunft des Krieges: wie wird Krieg geführt 
-  und warum?* 
-  [Hamburg: Murmann, 2004](https://hds.hebis.de/ubmr/Record/HEB176543686).
-
-  Chomsky, N (2001). *Die politische Ökonomie der Menschenrechte*.
-  <a name="Deckwirth2008"></a>
-  Deckwirth, C. (2008). *Die Europäische Union als Triebkraft der 
-  Privatisierung*, 
-  in: [WSI-Mitteilungen 10/2008](https://www.boeckler.de/22126_22129.htm)
-
-  <a name="Eisleben2018a"></a>
-  Eisleben, J. (2018). [Merkels Masterplan
-  ](http://www.achgut.com/artikel/der_masterplan_dser_angela_merkel)
-
-  <a name="Eisleben2018b"></a>
-  Eisleben, J. (2018). [Der Staat als Gegner seiner 
-  Bürger](http://www.achgut.com/artikel/Der_staat_als_gegner_seiner_buerger)
-
-  <a name="Eisleben2018c"></a>
-  Eisleben, J. (2018). [Politisches Handeln gegen die eigenen Interessen
-  ](http://www.achgut.com/artikel/politisches_handeln_gegen_die_eigenen_interessen)
+  [Deckwirth, C. (2008)](#Deckwirth2008){name=Deckwirth2008}. 
+  *Die Europäische Union als Triebkraft der Privatisierung*, 
+  in: [WSI-Mitteilungen 10/2008](https://www.boeckler.de/22126_22129.htm).
 
 
-  <a name="Fusaro2018a"></a>
-  Fusaro, D. (2018). *Die ungeheure Macht des Negativen*.
+  [Eisleben, J. (2018)](#Eisleben2018a){name=Eisleben2018a}. 
+  *Merkels Masterplan*. [Achgut.com, 
+  4.7.2018](http://www.achgut.com/artikel/der_masterplan_dser_angela_merkel).
+
+  [Eisleben, J. (2018)](#Eisleben2018b){name=Eisleben2018b}. 
+  *Der Staat als Gegner seiner Bürger*. [Achgut.com,
+  13.3.2018](http://www.achgut.com/artikel/Der_staat_als_gegner_seiner_buerger).
+
+  [Eisleben, J. (2018)](#Eisleben2018c){name=Eisleben2018c}. 
+  *Politisches Handeln gegen die eigenen Interessen*. [Achgut.com, 19.2.2018
+  ](http://www.achgut.com/artikel/politisches_handeln_gegen_die_eigenen_interessen).
+
+  [Eisleben, J. (2019)](#Eisleben2019){name=Eisleben2019}. 
+  *Der Zukunftsmarkt für Unterdrückungs-Technologien*. [Achgut.com, 16.3.2019
+  ](http://www.achgut.com/artikel/der_zukunftsmarkt_fuer_unterdrueckungs-technologien).
+
+  [Eversmann, L. (2019)](#Eversmann2019){name=Eversmann2019}.
+  [Happy End für Karl Marx, 8.5.2019](https://heise.de/-4417008)
+
+  [Fusaro, D. (2017)](#Fusaro2017){name=Fusaro2017}. 
+  *Globalisierung und Entwurzelung*.
+  [Telepolis, 7.4.2017](https://heise.de/-3671717).
+
+  [Fusaro, D. (2018)](#Fusaro2018){name=Fusaro2018}. 
+  *Die ungeheure Macht des Negativen*.
   [Telepolis 23.2.2018](https://heise.de/-3975113).
 
-  <a name="Fusaro2018"></a>
-  Fusaro, D. (2018). *Marx 2.0*.
-  [Telepolis 11.5.2018](https://heise.de/-4045247).
 
-  <a name="Fusaro2017"></a>
-  Fusaro, D. (2017). *Globalisierung und Entwurzelung*.
-  [Telepolis 7.4.2017](https://heise.de/-3671717).
+  [Gärtner, N. (2019)](#Gaertner2019){name=Gaertner2019}. 
+  *Politik und Mainstream-Medien: Die Deutschen sind einfach zu doof*. 
+  [Der Privatinvestor, 30.1.2019
+  ](https://politik.der-privatinvestor.de/politik-und-mainstream-medien-die-deutschen-sind-einfach-zu-doof).
 
-  <a name="Groeh2018"></a>
-  Gröh. W. (2019). *Die Privatisierung der GBW*.
-  [Telepolis, 25.7.2018](https://heise.de/-4118998)
 
-  Jasinna (2018), *Die Flüchtlings-Macher*.
-  [You Tube](https://www.youtube.com/watch?v=nsCBN4sHHSA).
+  [Groll, F. (2019](#Groll2019){name=Groll2019}.
+  Regionalisierung statt Globalisierung – Plädoyer für eine neue Handels- 
+  und Entwicklungspolitik. 
+  [AttacTheorieblog 5.1.2019](https://theorieblog.attac.de/?p=1016).
 
-  <a name="Jellen2019"></a>
-  Jellen, R. (2019). *Aufdecken und kognitives Verarbeiten von realen 
-  Widersprüchen*. [Telepolis 3.1.2019](https://heise.de/-4252407)
-
-  <a name="Ludwig2016"></a>
-  Ludwig, H. (2016). *Globale Planung der Massenmigration*.
-  [Fassadenkratzer](https://fassadenkratzer.wordpress.com/2016/04/02/globale-planung-der-massenmigration)
-
-  <a name="Ludwig2016"></a>Ludwig, H. (2018).
-  [Der Einfluss der internationalen Großkonzerne auf den Globalen Migrationspakt der UNO](https://fassadenkratzer.wordpress.com/2018/08/03/der-einfluss-der-internationalen-grosskonzerne-auf-den-globalen-migrationspakt-der-uno/#more-4916)
-
-  <a name="Hargot2017"></a>
-  Hargot T. (2018). *Die Porno-Tyrannei*. In: Sexuelle Freiheit aufgedeckt. 
+  [Hargot T. (2018)](#Hargot2017){name=Hargot2017}. 
+  *Die Porno-Tyrannei*. In: Sexuelle Freiheit aufgedeckt. 
   [Springer 1.8.2017](https://doi.org/10.1007/978-3-662-54767-0_2).
 
-  <a name="Haering2018"></a>
-  Häring, N. (2018). *Migrationsabkommen Teil II: Was das Weltwirtschaftsforum 
-  mit dem UN-Migrationsabkommen zu tun hat*. [21.7.2018
+  [Häring, N. (2018)](#Haering2018){name=Haering2018}. 
+  *Migrationsabkommen Teil II: Was das Weltwirtschaftsforum mit dem 
+  UN-Migrationsabkommen zu tun hat*. [21.7.2018
   ](http://norberthaering.de/de/27-german/news/997-migrationsabkommen-2).
 
-  Haller, M. (2017). [Die Flüchtlingskrise in den Medien: Tagesaktueller 
-  Journalismus zwischen Meinung und Information](https://www.otto-brenner-stiftung.de/fileadmin/user_data/stiftung/02_Wissenschaftsportal/03_Publikationen/AH93_Fluechtingskrise_Haller_2017_07_20.pdf).
+  [Häring, N. (2018)](#Haering2018b){name=Haering2018b}. 
+  *Bertelsmann, die Willkommenskultur und der UN-Migrationspakt: Teil 2*.
+  [16.12.2018](http://norberthaering.de/de/27-german/news/1082-bertelsmann-willkommenskultur-2)
 
-  <a name="Hamm2014"></a>
-  Hamm, B. (2014). Das Ende der Demokratie – wie wir sie kennen. 
+
+  [Hamm, B. (2014)](#Hamm2014){name=Hamm2014}. 
+  *Das Ende der Demokratie – wie wir sie kennen*. 
   https://www.weltwirtschaft-und-entwicklung.org/downloads/hammlang.pdf
 
-  <a name="Heihnsohn2018"></a>
-  Heinsohn, G. (2018). "Seehofer hat mehr gegen sich als Merkel".
-  [Achgut.com 16.6.2018
-  ](http://www.achgut.com/artikel/seehofer_hat_mehr_gegen_sich_als_merkel)
+  [Heinsohn, G. (2018)](#Heihnsohn2018){name=Heihnsohn2018}. 
+  "Seehofer hat mehr gegen sich als Merkel". [Achgut.com, 16.6.2018
+  ](http://www.achgut.com/artikel/seehofer_hat_mehr_gegen_sich_als_merkel).
 
-  <a name="Heihnsohn2019"></a>
-  Heinsohn, G. (2019). "Sterben für Afrika". [Achgut.com 22.1.2019
-  ](https://www.achgut.com/artikel/sterben_fuer_afrika).
+  [Heinsohn, G. (2019)](#Heihnsohn2019){name=Heihnsohn2019}. 
+  *Sterben für Afrika*. [Achgut.com,
+  22.1.2019](https://www.achgut.com/artikel/sterben_fuer_afrika).
 
-  Herbst, T. (2018). [Die Entzauberung neoliberaler Propaganda und 
-  Desinformation](https://heise.de/-4010804).
   
-  <a name="Hobbes1651"></a>
-  Hobbes, T. (1651). Leviathan. Cambridge [u.a.] : Cambridge Univ. Press,
-  [1991](https://hds.hebis.de/ubmr/Record/HEB018507514).
+  [Hobbes, T. (1651)](#Hobbes1651){name=Hobbes1651}. 
+  *Leviathan*. Cambridge [u.a.] : [Cambridge Univ. Press,
+  1991](https://hds.hebis.de/ubmr/Record/HEB018507514).
 
-  <a name="Houllebecq2018"></a>
-  Houllebecq, M. (2018). Donald Trump Is a Good President.
-  [Harper's Magazine, 18.12.2018](https://harpers.org/archive/2019/01/donald-trump-is-a-good-president/)
+  [Holland, M. (2018)](#Holland2018){name=Holland2018}. 
+  *Nepal: Zehntausende Websites mit pornographischen Inhalten gesperrt.* 
+  [Heise Online, 15.10.2018](https://heise.de/-4190661).
 
-  <a name="Johnstone2017"></a>
-  Johnstone, D. (2017). *Von der Vielfalt zur Einfalt*.
-  [16.12.2017](https://www.rubikon.news/artikel/von-der-vielfalt-zur-einfalt)
+
+  [Hüther, M., Diermeier, M., Goecke, H.](#Huether2018){name=Huether2018}.
+  *Das Scheitern inklusiver Globalisierung: Institutionelle und kulturelle 
+  Spannungen*.  In: Die erschöpfte Globalisierung. 
+  [Springer, Wiesbaden 19.4.2018](https://doi.org/10.1007/978-3-658-20071-8_4).
+
+  [Jaeger, L. (2019)](#Jaeger2019){name=Jaeger2019}. 
+  *Globalisierung 4.0*. [Telepolis, 27.1.2019](https://heise.de/-4288403).
+
+
+  Janečková, P.: *W. A. Mozart: Laudate Dominum*.
+  [Youtube.com 24.11.2017](https://www.youtube.com/watch?v=ljvTwbxrylc)
+
+
+
+  [Jellen, R. (2019)](#Jellen2019({name=Jellen2019}. 
+  *Aufdecken und kognitives Verarbeiten von realen Widersprüchen*. 
+  [Telepolis, 3.1.2019](https://heise.de/-4252407).
+
+  [Johnstone, D. (2017)](#Johnstone2017){name=Johnstone2017}.
+  *Von der Vielfalt zur Einfalt*. [Rubicon, 
+  16.12.2017](https://www.rubikon.news/artikel/von-der-vielfalt-zur-einfalt).
   
-  <a name="Kant1795"></a>
-  Kant, I. (1795). *Zum ewigen Frieden*. [Preußische Akademie der Wissenschaften
-  ](https://korpora.zim.uni-duisburg-essen.de/Kant/aa08/341.html)
 
-  Kablitz, S. (2017). [Dieses Land ist unrettbar verloren](https://susannekablitz.wordpress.com/2017/02/10/dieses-land-ist-unrettbar-verloren).
 
-  <a name="Kollmann2019"></a>
-  Kollmann, K. (2019). *Wissenschaft - Helfer für Wirtschaft und Machteliten*.
-  [Telepolis 7.1.2019](https://heise.de/-4236528).
+  [Kant, I. (1795)](#Kant1795){name=Kant1795}. 
+  *Zum ewigen Frieden*. [Preußische Akademie der Wissenschaften
+  ](https://korpora.zim.uni-duisburg-essen.de/Kant/aa08/341.html).
 
-  <a name="Krautz2012"></a>
-  Krautz, J. (2012). *Bildungsreform und Propaganda*.
-  Aus: Frost, Ursula (Hrsg.); Rieger-Ladich, Markus (Hrsg.): Demokratie setzt 
-  aus. Gegen die sanfte Liquidation einer politischen Lebensform. 
+
+  [Kipp, H., Richter, A., Rosenstock, E. (2018)](#Kipp2018){name=Kipp2018}. 
+  *Adoleszenz in schwierigen Zeiten : Wie Jugendliche Geborgenheit und 
+  Orientierung finden.* [Psychosozial-Verlag, 
+  2018](http://d-nb.info/1130415333/04).
+
+  [Kjos, B. (2006)](#Kjos2016){name=Kjos2016}.
+  *The UN Plan for Global Migration*. [Crossroad.to,
+  4.6.2006](http://www.crossroad.to/articles2/006/migration-un.htm).
+
+  [Klingholz, R. (2018)](#Klingholz2018){name=Klingholz2018}.
+  *Bevölkerungswachstum: Bildung ist die Lösung*.
+  [Biologie in unserer Zeit](https://doi.org/10.1002/biuz.201810638).
+
+  [Kollmann, K. (2019)](#Kollmann2019){name=Kollmann2019}.
+  *Wissenschaft - Helfer für Wirtschaft und Machteliten*.
+  [Telepolis, 7.1.2019](https://heise.de/-4236528).
+
+  [Kolodzik, H. (2017)](#Kolodzik2017){name=Kolodzik2017}.
+  *Die geheime Migrationsagenda*. 
+  [kolodzik.de, Januar 2017](http://www.kolodzik.de/level9_cms/download_user/Newsletter/Die-geheime-Migrationsagenda.pdf)
+
+  [Krautz, J. (2012)](#Krautz2012){name=Krautz2012}. 
+  *Bildungsreform und Propaganda*. Aus: Frost, Ursula (Hrsg.); 
+  Rieger-Ladich, Markus (Hrsg.): Demokratie setzt aus. 
+  Gegen die sanfte Liquidation einer politischen Lebensform. 
   [Paderborn: Schöningh (2012) S. 119-161
-  ](http://www.ak-gesamtschule.de/PDF-AKG/Krautz-Bildungsreform-und-Propaganda.pdf)
+  ](http://www.ak-gesamtschule.de/PDF-AKG/Krautz-Bildungsreform-und-Propaganda.pdf).
 
-  <a name="Kjos2006"></a>
-  Kjos, B. (2006). *The UN Plan for Global Migration*. 
-  [Crossroad.to](http://www.crossroad.to/articles2/006/migration-un.htm)
 
-  Lengsfeld, V. (2018). Vom Verlust der Selbstbehauptung.
-  [24. Mai 2018](https://vera-lengsfeld.de)
 
-  <a name="Lieb2009"></a>
-  Lieb, W. (2009). *Warum profitiert die Linke nicht von der Krise*.
+
+
+  [Lieb, W. (2009)](#Lieb2009){name=Lieb2009}. 
+  *Warum profitiert die Linke nicht von der Krise*.
   [NachDenkSeiten](https://www.nachdenkseiten.de/wp-print.php?p=4121).
 
-  <a name="Lorenzo2007"></a>
-  Lorenzo, G. (2007). "Ich bin in Schuld verstrickt". Interview mit
-  Helmut Schmidt.
-  [ZEIT 2007/36](https://www.zeit.de/2007/36/Interview-Helmut-Schmidt/seite-7)
+
+  [Schmeiser, C. (2019)](#Schmeiser2019){name=Schmeiser2019}.
+  *Worum geht es eigentlich den Gelbwesten?* 
+  [Telepolis, 23.3.2019](https://heise.de/-4341302).
 
 
-  <a name="Mausfeld2015"></a>
-  Mausfeld, R. (2015). [Warum schweigen die Lämmer ?
-  ](https://www.youtube.com/watch?v=QlMsEmpdC0E)
 
-  <a name="Mausfeld2017"></a>
-  Mausfeld, R. (2017). [Wie werden Meinung und Demokratie gesteuert ?
-  ](https://www.youtube.com/watch?v=-hItt4cE0Pk)
+  [Machiavelli, N. (1513)](#Machiavelli1513){name=Machiavelli1513).
+  *Il principe*. Milano : Augeri, 1967.
 
-  <a name="Mausfeld2018"></a>
-  Mausfeld, R. (2018). [Wie werden politische Debatten gesteuert?
-  ](https://www.youtube.com/watch?v=bw5Px3rR9Jo)
+  [Mausfeld, R. (2015)](#Mausfeld2015){name=Mausfeld2015}. 
+  [Warum schweigen die Lämmer ?](https://www.youtube.com/watch?v=QlMsEmpdC0E).
 
-  <a name="Meggle2019a"></a>
-  Meggle, G. (2019). *Zur Rolle der UN beim Völkermord im Jemen.*
-  [Telepolis 6.1.2019](https://heise.de/-4260392).
+  [Mausfeld, R. (2017)](#Mausfeld2017){name=Mausfeld2017}. 
+  *Wie werden Meinung und Demokratie gesteuert ?*
+  [Youtube](https://www.youtube.com/watch?v=-hItt4cE0Pk).
 
-  <a name="Meggle2019b"></a>
-  Meggle, G. (2019). *Drei Formen des Friedens*.
-  [Telepolis 6.1.2019](https://heise.de/-4260385).
+  [Mausfeld, R. (2018)](#Mausfeld2018){name=Mausfeld2018}. 
+  *Wie werden politische Debatten gesteuert ?*
+  [YouTube, 3.7.2018](https://www.youtube.com/watch?v=bw5Px3rR9Jo).
 
-  Mies, U. und Wernicke, J. (Hrsg) (2017). Fassadendemokratie und Tiefer Staat:
-  Auf dem Weg in ein autoritäres Zeitalter.
+  [Mausfeld, R. (2019)](#Mausfeld2019){name=Mausfeld2019}. 
+  *Wie korrupt ist die Psychologie, Herr Mausfeld?*
+  [YouTube, 6.3.2019](https://www.youtube.com/watch?v=tS5kaskwhDk).
 
-  Müller, A. (2016). [Die Links-Rechts-Demagogie: Ein Interview mit Rainer 
-  Mausfeld](http://www.nachdenkseiten.de/?p=34504).
+  [Meggle, G. (2019)](#Meggle2019a){name=Meggle2019a}. 
+  *Zur Rolle der UN beim Völkermord im Jemen.*
+  [Telepolis, 6.1.2019](https://heise.de/-4260392).
 
-  Nowak, P. (2018): [Paralyse der Kritik: Gesellschaft ohne Opposition?](https://heise.de/-3990642)
+  [Meggle, G. (2019)](#Meggle2019b){name=Meggle2019b}. 
+  *Drei Formen des Friedens*. 
+  [Telepolis, 6.1.2019](https://heise.de/-4260385).
 
-  <a name="Otte2019"></a>
-  Otte, M. (2019). *Der Ausverkauf des Staates: Fatale Folgen für Demokratie 
-  und Solidargemeinschaft*. [Der Privatinvestor, Januar 2019
+
+
+  [Müller, A. (2019)](#Mueller2019){name=Mueller2019}. 
+  *Mit brutaler Gewalt wird der Klassenkampf von oben gewonnen.* 
+  [Nachdenkseiten, 23.1.2019](https://www.nachdenkseiten.de/?p=48643)
+
+  Nietzsche, F. (1886). *Jenseits von Gut und Böse. Vorspiel einer 
+  Philosophie der Zukunft*. Erstdruck: Leipzig (C. G. Naumann) 1886.
+  [Zeno.org](http://www.zeno.org/nid/20009255427).
+    
+
+  [Otte, M. (2018)](#Otte2018){name=Otte2018}.
+  *Oswald Spengler und der moderne Finanzkapitalismus.* In: Fink S., 
+  Rollinger R. (eds) Oswald Spenglers Kulturmorphologie. Universal- und 
+  kulturhistorische Studien. 
+  [Springer VS, Wiesbaden](https://doi.org/10.1007/978-3-658-14041-0_17).
+
+  [Otte, M. (2019)](#Otte2019){name=Otte2019}.
+  *Der Ausverkauf des Staates: Fatale Folgen für Demokratie und 
+  Solidargemeinschaft*. [Der Privatinvestor, Januar 2019
   ](https://politik.der-privatinvestor.de/index.php/der-ausverkauf-des-staates-fatale-folgen-fuer-demokratie-und-solidargemeinschaft).
 
-  <a name="Otte2018"></a>
-  Otte, M. (2018). *Oswald Spengler und der moderne Finanzkapitalismus.*
-  In: Fink S., Rollinger R. (eds) Oswald Spenglers Kulturmorphologie. 
-  Universal- und kulturhistorische Studien. [Studies in Universal and Cultural 
-  History. Springer VS, Wiesbaden](https://doi.org/10.1007/978-3-658-14041-0_17)
-
-  <a name="Orwell1948"></a>
-  Orwell, G. (1948). [1984](https://www.youtube.com/watch?v=s7pbr0wxXBg).
-
-  Oxfam (2018). *Reward Work, not Wealth*.
-  [Oxfam](https://www.oxfam.de/ueber-uns/publikationen/reward-work-not-wealth)
+  [Orwell, G. (1948)](#Orwell1948){name=Orwell1948}.
+  [1984](https://www.youtube.com/watch?v=s7pbr0wxXBg).
 
 
-  <a name="Patriots2017"></a>
-  Patriots, A. (2017). *Cutting the Gordian Knot of all Time*.
-  [Aim4truth.org, 18.2.2017
+
+  [Patriots, A. (2017)](#Patriots2017){name=Patriots2017}.
+  *Cutting the Gordian Knot of all Time*. [Aim4truth.org, 18.2.2017
   ](https://aim4truth.org/2017/02/18/cutting-the-gordian-knot-of-all-time).
 
-  Ptak R. (2017). *Grundlagen des Neoliberalismus*. 
-  [In: Kritik des Neoliberalismus. VS Verlag für Sozialwissenschaften, Wiesbaden
-  ](https://doi.org/10.1007/978-3-531-20006-4_1)
+  [Picketty, T. (2013)](#Piketty2013){name=Piketty2013}.
+  *Le Capital au XXIe siècle*.
+  [Paris 2013](https://hds.hebis.de/ubmr/Record/HEB341139963).
+
+  [Ptak R. (2017)](#Ptak2017){name=Ptak2017}. 
+  *Grundlagen des Neoliberalismus*. In: Kritik des Neoliberalismus. 
+  [VS Verlag für Sozialwissenschaften, Wiesbaden
+  ](https://doi.org/10.1007/978-3-531-20006-4_1).
   
-  <a name="Quigley1966"></a>
-  Quigley, C. (1966). *Tragedy and Hope: A History of the World in Our Time*.
-  New York: The MacMillan Company.
-
-  <a name="Raza2017"></a>
-  Raza, Z. (2017). *Edward Snowden Interview mit acTVism Munich*
-  [17.1.2017](https://www.youtube.com/watch?v=fHu5eus5Bd)
-
-  <a name="Q2018"></a>
-  Rei, R. (2018). *Q - der Plan die Welt zu retten - deutsche Fassung*.
-  [1.8.2018](https://www.youtube.com/watch?v=-y0M1Wd8RLA
-
-  <a name="Sarrazin2018"></a>
-  Sarrazin, T. (2018). Alles, was Sie über den Migrationspakt wissen sollten.
-  [Achgut 29.11.2018
-  ](https://www.achgut.com/artikel/alles_was_sie_ueber_den_migrationspakt_wissen_sollten)
-
-  <a name="Schoedlbauer2018"></a>
-  Schödlbauer, U. (2018). "Merkel-Internationale auf der Rutschbahn".
-  [Achgut 29.6.2018
-  ](http://www.achgut.com/artikel/merkel_intranationale_auf_der_rutschbahn)
-
-  Schreier, P. (2018): ARD im Tiefschlaf: Das seltsame Desinteresse an einer 
-  [Aufklärung der Maidan-Morde](https://heise.de/-3996302)
 
 
-  <a name="Rabel2011"></a>
-  Rabel, B. (2011). Der neue Leviathan: Der Dollar als Weltgeld und Weltmacht.
-  [Netzjournal von Bernd Rabehl
-  ](https://rabehl.wordpress.com/2011/10/16/der-neue-leviathan-der-dollar-als-weltgeld-und-weltmacht/)
+  [Raza, Z. (2017)](#Raza2017){name=Raza2017}.
+  *Edward Snowden Interview mit acTVism Munich*
+  [Youtube, 17.1.2017](https://www.youtube.com/watch?v=fHu5eus5Bd).
 
-  Schulz, H. (2018). Rechtsbrüche und Manipulationen: Wie Regierende und 
-  Medien den Zerfall der Bundesrepublik Deutschland fördern.
 
-  <a name="Seitz2019"></a>
-  Seitz, A. (2019). *Teufelskreise des Bevölkerungs-Wachstums*. 
+
+   [Schauenburg, J. (2018)](#Schauenburg2018){name=Schauenburg2018}.
+   *Von der Bundesrepublik zur Bananenrepublik: Eine schonungslose Analyse 
+   und Wege zur Verbesserung*. 
+   [Tectum Verlag](https://hds.hebis.de/ubmr/Record/HEB437095622).
+
+
+  [Schleim, S. (2019)](#Schleim2019){name=Schleim2019}.
+  *Intermezzo: Bildung und Individualismus*
+  [Telepolis 16.2.2019](https://heise.de/-4305512).
+
+
+
+
+  [Schrott, S. (2019)](#self){name=self}.
+  *Die Kunst des Krieges im mechanischen Staat*.
+  [Github.com, 2019](https://github.com/Suntzi/Complement/blob/master/tao.md).
+
+  [Schunke, A. (2019)](#Schunke2019){name=Schunke2019}.
+  *Wir backen uns einen Schuldkomplex: Die Ingredienzien*
+  [Achgut.com, 19.02.2019](https://www.achgut.com/artikel/wir_backen_uns_einen_schuldkomplex_die_ingredienzien).
+
+  [Schwertmann, M. (2018)](#Schwertmann2018){name=Schwertmann2018}.
+  *Ohnmächtig: Der Kapitalismus hat die Politik erobert*.
+  [Books on Demand, 27.03.2018
+  ](https://www.bod.de/buchshop/ohnmaechtig-martin-schwertmann-9783752813760)
+
+
+  [Seitz, A. (2019)](#Seitz2019){name=Seitz2019}.
+  *Teufelskreise des Bevölkerungs-Wachstums*.  
   [Achgut.com, 23.1.2019
   ](https://www.achgut.com/artikel/teufelskreise_des_bevoelkerungs_wachstums).
 
-  <a name="Simpson2017"></a>
-  Simpson, J. (2017). *Die Wasserprivatisierung: EU bricht weiteres 
-  Versprechen!* [watergate.tv 9.4.2017](https://www.watergate.tv/jane-simpson-wasser-privatisierung-eu-bricht-versprechen).
+  [Simpson, J. (2017)](#Simpson2017){name=Simpson2017}.
+  *Die Wasserprivatisierung: EU bricht weiteres Versprechen!*  
+  [Watergate.tv, 9.4.2017](https://www.watergate.tv/jane-simpson-wasser-privatisierung-eu-bricht-versprechen).
 
-  <a name="Simons2009"></a>
-  Simons, B. (2009). Die Matrix – Platons Ideen in einer virtuellen Welt der 
-  Zukunft. [Pegasus-Onlinezeitschrift IX/1 (2009), 92.
-  ](http://www.pegasus-onlinezeitschrift.de/2009_1/agora_1_2009_matrix.html)
+  [Simons, B. (2009)](#Simons2009){name=Simons2009}.
+  *Die Matrix – Platons Ideen in einer virtuellen Welt der Zukunft*.  
+  [Pegasus-Onlinezeitschrift IX/1 (2009), 92.
+  ](http://www.pegasus-onlinezeitschrift.de/2009_1/agora_1_2009_matrix.html).
 
-  <a name="Stein2006"></a> 
-  Stein, B. (2006). *In Class Warfare, Guess Which Class Is Winning*. 
-  [New York Times, 26.11.2006
-  ](http://www.nytimes.com/2006/11/26/business/yourmoney/26every.html)
-
-  <a name="SunTzu"></a> Sun Tzu (500 v. Chr.). 
-  [Die Kunst des Krieges](https://hdms.bsz-bw.de/files/357/Sunzi.pdf).
-
-  <a name="self"></a> Susi S. (2019). *Die Kunst des Krieges im mechanischen 
-  Staat*. [Github.com](https://github.com/Suntzi/Complement/blob/master/tao.md).
-
-  <a name="Spengler1921"></a>
   Spengler, O. (1921). *Preußentum und Sozialismus*. 
   [C. H. Beck'sche Verlagsbuchhandlung
   ](http://gutenberg.spiegel.de/buch/preussentum-und-sozialismus-5331/1).
 
-  <a name="Swpr2018"></a>
-  Swiss Propaganda Research, (2018). *Migration und Medien*. 
-  [SWPR, November 2018](https://swprs.org/2018/11/04/migration-und-medien)
+  [Stein, B. (2006)](#Stein2006){name=Stein2006}.
+  *In Class Warfare, Guess Which Class Is Winning*. 
+  [New York Times, 26.11.2006
+  ](http://www.nytimes.com/2006/11/26/business/yourmoney/26every.html).
 
-  <a name="Tyler2018"></a>
-  Tyler, D. (2018). *A European Spring?* [Zero Hedge, 28.12.2018
-  ](https://www.zerohedge.com/news/2018-12-27/european-spring)  
+  [Sun Tzu (500 v. Chr.)](#SunTzu){name=SunTzu}. 
+  [Die Kunst des Krieges](https://hdms.bsz-bw.de/files/357/Sunzi.pdf).
 
-  <a name="Boehmermann2018"></a>
-  Unfried, P. und Welzer, H. (2018). *Interview mit Jan Böhmerman*.
-  [Taz.de](http://www.taz.de/!166253/).
+  [Swiss Propaganda Research, (2018)](#Swpr2017){name=Swpr2017}.
+  *Der Propaganda-Schlüssel*. 
+  [SWPR, März 2017](https://swprs.org/der-propaganda-schluessel).
 
-  United Nations. (2017). 
-  [World Population Prospects 2017](https://esa.un.org/unpd/wpp).
 
-  <a name="Vitali2011"></a>
-  Vitali S, Glattfelder JB, Battiston S (2011). *"The Network of Global 
-  Corporate Control"*. 
-  [PLoS ONE 6(10): e25995.](https://doi.org/10.1371/journal.pone.0025995)
+  [Swiss Propaganda Research, (2018)](#Swpr2018){name=Swpr2018}.
+  Swiss Propaganda Research, (2018). *Der Jemenkrieg und die Medien*. 
+  [SWPR, November 2018](https://swprs.org/jemenkrieg-und-medien).
 
-  Vonnahme, P. (2018). Gefährliche Anti-Russland-Hysterie: Nowitschok und das 
-  Gift der Theresa May. [Telepolis 12. April 2018](https://heise.de/-4022365).
 
-  <a name="3"></a>
-  Wachowski, A., Wachowski, L. (1999). *The Matrix* (Film). [United States 
-  and Australia: Warner Bros.](https://www.warnerbros.com/matrix)
 
-  <a name="Wehr2016"></a>
-  Wehr, A. (2016). *Der EU-Retter*.
-  [Junge Welt 16.2.2016](http://www.andreas-wehr.eu/der-eu-retter.html).
 
-  <a name="Wendt2018"></a>
-  Wendt, A. (2018). *Ausweitung der Moralkampfzone*. [Publico, 03/2018
-  ](https://www.publicomag.com/2018/03/ausweitung-der-moralkampfzone)
+  [Vahlefeld, M. (2019)](#Vahlefeld2019){name=Vahlefeld2019}
+  [Achgut.com, 9.2.2019
+  ](https://www.achgut.com/artikel/die_lust_den_lebenstandard_abzusenken)
 
-  Wrouten, L., Holland, S. (2018). *USA verabschieden sich aus 
-  UN-Menschenrechtsrat*. [Reuters, 20.6.2018
-  ](https://www.reuters.com/article/usa-menschenrechtsrat-idDEKBN1JG0EU)
+  [Vitali S, Glattfelder JB, Battiston S (2011)](#Vitali2011){name=Vitali2011}.
+  *The Network of Global Corporate Control*. 
+  [PLoS ONE 6(10): e25995.](https://doi.org/10.1371/journal.pone.0025995).
 
-  Global Intel Hub (2018). The Criminalization of Politics. [Zero Hedge
-  ](https://www.zerohedge.com/news/2018-11-28/criminalization-politics).
 
-  Zizek, S. (2015). *Ärger im Paradies : vom Ende der Geschichte zum Ende des 
-  Kapitalismus*. 
-  [Frankfurt am Main, 2015](https://hds.hebis.de/ubmr/Record/HEB366063987).
 
-  <a name="Zydatis2019"></a>
-  Zydatis, K. (2019). *Gelbe Westen überall*.
-  [Achgut.com 12.1.2019](#https://www.achgut.com/artikel/gelbe-westen_ueberall)
+  [Wehr, A. (2016)](#Wehr2016){name=Wehr2016}. 
+  *Der EU-Retter*.
+  [Junge Welt, 16.2.2016](http://www.andreas-wehr.eu/der-eu-retter.html).
 
-  <https://voxeurop.eu/de/content/article/3593841-ein-lateinisches-reich-gegen-die-deutsche-uebermacht>
+  [Wendt, A. (2018)](#Wendt2018){name=Wendt2018}.
+  *Ausweitung der Moralkampfzone*. [Publico, 03/2018
+  ](https://www.publicomag.com/2018/03/ausweitung-der-moralkampfzone).
+
+  [Wrouten, L., Holland, S. (2018)](#Wrouten2018){name=Wrouten2018}.
+  *USA verabschieden sich aus UN-Menschenrechtsrat*. [Reuters, 20.6.2018
+  ](https://www.reuters.com/article/usa-menschenrechtsrat-idDEKBN1JG0EU).
+
+
+
+  [Zydatis, K. (2019)](#Zydatis2019){name=Zydatis2019}.
+  *Gelbe Westen überall*. [Achgut.com, 
+  12.1.2019](#https://www.achgut.com/artikel/gelbe-westen_ueberall).
+
+
