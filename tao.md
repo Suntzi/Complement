@@ -84,7 +84,7 @@ publisher: Soft Power Press
 > unterliegen*.
 
 
-## [I. Temet Nosce](#I "Planung"){name=I}
+## [I. Temet Nosce](#I "Planung")
 
   In der letzten Verfilmung des Platon'schen Höhlengleichnis, dem Film
   „Die Matrix“ der Geschwister Wachowsky, ist es der Programmierer Neo, der 
@@ -148,7 +148,7 @@ publisher: Soft Power Press
 > *Wenn du den Feind nicht kennst, doch dich selbst, wirst du
 > für jede Niederlage, die du erleidest, einen Sieg erringen*.
 
-## [II. Die Diktatur des Kapitals](#II "Über die Kriegführung"){name=II}
+## [II. Die Diktatur des Kapitals](#II "Über die Kriegführung")
 
   Der gottlose Katholik[^1] Friedrich Nietzsche hat den Staat selbst einmal 
   als „das kälteste aller kalten Ungeheuer“ bezeichnet.
@@ -243,7 +243,7 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   the word FUCK has become the most important word in the English 
   language“](https://www.youtube.com/watch?v=6D7rWLzloOI).
 
-## [III. Das Schwert in der Scheide](#III "Moral und Propaganda"){name=III}
+## [III. Das Schwert in der Scheide](#III "Moral und Propaganda")
 
   Der Psychologe Rainer Mausfeld weist in seinen Vorträgen und Publikationen 
   seit einiger Zeit darauf hin, daß es dem Neoliberalismus gelungen ist, in 
@@ -330,7 +330,7 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   Gesetz“](https://de.wikipedia.org/wiki/Kategorischer_Imperativ).
 -->
 
-## [IV. Taktik](#IV "Migration"){name=IV} 
+## [IV. Taktik](#IV "Migration") 
 
   Der Club der globalen Großkonzerne, der die postkapitalistische Maschine
   antreibt und deren Vertreter sich jährlich in Davos zu einem Stelldichein 
@@ -404,7 +404,7 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
 
 
 
-## [V. Energie](#V "Bildung"){name=V} 
+## [V. Energie](#V "Bildung") 
 
 > *Es ist wichtiger, dem Gegner geistig überlegen zu sein, als ihn
 > niederzukämpfen.*.
@@ -461,7 +461,7 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   [^4]: Krause: [„Auf Adorno geht das Heer der Schwafler und Schwätzer 
   zurück“](https://www.welt.de/print-welt/article257787).
 
-## [VI. Schwache und starke Punkte](#VI "Privatisierung"){name=VI} 
+## [VI. Schwache und starke Punkte](#VI "Privatisierung") 
 
 > *Das Wasser strömt in seinem natürlichen Lauf von hohen Orten herunter und 
 > eilt bergab. So muß im Krieg gemieden werden, was stark ist, und geschlagen 
@@ -512,7 +512,7 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   zeigen.
 
 
-## [VII. Manöver](#VII "Doppelsprech"){name=VII} 
+## [VII. Manöver](#VII "Doppelsprech") 
 
 > *Siegen wird, wer den Kunstgriff der Täuschung beherrscht. 
 > Dies ist die Kunst des Manövrierens*.
@@ -585,7 +585,7 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   [^5]: Schopenhauer: [„Hegel, ein platter ...  unwissender Scharlatan“
   ](https://de.wikiquote.org/wiki/Georg_Wilhelm_Friedrich_Hegel).
 
-## [VIII. Taktische Varianten](#VIII "Pornographie"){name=VIII}
+## [VIII. Taktische Varianten](#VIII "Pornographie")
 
 > *Locke die besten und klügsten Männer des Feindes fort, damit er keine 
 >  Ratgeber mehr hat. 
@@ -630,7 +630,7 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
 > unsere Stellung uneinnehmbar gemacht haben*.
 
 
-## [IX. Die Armee auf dem Marsch](#IX "Meditation"){name=IX}
+## [IX. Die Armee auf dem Marsch](#IX "Meditation")
  
 > *In militärischen Angelegenheiten ist es nicht notwendigerweise von Vorteil, 
 >  über die größere Anzahl zu verfügen; was allein zählt, ist, aggressives 
@@ -664,7 +664,7 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
 
 >  *[Mache sie zum Gegenstand deiner Meditation](https://www.youtube.com/watch?v=ljvTwbxrylc).*
 
-## [X. Terrain](#X "1984"){name=X}
+## [X. Terrain](#X "1984")
 
 > *Wenn du den Feind und dich selbst kennst, besteht kein Zweifel an deinem 
 > Sieg; wenn du Himmel und Erde kennst, dann wird dein Sieg vollständig 
@@ -700,7 +700,7 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
 
 >> “...war is not meant to be won, it is meant to be continuous” – George Orwell
 
-## [XI. Die neun Situationen](#VI "Handlungsfelder"){name=XI}
+## [XI. Die neun Situationen](#VI "Handlungsfelder")
 
 > *Im Frieden bereite dich auf den Krieg vor, im Krieg bereite dich auf 
 > den Frieden vor*.
@@ -747,7 +747,7 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
 
 
 
-## [XII. Angriff durch Feuer](#XII "Angriff"){name=XII}
+## [XII. Angriff durch Feuer](#XII "Angriff")
 
 > *Bewege dich nicht, wenn du keinen Vorteil siehst; setze deine Truppen 
 > nicht ein, wenn es nichts zu gewinnen gibt; kämpfe nicht, wenn die Lage 
@@ -771,7 +771,7 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
 > halten*.
 
 
-## [XIII. Der Einsatz von Spionen](#XIII "Subversion"){name=XIII}
+## [XIII. Der Einsatz von Spionen](#XIII "Subversion")
 
 > *Die Kenntnis der Geisterwelt wird durch das Orakel erlangt; Informationen
 > in Naturwissenschaften können durch Erfahrungswerte gewonnen werden; die 
@@ -851,139 +851,139 @@ _____________________________________________________________________________
   Titelbild: AlexHe34 [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) oder GFDL (http://www.gnu.org/copyleft/fdl.html)], von Wikimedia Commons.
 
 
-  [Adorno, T. W. (1955)](#Adorno1955){name=Adorno1955}. 
+  [Adorno, T. W. (1955)](#Adorno1955). 
   *Spengler nach dem Untergang. Zu Oswald Spenglers 70.  Geburtstag*. 
   In Prismen. Kulturkritik und Gesellschaft, hrsg. Theodor W. Adorno, 115–128. 
   Frankfurt.
 
 
-  [Barnett, T. (2003)](#Barnett2003){name=Barnett2003}. 
+  [Barnett, T. (2003)](#Barnett2003). 
   [*Why the Pentagon Changes Its Maps*
   ](https://www.esquire.com/news-politics/a1546/thomas-barnett-iraq-war-primer).
 
 
-  [Berger, J. (2018)](#Berger2018){name=Berger2018}. 
+  [Berger, J. (2018)](#Berger2018). 
   *Wahlkämpfer der Woche: Jakob Augstein*. [NachDenkSeiten, 
    10.7.2018](https://www.nachdenkseiten.de/wp-print.php?p=44870).
 
-  [Bezmenov, Y. (2011)](#Bezmenov2011){name=Bezmenov2011}.
+  [Bezmenov, Y. (2011)](#Bezmenov2011).
   *Deception Was My Job*.
   [YouTube, 21.1.2011](https://www.youtube.com/watch?v=y3qkf3bajd4&t=321s).
 
 
-  [Brigandes, L. (2016)](#Brigandes2016){name=Brigandes2016}. Cerveau Lavé.
+  [Brigandes, L. (2016)](#Brigandes2016). Cerveau Lavé.
   [Youtube, 28.5.2016](https://www.youtube.com/watch?v=zQCF1R8xiFA).
 
 
-  [Brzoska M. (2017)](#Brzoska2017){name=Brzoska2017}.
+  [Brzoska M. (2017)](#Brzoska2017).
   *Rüstungsherstellung und Rüstungsexport: Gebote, Verbote und Paradoxien*. 
   In: Werkner IJ., Ebeling K. (eds) Handbuch Friedensethik. 
   Springer VS, Wiesbaden
 
-  [Bühler. S. (2017)](#Buehler2017){name=Buehler2017}. 
+  [Bühler. S. (2017)](#Buehler2017). 
   *Markt und Gewinnstreben im Sozialsektor: Wirkungen auf die 
   Beschäftigungsbedingungen und die Qualität der Versorgung aus 
   gewerkschaftlicher Sicht*. [WSI-Mitteilungen Jahrgang 70 (2017) Heft 3
   ](https://www.nomos-elibrary.de/10.5771/0342-300X-2017-3-218.pdf).
 
-  [Chomsky, N. (1998)](#Chomsky1998){name=Chomsky1998}.
+  [Chomsky, N. (1998)](#Chomsky1998).
   Haben und Nichthaben. Bodenheim.
 
-  [Chomsky, N. (2000)](#Chomsky2000){name=Chomsky2000}. 
+  [Chomsky, N. (2000)](#Chomsky2000). 
   *Profit over People. Neoliberalismus und globale Weltordnung.* 
   [Europa Verlag, Hamburg/Wien](https://hds.hebis.de/ubmr/Record/HEB093639465).
 
 
-  [Chomsky, N. (2018)](#Chomsky2018){name=Chomsky2018}. 
+  [Chomsky, N. (2018)](#Chomsky2018). 
   *Kampf oder Untergang!: Warum wir gegen die Herren der Menschheit 
    aufstehen müssen*. Westend Verlag (Frankfurt) 2018.
 
-  [Deckwirth, C. (2008)](#Deckwirth2008){name=Deckwirth2008}. 
+  [Deckwirth, C. (2008)](#Deckwirth2008). 
   *Die Europäische Union als Triebkraft der Privatisierung*, 
   in: [WSI-Mitteilungen 10/2008](https://www.boeckler.de/22126_22129.htm).
 
 
-  [Eisleben, J. (2018)](#Eisleben2018a){name=Eisleben2018a}. 
+  [Eisleben, J. (2018)](#Eisleben2018a). 
   *Merkels Masterplan*. [Achgut.com, 
   4.7.2018](http://www.achgut.com/artikel/der_masterplan_dser_angela_merkel).
 
-  [Eisleben, J. (2018)](#Eisleben2018b){name=Eisleben2018b}. 
+  [Eisleben, J. (2018)](#Eisleben2018b). 
   *Der Staat als Gegner seiner Bürger*. [Achgut.com,
   13.3.2018](http://www.achgut.com/artikel/Der_staat_als_gegner_seiner_buerger).
 
-  [Eisleben, J. (2018)](#Eisleben2018c){name=Eisleben2018c}. 
+  [Eisleben, J. (2018)](#Eisleben2018c). 
   *Politisches Handeln gegen die eigenen Interessen*. [Achgut.com, 19.2.2018
   ](http://www.achgut.com/artikel/politisches_handeln_gegen_die_eigenen_interessen).
 
-  [Eisleben, J. (2019)](#Eisleben2019){name=Eisleben2019}. 
+  [Eisleben, J. (2019)](#Eisleben2019). 
   *Der Zukunftsmarkt für Unterdrückungs-Technologien*. [Achgut.com, 16.3.2019
   ](http://www.achgut.com/artikel/der_zukunftsmarkt_fuer_unterdrueckungs-technologien).
 
-  [Eversmann, L. (2019)](#Eversmann2019){name=Eversmann2019}.
+  [Eversmann, L. (2019)](#Eversmann2019).
   [Happy End für Karl Marx, 8.5.2019](https://heise.de/-4417008)
 
-  [Fusaro, D. (2017)](#Fusaro2017){name=Fusaro2017}. 
+  [Fusaro, D. (2017)](#Fusaro2017). 
   *Globalisierung und Entwurzelung*.
   [Telepolis, 7.4.2017](https://heise.de/-3671717).
 
-  [Fusaro, D. (2018)](#Fusaro2018){name=Fusaro2018}. 
+  [Fusaro, D. (2018)](#Fusaro2018). 
   *Die ungeheure Macht des Negativen*.
   [Telepolis 23.2.2018](https://heise.de/-3975113).
 
 
-  [Gärtner, N. (2019)](#Gaertner2019){name=Gaertner2019}. 
+  [Gärtner, N. (2019)](#Gaertner2019). 
   *Politik und Mainstream-Medien: Die Deutschen sind einfach zu doof*. 
   [Der Privatinvestor, 30.1.2019
   ](https://politik.der-privatinvestor.de/politik-und-mainstream-medien-die-deutschen-sind-einfach-zu-doof).
 
 
-  [Groll, F. (2019](#Groll2019){name=Groll2019}.
+  [Groll, F. (2019](#Groll2019).
   Regionalisierung statt Globalisierung – Plädoyer für eine neue Handels- 
   und Entwicklungspolitik. 
   [AttacTheorieblog 5.1.2019](https://theorieblog.attac.de/?p=1016).
 
-  [Hargot T. (2018)](#Hargot2017){name=Hargot2017}. 
+  [Hargot T. (2018)](#Hargot2017). 
   *Die Porno-Tyrannei*. In: Sexuelle Freiheit aufgedeckt. 
   [Springer 1.8.2017](https://doi.org/10.1007/978-3-662-54767-0_2).
 
-  [Häring, N. (2018)](#Haering2018){name=Haering2018}. 
+  [Häring, N. (2018)](#Haering2018). 
   *Migrationsabkommen Teil II: Was das Weltwirtschaftsforum mit dem 
   UN-Migrationsabkommen zu tun hat*. [21.7.2018
   ](http://norberthaering.de/de/27-german/news/997-migrationsabkommen-2).
 
-  [Häring, N. (2018)](#Haering2018b){name=Haering2018b}. 
+  [Häring, N. (2018)](#Haering2018b). 
   *Bertelsmann, die Willkommenskultur und der UN-Migrationspakt: Teil 2*.
   [16.12.2018](http://norberthaering.de/de/27-german/news/1082-bertelsmann-willkommenskultur-2)
 
 
-  [Hamm, B. (2014)](#Hamm2014){name=Hamm2014}. 
+  [Hamm, B. (2014)](#Hamm2014). 
   *Das Ende der Demokratie – wie wir sie kennen*. 
   https://www.weltwirtschaft-und-entwicklung.org/downloads/hammlang.pdf
 
-  [Heinsohn, G. (2018)](#Heihnsohn2018){name=Heihnsohn2018}. 
+  [Heinsohn, G. (2018)](#Heihnsohn2018). 
   "Seehofer hat mehr gegen sich als Merkel". [Achgut.com, 16.6.2018
   ](http://www.achgut.com/artikel/seehofer_hat_mehr_gegen_sich_als_merkel).
 
-  [Heinsohn, G. (2019)](#Heihnsohn2019){name=Heihnsohn2019}. 
+  [Heinsohn, G. (2019)](#Heihnsohn2019). 
   *Sterben für Afrika*. [Achgut.com,
   22.1.2019](https://www.achgut.com/artikel/sterben_fuer_afrika).
 
   
-  [Hobbes, T. (1651)](#Hobbes1651){name=Hobbes1651}. 
+  [Hobbes, T. (1651)](#Hobbes1651). 
   *Leviathan*. Cambridge [u.a.] : [Cambridge Univ. Press,
   1991](https://hds.hebis.de/ubmr/Record/HEB018507514).
 
-  [Holland, M. (2018)](#Holland2018){name=Holland2018}. 
+  [Holland, M. (2018)](#Holland2018). 
   *Nepal: Zehntausende Websites mit pornographischen Inhalten gesperrt.* 
   [Heise Online, 15.10.2018](https://heise.de/-4190661).
 
 
-  [Hüther, M., Diermeier, M., Goecke, H.](#Huether2018){name=Huether2018}.
+  [Hüther, M., Diermeier, M., Goecke, H.](#Huether2018).
   *Das Scheitern inklusiver Globalisierung: Institutionelle und kulturelle 
   Spannungen*.  In: Die erschöpfte Globalisierung. 
   [Springer, Wiesbaden 19.4.2018](https://doi.org/10.1007/978-3-658-20071-8_4).
 
-  [Jaeger, L. (2019)](#Jaeger2019){name=Jaeger2019}. 
+  [Jaeger, L. (2019)](#Jaeger2019). 
   *Globalisierung 4.0*. [Telepolis, 27.1.2019](https://heise.de/-4288403).
 
 
@@ -992,43 +992,43 @@ _____________________________________________________________________________
 
 
 
-  [Jellen, R. (2019)](#Jellen2019({name=Jellen2019}. 
+  [Jellen, R. (2019)](#Jellen2019(. 
   *Aufdecken und kognitives Verarbeiten von realen Widersprüchen*. 
   [Telepolis, 3.1.2019](https://heise.de/-4252407).
 
-  [Johnstone, D. (2017)](#Johnstone2017){name=Johnstone2017}.
+  [Johnstone, D. (2017)](#Johnstone2017).
   *Von der Vielfalt zur Einfalt*. [Rubicon, 
   16.12.2017](https://www.rubikon.news/artikel/von-der-vielfalt-zur-einfalt).
   
 
 
-  [Kant, I. (1795)](#Kant1795){name=Kant1795}. 
+  [Kant, I. (1795)](#Kant1795). 
   *Zum ewigen Frieden*. [Preußische Akademie der Wissenschaften
   ](https://korpora.zim.uni-duisburg-essen.de/Kant/aa08/341.html).
 
 
-  [Kipp, H., Richter, A., Rosenstock, E. (2018)](#Kipp2018){name=Kipp2018}. 
+  [Kipp, H., Richter, A., Rosenstock, E. (2018)](#Kipp2018). 
   *Adoleszenz in schwierigen Zeiten : Wie Jugendliche Geborgenheit und 
   Orientierung finden.* [Psychosozial-Verlag, 
   2018](http://d-nb.info/1130415333/04).
 
-  [Kjos, B. (2006)](#Kjos2016){name=Kjos2016}.
+  [Kjos, B. (2006)](#Kjos2016).
   *The UN Plan for Global Migration*. [Crossroad.to,
   4.6.2006](http://www.crossroad.to/articles2/006/migration-un.htm).
 
-  [Klingholz, R. (2018)](#Klingholz2018){name=Klingholz2018}.
+  [Klingholz, R. (2018)](#Klingholz2018).
   *Bevölkerungswachstum: Bildung ist die Lösung*.
   [Biologie in unserer Zeit](https://doi.org/10.1002/biuz.201810638).
 
-  [Kollmann, K. (2019)](#Kollmann2019){name=Kollmann2019}.
+  [Kollmann, K. (2019)](#Kollmann2019).
   *Wissenschaft - Helfer für Wirtschaft und Machteliten*.
   [Telepolis, 7.1.2019](https://heise.de/-4236528).
 
-  [Kolodzik, H. (2017)](#Kolodzik2017){name=Kolodzik2017}.
+  [Kolodzik, H. (2017)](#Kolodzik2017).
   *Die geheime Migrationsagenda*. 
   [kolodzik.de, Januar 2017](http://www.kolodzik.de/level9_cms/download_user/Newsletter/Die-geheime-Migrationsagenda.pdf)
 
-  [Krautz, J. (2012)](#Krautz2012){name=Krautz2012}. 
+  [Krautz, J. (2012)](#Krautz2012). 
   *Bildungsreform und Propaganda*. Aus: Frost, Ursula (Hrsg.); 
   Rieger-Ladich, Markus (Hrsg.): Demokratie setzt aus. 
   Gegen die sanfte Liquidation einer politischen Lebensform. 
@@ -1039,12 +1039,12 @@ _____________________________________________________________________________
 
 
 
-  [Lieb, W. (2009)](#Lieb2009){name=Lieb2009}. 
+  [Lieb, W. (2009)](#Lieb2009). 
   *Warum profitiert die Linke nicht von der Krise*.
   [NachDenkSeiten](https://www.nachdenkseiten.de/wp-print.php?p=4121).
 
 
-  [Schmeiser, C. (2019)](#Schmeiser2019){name=Schmeiser2019}.
+  [Schmeiser, C. (2019)](#Schmeiser2019).
   *Worum geht es eigentlich den Gelbwesten?* 
   [Telepolis, 23.3.2019](https://heise.de/-4341302).
 
@@ -1053,32 +1053,32 @@ _____________________________________________________________________________
   [Machiavelli, N. (1513)](#Machiavelli1513){name=Machiavelli1513).
   *Il principe*. Milano : Augeri, 1967.
 
-  [Mausfeld, R. (2015)](#Mausfeld2015){name=Mausfeld2015}. 
+  [Mausfeld, R. (2015)](#Mausfeld2015). 
   [Warum schweigen die Lämmer ?](https://www.youtube.com/watch?v=QlMsEmpdC0E).
 
-  [Mausfeld, R. (2017)](#Mausfeld2017){name=Mausfeld2017}. 
+  [Mausfeld, R. (2017)](#Mausfeld2017). 
   *Wie werden Meinung und Demokratie gesteuert ?*
   [Youtube](https://www.youtube.com/watch?v=-hItt4cE0Pk).
 
-  [Mausfeld, R. (2018)](#Mausfeld2018){name=Mausfeld2018}. 
+  [Mausfeld, R. (2018)](#Mausfeld2018). 
   *Wie werden politische Debatten gesteuert ?*
   [YouTube, 3.7.2018](https://www.youtube.com/watch?v=bw5Px3rR9Jo).
 
-  [Mausfeld, R. (2019)](#Mausfeld2019){name=Mausfeld2019}. 
+  [Mausfeld, R. (2019)](#Mausfeld2019). 
   *Wie korrupt ist die Psychologie, Herr Mausfeld?*
   [YouTube, 6.3.2019](https://www.youtube.com/watch?v=tS5kaskwhDk).
 
-  [Meggle, G. (2019)](#Meggle2019a){name=Meggle2019a}. 
+  [Meggle, G. (2019)](#Meggle2019a). 
   *Zur Rolle der UN beim Völkermord im Jemen.*
   [Telepolis, 6.1.2019](https://heise.de/-4260392).
 
-  [Meggle, G. (2019)](#Meggle2019b){name=Meggle2019b}. 
+  [Meggle, G. (2019)](#Meggle2019b). 
   *Drei Formen des Friedens*. 
   [Telepolis, 6.1.2019](https://heise.de/-4260385).
 
 
 
-  [Müller, A. (2019)](#Mueller2019){name=Mueller2019}. 
+  [Müller, A. (2019)](#Mueller2019). 
   *Mit brutaler Gewalt wird der Klassenkampf von oben gewonnen.* 
   [Nachdenkseiten, 23.1.2019](https://www.nachdenkseiten.de/?p=48643)
 
@@ -1087,80 +1087,80 @@ _____________________________________________________________________________
   [Zeno.org](http://www.zeno.org/nid/20009255427).
     
 
-  [Otte, M. (2018)](#Otte2018){name=Otte2018}.
+  [Otte, M. (2018)](#Otte2018).
   *Oswald Spengler und der moderne Finanzkapitalismus.* In: Fink S., 
   Rollinger R. (eds) Oswald Spenglers Kulturmorphologie. Universal- und 
   kulturhistorische Studien. 
   [Springer VS, Wiesbaden](https://doi.org/10.1007/978-3-658-14041-0_17).
 
-  [Otte, M. (2019)](#Otte2019){name=Otte2019}.
+  [Otte, M. (2019)](#Otte2019).
   *Der Ausverkauf des Staates: Fatale Folgen für Demokratie und 
   Solidargemeinschaft*. [Der Privatinvestor, Januar 2019
   ](https://politik.der-privatinvestor.de/index.php/der-ausverkauf-des-staates-fatale-folgen-fuer-demokratie-und-solidargemeinschaft).
 
-  [Orwell, G. (1948)](#Orwell1948){name=Orwell1948}.
+  [Orwell, G. (1948)](#Orwell1948).
   [1984](https://www.youtube.com/watch?v=s7pbr0wxXBg).
 
 
 
-  [Patriots, A. (2017)](#Patriots2017){name=Patriots2017}.
+  [Patriots, A. (2017)](#Patriots2017).
   *Cutting the Gordian Knot of all Time*. [Aim4truth.org, 18.2.2017
   ](https://aim4truth.org/2017/02/18/cutting-the-gordian-knot-of-all-time).
 
-  [Picketty, T. (2013)](#Piketty2013){name=Piketty2013}.
+  [Picketty, T. (2013)](#Piketty2013).
   *Le Capital au XXIe siècle*.
   [Paris 2013](https://hds.hebis.de/ubmr/Record/HEB341139963).
 
-  [Ptak R. (2017)](#Ptak2017){name=Ptak2017}. 
+  [Ptak R. (2017)](#Ptak2017). 
   *Grundlagen des Neoliberalismus*. In: Kritik des Neoliberalismus. 
   [VS Verlag für Sozialwissenschaften, Wiesbaden
   ](https://doi.org/10.1007/978-3-531-20006-4_1).
   
 
 
-  [Raza, Z. (2017)](#Raza2017){name=Raza2017}.
+  [Raza, Z. (2017)](#Raza2017).
   *Edward Snowden Interview mit acTVism Munich*
   [Youtube, 17.1.2017](https://www.youtube.com/watch?v=fHu5eus5Bd).
 
 
 
-   [Schauenburg, J. (2018)](#Schauenburg2018){name=Schauenburg2018}.
+   [Schauenburg, J. (2018)](#Schauenburg2018).
    *Von der Bundesrepublik zur Bananenrepublik: Eine schonungslose Analyse 
    und Wege zur Verbesserung*. 
    [Tectum Verlag](https://hds.hebis.de/ubmr/Record/HEB437095622).
 
 
-  [Schleim, S. (2019)](#Schleim2019){name=Schleim2019}.
+  [Schleim, S. (2019)](#Schleim2019).
   *Intermezzo: Bildung und Individualismus*
   [Telepolis 16.2.2019](https://heise.de/-4305512).
 
 
 
 
-  [Schrott, S. (2019)](#self){name=self}.
+  [Schrott, S. (2019)](#self).
   *Die Kunst des Krieges im mechanischen Staat*.
   [Github.com, 2019](https://github.com/Suntzi/Complement/blob/master/tao.md).
 
-  [Schunke, A. (2019)](#Schunke2019){name=Schunke2019}.
+  [Schunke, A. (2019)](#Schunke2019).
   *Wir backen uns einen Schuldkomplex: Die Ingredienzien*
   [Achgut.com, 19.02.2019](https://www.achgut.com/artikel/wir_backen_uns_einen_schuldkomplex_die_ingredienzien).
 
-  [Schwertmann, M. (2018)](#Schwertmann2018){name=Schwertmann2018}.
+  [Schwertmann, M. (2018)](#Schwertmann2018).
   *Ohnmächtig: Der Kapitalismus hat die Politik erobert*.
   [Books on Demand, 27.03.2018
   ](https://www.bod.de/buchshop/ohnmaechtig-martin-schwertmann-9783752813760)
 
 
-  [Seitz, A. (2019)](#Seitz2019){name=Seitz2019}.
+  [Seitz, A. (2019)](#Seitz2019).
   *Teufelskreise des Bevölkerungs-Wachstums*.  
   [Achgut.com, 23.1.2019
   ](https://www.achgut.com/artikel/teufelskreise_des_bevoelkerungs_wachstums).
 
-  [Simpson, J. (2017)](#Simpson2017){name=Simpson2017}.
+  [Simpson, J. (2017)](#Simpson2017).
   *Die Wasserprivatisierung: EU bricht weiteres Versprechen!*  
   [Watergate.tv, 9.4.2017](https://www.watergate.tv/jane-simpson-wasser-privatisierung-eu-bricht-versprechen).
 
-  [Simons, B. (2009)](#Simons2009){name=Simons2009}.
+  [Simons, B. (2009)](#Simons2009).
   *Die Matrix – Platons Ideen in einer virtuellen Welt der Zukunft*.  
   [Pegasus-Onlinezeitschrift IX/1 (2009), 92.
   ](http://www.pegasus-onlinezeitschrift.de/2009_1/agora_1_2009_matrix.html).
@@ -1169,51 +1169,51 @@ _____________________________________________________________________________
   [C. H. Beck'sche Verlagsbuchhandlung
   ](http://gutenberg.spiegel.de/buch/preussentum-und-sozialismus-5331/1).
 
-  [Stein, B. (2006)](#Stein2006){name=Stein2006}.
+  [Stein, B. (2006)](#Stein2006).
   *In Class Warfare, Guess Which Class Is Winning*. 
   [New York Times, 26.11.2006
   ](http://www.nytimes.com/2006/11/26/business/yourmoney/26every.html).
 
-  [Sun Tzu (500 v. Chr.)](#SunTzu){name=SunTzu}. 
+  [Sun Tzu (500 v. Chr.)](#SunTzu). 
   [Die Kunst des Krieges](https://hdms.bsz-bw.de/files/357/Sunzi.pdf).
 
-  [Swiss Propaganda Research, (2018)](#Swpr2017){name=Swpr2017}.
+  [Swiss Propaganda Research, (2018)](#Swpr2017).
   *Der Propaganda-Schlüssel*. 
   [SWPR, März 2017](https://swprs.org/der-propaganda-schluessel).
 
 
-  [Swiss Propaganda Research, (2018)](#Swpr2018){name=Swpr2018}.
+  [Swiss Propaganda Research, (2018)](#Swpr2018).
   Swiss Propaganda Research, (2018). *Der Jemenkrieg und die Medien*. 
   [SWPR, November 2018](https://swprs.org/jemenkrieg-und-medien).
 
 
 
 
-  [Vahlefeld, M. (2019)](#Vahlefeld2019){name=Vahlefeld2019}
+  [Vahlefeld, M. (2019)](#Vahlefeld2019)
   [Achgut.com, 9.2.2019
   ](https://www.achgut.com/artikel/die_lust_den_lebenstandard_abzusenken)
 
-  [Vitali S, Glattfelder JB, Battiston S (2011)](#Vitali2011){name=Vitali2011}.
+  [Vitali S, Glattfelder JB, Battiston S (2011)](#Vitali2011).
   *The Network of Global Corporate Control*. 
   [PLoS ONE 6(10): e25995.](https://doi.org/10.1371/journal.pone.0025995).
 
 
 
-  [Wehr, A. (2016)](#Wehr2016){name=Wehr2016}. 
+  [Wehr, A. (2016)](#Wehr2016). 
   *Der EU-Retter*.
   [Junge Welt, 16.2.2016](http://www.andreas-wehr.eu/der-eu-retter.html).
 
-  [Wendt, A. (2018)](#Wendt2018){name=Wendt2018}.
+  [Wendt, A. (2018)](#Wendt2018).
   *Ausweitung der Moralkampfzone*. [Publico, 03/2018
   ](https://www.publicomag.com/2018/03/ausweitung-der-moralkampfzone).
 
-  [Wrouten, L., Holland, S. (2018)](#Wrouten2018){name=Wrouten2018}.
+  [Wrouten, L., Holland, S. (2018)](#Wrouten2018).
   *USA verabschieden sich aus UN-Menschenrechtsrat*. [Reuters, 20.6.2018
   ](https://www.reuters.com/article/usa-menschenrechtsrat-idDEKBN1JG0EU).
 
 
 
-  [Zydatis, K. (2019)](#Zydatis2019){name=Zydatis2019}.
+  [Zydatis, K. (2019)](#Zydatis2019).
   *Gelbe Westen überall*. [Achgut.com, 
   12.1.2019](#https://www.achgut.com/artikel/gelbe-westen_ueberall).
 
