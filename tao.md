@@ -14,6 +14,7 @@ publisher: Soft Power Press
 
 >>> ![](png/tao.png)
 
+
 >  Nach Jahrhunderten von Religions-, Kabinetts- und Nationalkriegen schien
 >  es einige Zeit so, als wäre schlußendlich Frieden in den europäischen
 >  Nationalstaaten eingekehrt.
