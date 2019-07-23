@@ -12,8 +12,7 @@ publisher: Soft Power Press
   [Die Kunst des Krieges im mechanischen Staat](01Contents.txt)
 ================================================================
 
->>> ![](png/tao.png)
-
+>>> ![](png/tao.png){height=256px width=100%}
 
 >  Nach Jahrhunderten von Religions-, Kabinetts- und Nationalkriegen schien
 >  es einige Zeit so, als wäre schlußendlich Frieden in den europäischen
@@ -32,6 +31,8 @@ publisher: Soft Power Press
 >  [*Kunst des Krieges*](https://de.wikipedia.org/wiki/Kriegsführung)
 >  mit den eindrücklichen Worten: 
 
+>> *Im Frieden bereite dich auf den Krieg vor, im Krieg bereite dich auf 
+>> den Frieden vor*.
 >>
 >> *Die Kunst des Krieges ist für den Staat von entscheidender Bedeutung. 
 >> Sie ist eine Angelegenheit von Leben und Tod, eine Straße, die zur 
@@ -40,22 +41,22 @@ publisher: Soft Power Press
 >>
 
 
-  _Die Unlesbarkeit unserer Zeit ist mit den Zeichen der Krise geschrieben; 
-  der gesellschaftliche Zusammenhalt schwindet, die politischen Strukturen 
+  _In die Unlesbarkeit unserer Zeit sind die Zeichen der Krise geschrieben; 
+  der gesellschaftliche Zusammenhalt schwindet, politische Strukturen 
   erodieren und die fortschreitende Ökonomisierung aller Lebensbereiche
-  geht mit lange nicht bekannter Ungleichverteilung von Realeigentum einher
+  geht mit lang nicht gekannter Ungleichverteilung von Realeigentum einher
   ([Huether et.al. 2018](#Huether2018), [Piketty 2013](#Piketty2013)).  
 
   Nun revoltieren zwar Bürger in gelben Westen gegen die bestehende moralische 
-  Ordnung des politisch-medialen Komplotts 
+  Ordnung des politisch-medialen Komplexes 
   ([Schmeiser 2019](#Schmeiser2019), [Zydatis 2019](#Zydatis2019)), 
   auch wird das Kriegsgeschehen unserer Tage nicht mehr fraglos hingenommen
   ([SWPR 2018](#Swpr2018)), selbst die Wissenschaften werden als willfährige 
   Helfer der automatisierten und sich selbst überlassenen Wirtschaft blamiert 
   ([Kollmann2019](#Kollmann2019)). 
-  Doch lässt sich für diesen Verbund aus Moral, medialer Macht und Ordnung
-  keine ladungsfähige Adresse ermitteln. 
-  Damit ist auch keinesfalls zu rechnen, denn ein starker Gegner kennt den 
+  Doch lässt sich für dieses Syndikat aus Moral, medialer Macht und 
+  ökonomischer Ordnung keine ladungsfähige Adresse ermitteln. 
+  Damit ist auch keinesfalls zu rechnen; ein starker Gegner kennt den 
   Vorteil der verborgenen Gestalt. Sun Tzu sagt:
 
 > *Der Höhepunkt militärischer Entfaltung findet sich im Formlosen: Weiset 
@@ -67,19 +68,20 @@ publisher: Soft Power Press
   Interessenkonflikte unserer Zeit einmal als *Klassenkrieg* bezeichnet hat
   ([Müller 2019](#Mueller2019), [Stein 2006](#Stein2006)).
 
-  Die gesellschaftliche Klasse, die hier alle Anderen bedroht, ist erfolgreich 
-  auf der Grundlage einer äußerst effektven Staatsführung.
-  Nach der Übertragung des Maschinenbegriffs mitsamt seiner mechanistischen
+  Die gesellschaftliche Klasse, die hier alle Anderen bedroht, ist überaus
+  erfolgreich auf der Grundlage einer äußerst effektven Strategie,
+  die nach der Übertragung des Maschinenbegriffs mitsamt seiner mechanistischen
   Methodik auf Gesellschaft und Staat ([Hobbes, Leviathan, 1651](#Hobbes1651))
-  sind mit den jetzt entstandenen globalistischen
-  [Vorstellungen](https://de.wikipedia.org/wiki/Globalismus) die Kräfte
+  mit den jetzt entstandenen globalistischen
+  [Vorstellungen](https://de.wikipedia.org/wiki/Globalismus) die Kraft
   entfaltet, den Menschen selbst im und in den verfügbaren Bestand ihrer 
   Mechanik zu
   [stellen](https://de.wikipedia.org/wiki/Martin_Heidegger#Technik_als_Gestell).
 
-  Die dreizehn Kapitel zur strategischen Kriegsführung des Sun Tzu eignen sich
-  nicht, eine Schlacht zu gewinnen: die Ausführungen richten sich gegen jeden 
-  Gegner und sind auf den Sieg gerichtet:
+  Die dreizehn Kapitel zur strategischen Kriegsführung des Sun Tzu sind nicht
+  dazu erdacht, eine Schlacht zu gewinnen: eine Schlacht kann verloren gehen.
+  Sun Tzu's Ausführungen richten sich auf den strategischen Sieg und wirken 
+  gegen jeden Gegner:
 
 > *Wenn du weder den Feind noch dich selbst kennst, wirst du in jeder Schlacht 
 > unterliegen*.
@@ -153,11 +155,10 @@ publisher: Soft Power Press
 
   Der gottlose Katholik[^1] Friedrich Nietzsche hat den Staat selbst einmal 
   als „das kälteste aller kalten Ungeheuer“ bezeichnet.
-
-  Schon das bekannte politische und auf Macht gerichtete Handeln folgt seit 
-  jeher keinerlei moralischen Imperativen, etwa eines irgendwie definierten 
-  Gemeinwohls, oder einer auch nur rudimentären Figur der Gerechtigkeit 
-  (Machiavelli, 1513).
+  Schon das bekannte politische und auf Macht gerichtete Handeln folgt ja 
+  seit jeher keinerlei moralischen Imperativen, etwa denen eines irgendwie 
+  definierten Gemeinwohls, oder einer auch nur rudimentären Figur der 
+  Gerechtigkeit (Machiavelli, 1513).
   In der sich globalisierenden Welt wird nun die kalte Mechanik zur 
   Organisation aller menschlichen Ressourcen im weltweiten 
   Maßstab sichtbar ([Fusaro 2017](#Fusaro2017)).
@@ -165,9 +166,9 @@ publisher: Soft Power Press
   Ziele und Interessen und tritt gegen die in Europa bekannten Sozialstaaten 
   an. Zwei wesentliche Schritte sind erkennbar ([Kjos 2006](#Kjos2006)):
 
-   - Installation eines effektiven Systems zum globalen Management, welches 
-     die Nationen der Welt durch „demokratisch“ erscheinende Prozesse
-     miteinander vereint und für eine willfährige Beachtung einer 
+   - Implementierung eines effektiven Systems zum globalen Management aller
+     Resourcen, welches die Nationen der Welt durch demokratisch scheinende 
+     Prozesse zusammenführt und für eine willfährige Beachtung einer 
      spezifischen Menge von Regeln und Standards sorgt.
 
    - Dieses Managementsystem wird verwendet, um Meinungen zu formen,
@@ -177,8 +178,8 @@ publisher: Soft Power Press
 Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   Maschinerie erfolgt durch:
 
-   - Die Neuverteilung humanitärer und finanzieller Ressourcen 
-     durch Migration und international arbeitende Wirtschaftskonzerne.
+   - Die Neuverteilung humanitärer und finanzieller Ressourcen durch Migration,
+     Kapitalkontraktion und internationalisierte Wirtschaftskonzerne.
    - Ein weltweit einheitliches Ausbildungssystem, welches sowohl
      soziale als auch die für ein Arbeitsleben erforderlichen Fähigkeiten
      standardisiert und ökonomisiertes Denken implementiert.
@@ -186,26 +187,12 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
    - Eine Zivilgesellschaft, die auf eine kulturelle und religiöse 
      Synthese hinarbeitet.
 
-  Der Soziologen Bernd Hamm ([2014](#Hamm2014)) geht einen Schritt weiter 
-  und beschreibt einen Oligarchenkomkomplex aus Superreichen, CEOs und 
-  Führungskadern multinationaler Großunternehmen und deren Funktionseliten 
-  in Politik, Militär, Medien und Think Tanks, die er als „Dunkler Staat“ 
-  bezeichnet und die diese Prozesse erfolgreich vorantreiben.
-
-  Zum Beschluss des Zweiten Senats vom 22. Juni 1995 - 2 BvL 37/91 des
-  Bundesverfassungsgerichts zur Vermögensteuer dokumentierte der damalige 
-  Richter Ernst-Wolfgang Böckenförde seine abweichende Meinung. 
-  Darin heißt es: „Im Eigentum gerinnt die Ungleichheit der freigesetzten 
-  Gesellschaft zur Materie und wird Ausgangspunkt neuer Ungleichheiten. 
-  Stellt man dieses unter Sicherung von dessen unbegrenzter Akkumulation 
-  sakrosankt, besteht die Gefahr, daß sich die Ungleichheit ungezügelt 
-  potenzieren kann und sich darüber die freiheitliche Rechtsordnung selbst 
-  aufhebt.“ Und zwei Absätze weiter: "Der Staat kann die Leistungsfähigkeit, 
-  die in der Innehabung großer Vermögen liegt, nicht mehr nutzen und wird 
-  gegenüber einer möglichen Eigendynamik, die sich aus der Akkumulation von 
-  Vermögenswerten ergeben kann, machtlos." In gewisser Weise hat Böckenförde 
-  hier den entfesselten Markt vorausgesehen und die Gefahr des Niedergangs 
-  der „freiheitlichen Rechtsordnung“.
+  Der Soziologe Bernd Hamm ([2014](#Hamm2014)) geht einen Schritt weiter 
+  und konkretisiert die abstrakten Entwicklungen durch Beschreibung eines
+  Oligarchenkomplexes aus Superreichen, CEOs und Führungskadern multinationaler
+  Großunternehmen und deren Funktionseliten in Politik, Militär, Medien und 
+  Think Tanks, die er als „Dunkler Staat“ bezeichnet und die diese Prozesse 
+  erfolgreich vorantreiben.
 
   Adorno hat einmal zu Oswald Spengler bemerkt, „es rächt sich der vergessene 
   Spengler, indem er droht recht zu behalten.“ ([Adorno 1955](#Adorno1955)).
@@ -215,24 +202,39 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   Finanzkapitalismus, der rücksichtslos expandiert und dabei ganze 
   Volkswirtschaften umgestaltet. 
 
+  Grundlegend für die Handlungsfähigkeit dieser globalisierten Staatsmaschine
+  sind die Sicherung des Eigentums.
+  „Im Eigentum gerinnt die Ungleichheit der freigesetzten Gesellschaft zur 
+  Materie und wird Ausgangspunkt neuer Ungleichheiten. Stellt man dieses unter 
+  Sicherung von dessen unbegrenzter Akkumulation sakrosankt, besteht die 
+  Gefahr, daß sich die Ungleichheit ungezügelt potenzieren kann und sich 
+  darüber die freiheitliche Rechtsordnung selbst aufhebt.“ -- so eine
+  Bemerkung des ehemaligen Richters Ernst-Wolfgang Böckenförde in einem
+  Beschluss des Zweiten Senats vom 22. Juni 1995 (2 BvL 37/91).
+  Und zwei Absätze weiter: "Der Staat kann die Leistungsfähigkeit, 
+  die in der Innehabung großer Vermögen liegt, nicht mehr nutzen und wird 
+  gegenüber einer möglichen Eigendynamik, die sich aus der Akkumulation von 
+  Vermögenswerten ergeben kann, machtlos." In gewisser Weise hat Böckenförde 
+  hier den entfesselten Markt vorausgesehen und die Gefahr des Niedergangs 
+  der „freiheitlichen Rechtsordnung“ erkannt.
+
   Ob nun ein globales Syndikat aus Kriegsbankern existiert und sich wichtiger
   westlicher kapitalistischer Staaten bemächtigt hat oder ob der 
   immer weiter deregulierte Kapitalismus selbst auch ohne weitere personale 
   Konkretisierung einen eigenen Willen zur Macht entfaltet und unter dem 
-  schillernden Namen „Neoliberlismus“ ([Chomsky 2000](#Chomsky2000), 
+  schillernden Namen *Neoliberlismus* ([Chomsky 2000](#Chomsky2000), 
   [Ptak 2018](#Ptak2018), [Otte 2019](#Otte2019)) sein Unwesen treibt - 
-  es dürfte von einiger Wichtigkeit sein, diese Phänomene und seine 
+  es dürfte von einiger Wichtigkeit sein, diese Phänomene und ihre 
   Mechanismen genauer kennenzulernen. 
 
 
-  Die Kräfte der Macht wirken abstrakt. Die Mechanismen der menschlichen 
+  Die Kräfte der Macht wirken nun abstrakt. Die Mechanismen der menschlichen 
   Gesellschaften sind bekannt und werden zu Ihrer Unterwerfung verwendet.
-  In der globalisierten Welt muß nun jede menschliche Abweichung und Eigenheit 
+  In der globalisierten Welt muß jede menschliche Abweichung und Eigenheit 
   zugunsten einer effektiven und automatisierbaren Kontrolle unterdrückt 
   werden.
   Dies ist der *mechanische Staat*, Inkarnation des Kapitals, 
   Feind aller Menschen und Nationen.
-
 
 
 
@@ -253,7 +255,7 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
 
   Der politisch-mediale Komplex kennt die Macht der Moral, die dafür sorgt, 
   das die Menschen von ihrem eigenen Verstand keinen Gebrauch machen und
-  sich gegen die sie beherschenden Strukture nicht wehren können.
+  sich gegen die sie beherschenden Strukturen nicht wehren können.
 
 >> *Das Gesetz der Moral veranlaßt die Menschen, mit ihrem Herrscher völlig 
 >> übereinzustimmen, so daß sie ihm ohne Rücksicht auf ihr Leben folgen und 
@@ -286,7 +288,7 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   Form leninistischer Elitenherrschaft“. Die neoliberalen Reformen der letzten 
   Jahrzehnte haben zur Ausbildung eines konkurrenzlosen Ordnungsmodells
   geführt, dem die Menschheit ausgeliefert ist und das für Ressourcenmißbrauch,
-  Artensterben und Zerstörung natürlicher Lebensgrundlagen sorgt.
+  Artensterben und Zerstörung ihrer natürlicher Lebensgrundlagen sorgt.
 
   Es kommt zu einer Zersetzung der bürgerlichen Identität, mit der 
   „Ausweitung der Moralkampfzone“ ([Wendt 2018](#Wendt2018)) in allen 
@@ -355,24 +357,18 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   Fluchtwellen sind vorsätzlich ausgelöst worden, indem EU-Staaten die 
   Hilfsgelder für die UN-Lebensmittelhilfe für die Lager im Nahen Osten 
   gestrichen haben. So hat die Bundesregierung 2014/15 die Hilfsgelder von 
-  301 auf 143 Mio. $ gekürzt. „In Afghanistan kürzte man die Hilfe von 13 
-  auf 1 Millionen US-Dollar, im Irak von 16,9 auf 7,4 Millionen, in Jordanien 
-  von 16,9 auf 7,5 Millionen, in der Türkei von 6 auf 2,1 Millionen, in Syrien 
-  von 28 Millionen auf Null.” 
-  Dadurch kam es zu Hunger in den Lagern, was die Fluchtwelle auslöste 
-  („Wie der Hunger die Syrer in die Flucht trieb” FAZ 08.11.2015). 
-  Zeitgleich ließ die Bundesregierung (BAMF) Werbevideos für Asyl in 
+  301 auf 143 Mio. US-Dollar gekürzt,
+  zeitgleich ließ die Bundesregierung (BAMF) Werbevideos für Asyl in 
   Deutschland produzieren und in verschiedene orientalischen Sprachen 
   synchronisieren, darunter Albanisch, Arabisch, Russisch, Arabisch, Dari, 
-  Farsi, Paschtu und Serbisch (Die Welt 30.08.2015).
+  Farsi, Paschtu und Serbisch.
   Bereits seit 2013 fährt Bertelsmann eine massive PR-Kampagne für Migration
   und koordiniert diesbezüglich auch Regierungsentscheidungen
   ([Haering 2018](#Haering2018b)).
 
-  Das führt zur Plünderung des Sozialstaates mittels Herbeischaffung
-  alimentierter Konsumenten mit einem Mehrumsatz seit 2015 von per anno bis 
-  zu 55 Mrd. € (Die Welt, NZZ), aber auch zum Anstieg der Miet- und 
-  Immobielienpreise und zum Anstieg des Staatsschuldenniveaus.
+  Das führt zu einem Mehrumsatz mittels alimentierter Konsumenten von per anno
+  bis zu 55 Mrd. €, aber auch zum Anstieg der Miet- und Immobielienpreise und 
+  zum Anstieg des Staatsschuldenniveaus.
 
 > *Soweit der Sieg durch Umstände errungen wurde, die nicht ans Licht kommen, 
 >  wird man den Kämpfer nicht wegen seiner Weisheit loben; und wenn sich der 
@@ -410,24 +406,24 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
 > *Es ist wichtiger, dem Gegner geistig überlegen zu sein, als ihn
 > niederzukämpfen.*.
 
-  Im "Klassenkrieg von oben" sind nach Chomsky ([1998: 13ff](#Chomsky1998)) 
+  Im „Klassenkrieg von oben“ sind nach Chomsky ([1998: 13ff](#Chomsky1998)) 
   Manipulationsstrategien zur Verdummung der Opfer von zentraler Bedeutung.
-  "Der schlaueste Weg, Menschen passiv und gehorsam zu halten, ist, das 
+  „Der schlaueste Weg, Menschen passiv und gehorsam zu halten, ist, das 
   Spektrum an akzeptabler Meinung streng zu beschränken, aber eine sehr 
   lebhafte Debatte innerhalb dieses Spektrums zu ermöglichen – sogar die 
   kritischeren und die Ansichten der Dissidenten zu fördern.
   Das gibt den Menschen ein Gefühl, dass es ein freies Denken gibt, während 
   die Voraussetzungen des Systems durch die Grenzen der Diskussion gestärkt 
-  werden." ([Chomsky 2001](#Chomsky2001)).
+  werden.“ ([Chomsky 2001](#Chomsky2001)).
 
-  Auch der Mensch selbst wird umgestaltet:
+  Nicht nur Nationalstaaten, auch der Mensch selbst wird umgestaltet:
   Der um sich greifende Finanzkapitalismus reduziert die Komplexität des Lebens
   tatsächlich auf ein einziges "gestaltendes Prinzip", eine einzige Zahl: 
   die Rendite ([Otte 2018](#Otte2018)).
   Neben der Expansion in die Breite entfaltet also dieses Prinzip eine 
   Tiefenwirkung bis in die Psyche des einzelnen hinein.
   
-  Wie aber wurde die vollständige Ökonomisierung alles Denkens erreicht ?
+  Wie aber wurde die vollständige Ökonomisierung allen Denkens erreicht ?
   Damit ein antirationaler, gesinnungsorientierter Konsens entsteht,
   muß die sehr grundsätzliche Frage beantwortet werden, wie eine politisch
   apathische und konformistische Generation von Menschen herangebildet
@@ -436,13 +432,14 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   mit der gegen den Willen der betroffenen Pädagogen ein ökonomistisches
   Denken in Schulen und Hochschulen verankert wird.
 
-  Diese »Soft Governance« im Bildungswesen wird von öffentlich wenig 
+  Diese „Soft Governance“ im Bildungswesen wird von öffentlich wenig 
   wahrgenommenen Akteuren auf globaler, europäischer und nationaler Ebene
   durchgeführt. Die UN bringt die Inklusion auf den Weg, die dann auf
-  nationaler Ebene ausgeführt und implementiert wird. Selbst wenn sich
-  herausstellt, das hier vor allem die betroffenen und ehemals auf speziell
-  dafür eingerichteten Schulen unterrichteten Kinder die Leidtragenden sind,
-  kann diese Reform nur noch schwer Rückgängig gemacht werden.
+  nationaler Ebene implementiert wird. 
+  Selbst wenn sich herausstellt, das hier vor allem die betroffenen und 
+  ehemals auf speziell dafür eingerichteten Schulen unterrichteten Kinder 
+  die Leidtragenden sind, kann diese Reform nur noch schwer Rückgängig 
+  gemacht werden.
   Die Umstellung und Verkürzung der Schulzeit bis zum Abitur von dreizehn 
   auf zwölf Jahre geht zurück auf ökonomische Überlegungen der 
   Bertelsmann-Stiftung, die Umstellung und Angleichung der Hochschulbildung 
@@ -453,14 +450,12 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   Der ökonomische Imperialismus als methodisch einzige Weltsicht soll demnach 
   zur allgemeinen Einstellung werden. 
   Eine solche Vereinheitlichung von Vorstellungen hatte Walter Lippmann als 
-  »manufacturing of consent« beschrieben.
+  „manufacturing of consent“ beschrieben.
   Die Messlatte auf diesem Schlachtfeld sind die Werte, die in den PISA-Studien
   ermittelt werde. Den Studien also, die die OECD, die Institution zur 
   Förderung der Wirtschaft, in einem geschickten Coup den meisten 
   Gesellschaften oktroyiert hat ((Schleim 2019)[#Schleim2019]).
 
-  [^4]: Krause: [„Auf Adorno geht das Heer der Schwafler und Schwätzer 
-  zurück“](https://www.welt.de/print-welt/article257787).
 
 ## [VI. Schwache und starke Punkte](#VI "Privatisierung") 
 
@@ -483,7 +478,7 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   Gesellschaft aus“.
 
   Die Privatisierung der Wasserversorgung ist vielerorts zunächst gescheitert,
-  wird aber bei erkennbarer Schwäche ausgeführt.
+  wird aber bei erkennbarer Schwäche dennoch ausgeführt.
   Hat die EU-Kommission 2013 noch versprochen, die Wasserversorgung von der 
   Privatisierung auszunehmen, brach sie ihre Zusage, zuerst mit dem
   angeschlagenen Griechenland. 
@@ -527,7 +522,7 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   der politischen Linken, die nicht nur den wahren Charakter des 
   Neoliberalismus verkennt ([Mausfeld 2017](#Mausfeld2017)), sondern sich
   dessen Ziele unter falscher Flagge zu eigen macht: 
-  "Für einige kleine, ultralinke anarchistische Gruppen besteht das
+  „Für einige kleine, ultralinke anarchistische Gruppen besteht das
   langfristige Ziel in einer Welt ohne Grenzen, in der jeder frei ist, überall
   hin zu gehen und in der die nationalen Grenzen ebenso wie die Nationalstaaten
   verschwunden sind. Diese Gruppen betrachten sich selbst als radikal
@@ -537,16 +532,16 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   Welt gänzlich ungehemmt beherrschen würden. Der Unterschied zwischen den
   Anarchisten und den kapitalistischen Globalisierern liegt in der Wahrnehmung
   der Kräfteverhältnisse, die von ersteren ignoriert werden, während letztere 
-  sie aktiv gestalten."
+  sie aktiv gestalten.“
 
   Dabei treten die antinationalen Ideologen heute auch gern im grünen Gewand
-  auf und sehen dabei aus wie Wiedergänger aus längst vergangen geglaubten 
-  religiös-fundamentalistischen Zeiten. 
+  auf und sehen dabei nicht ganz zufällig aus wie Wiedertäufer aus längst 
+  vergangen geglaubten religiös-fundamentalistischen Zeiten. 
   Es werden ja nur die Spielräume des Einzelnen beständig eingeengt, während 
   das Große – das Postnationale, die Globalisierung, die Weltwirtschaft – sich 
-  am besten regellos ständig weiter ausbreiten soll. "Das ist am Ende der 
+  am besten regellos ständig weiter ausbreiten soll. „Das ist am Ende der 
   Fluch, der aus der unsichtbaren Verbrüderung von postnationaler Ökoreligion 
-  und Neoliberalismus erwachsen ist" ([Vahlefeld 2019](Vahlefeld2019)).
+  und Neoliberalismus erwachsen ist“ ([Vahlefeld 2019](Vahlefeld2019)).
 
   All diese unerhörten Lächerlichkeiten, die Fesselung und Knebelung des 
   freien Geistes und des freien Bürgers folgen Stück für Stück Konzepten, 
@@ -560,19 +555,20 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   von Diskurs auf lenkende und ausschließende Propaganda umgeschaltet. 
   So wird das Denken und Handeln kontrolliert.
 
-  Der Okkultist[^3] Karl Marx hat sich einst im Aufdecken und kognitiven 
-  Verarbeiten realer Widersprüche versucht.
-  Seinerzeit war noch nicht abzusehen, das der Interessens- und 
-  Aktionshorizont des großen Kapitals nicht mehr nationalstaatlich ausgerichtet
-  ist; "es dominiert unter dem Mantel von global governance eine 
-  profitstrategische (Verflechtungs-)Orientierung in unterschiedlichste 
-  Herrschafts- und Kulturregionen hinein; die multinational zusammengesetzten 
-  Konzerne sind "divers" und "bunt" zusammengesetzt und gieren nach 
-  unbegrenzter Offenheit für den ungehinderten Fluss von Geld, Waren, 
-  Dienstleistungen und variablem Kapital, also Arbeitskräfte."
   Die sich gerne als Marxisten tarnenden angeblichen "Linksparteien" befinden 
   sich "im ideologischen Mahlstrom des bunten globalkapitalistischen 
   Herrschaftskartells." ([Jellen 2019](#Jellen2019)).
+  Der Okkultist[^3] Karl Marx hat sich einst im Aufdecken und kognitiven 
+  Verarbeiten realer Widersprüche versucht, nur war seinerzeit noch nicht 
+  abzusehen, das der Interessens- und Aktionshorizont des großen Kapitals 
+  nicht mehr nationalstaatlich ausgerichtet ist; 
+  nun aber dominiert unter dem Mantel von global governance eine 
+  profitstrategische (Verflechtungs-)Orientierung in unterschiedlichste 
+  Herrschafts- und Kulturregionen hinein; die multinational zusammengesetzten 
+  Konzerne sind „divers“ und „bunt“ zusammengesetzt und gieren nach 
+  unbegrenzter Offenheit für den ungehinderten Fluss von Geld, Waren, 
+  Dienstleistungen und variablem Kapital, also Arbeitskräften.
+
   [^3]: Marx: [„Die Aufhebung der Religion als des illusorischen Glücks des 
   Volkes ist die Forderung seines wirklichen Glücks“
   ](https://horst-koch.de/marx-und-satan-richard-wurmbrand).
@@ -620,10 +616,10 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   Denn der beste Schutz der entstandenen Machtstruktur ist der Entzug dieser
   Strukturen aus dem demokratischen Diskursraum; der Neoliberalismus hat 
   sich den Staat zur Beute gemacht und ihn zu einem Interventions- und
-  Subventionsstaat für die Reichen gemacht ([Eisleben 2018](#Eisleben2018b)). 
+  Subventionsstaat für die Reichen umgebaut ([Eisleben 2018](#Eisleben2018b)). 
   Diese Machstrukturen sind nicht abwählbar, diese Bedeutungszusammenhänge 
   sind öffentlich nicht wahrnehmbar. Die Stellung ist uneinnehmbar, 
-  "Die Herde schweigt" ([Mausfeld 2015](#Mausfeld2015)).
+  „Die Herde schweigt“ ([Mausfeld 2015](#Mausfeld2015)).
 
 > *Die Kunst des Krieges lehrt uns, nicht darauf zu hoffen, daß der Feind nicht 
 > kommt, sondern darauf zu bauen, daß wir bereit sind, ihn zu empfangen; nicht 
@@ -641,11 +637,12 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
 > *Überheblich zu beginnen und danach vor der Zahl des Feindes zurückzuschrecken
 > ist ein Beweis für einen außergewöhnlichen Mangel von Intelligenz.*
 
-  Der globalisierte, kapitalistische Markt zerstört nun alles, "was die 
+  Der globalisierte, kapitalistische Markt zerstört nun alles, was die 
   unbegrenzte Ausdehnung und die freie Zirkulation der als Waren neu 
   definierten Menschen, die totale Merkantilisierung des Lebens und die 
-  individualistische Privatisierung der Gesellschaft verhindert" 
+  individualistische Privatisierung der Gesellschaft verhindert 
   ([Fusaro 2018](#Fusaro2018)).
+
   Es gibt fünf gefährliche Fehler, die zu dieser ungeheuren Macht des Negativen 
   geführt haben:
 
@@ -694,50 +691,80 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   Elitendiktatur mit Demokratiesimulation zu errichten.
   Dabei ist „das Schild der Humanität die beste, sicherste Decke der 
   niederträchtigsten öffentlichen Gaunerei.” (Johann Gottfried Seume)  
+
   Die Dystopie eines totalitären Überwachungsstaats, in dem die 
   herrschende Oligarchie mit Hilfe von „Teleschirmen“ die Gedanken der
   Bürger kontrolliert und so ihren Machtanspruch durchsetzt, wird bereits
-  von George Orwell im Roman (["1984"](#Orwell1948)) beschrieben.
+  von George Orwell (["1984"](#Orwell1948)) beschrieben.
 
 >> “...war is not meant to be won, it is meant to be continuous” – George Orwell
 
 ## [XI. Die neun Situationen](#VI "Handlungsfelder")
 
-> *Im Frieden bereite dich auf den Krieg vor, im Krieg bereite dich auf 
-> den Frieden vor*.
+>> *Die Kunst des Krieges kennt neun Arten des Geländes: auseinandersprengendes 
+>> Gelände; leichtes Gelände; umstrittenes Gelände; offenes Gelände; 
+>> Gelände mit kreuzenden Straßen; gefährliches Gelände; schwieriges Gelände; 
+>> eingeengtes Gelände; hoffnungsloses Gelände*.
 
-  Die in diesem Krieg maßgeblichen Handlungsfelder lassen sich unterscheiden in
-> *Auseinanderspringende, leichte, umstrittene, nach allen Seiten offene, 
-> sich kreuzenden Straßen, gefährliche, schwierige, eingeschränkte und 
-> hoffnungslose Orte.*
+  So wie sich das Gelände der Kriegführung unterscheiden lässt, so lassen
+  sich auch die maßgeblichen Handlungsfelder in der Auseinandersetzung
+  gegen die neoliberale Globalisierung unterscheiden.
 
+  1) *Auseinanderspringend:* Kämpfen wir auf eigenem Gelände, wird es 
+     auseinanderspringend genannt. Ein solches ist der Versuch, die Verbreitung
+     maschinengestützter Pornographie zu unterbinden
+     [Holland 2018](#Holland2018)).
 
-  1) *Auseinanderspringende:* Beendigung des Derivatehandels
-     ([Altvater et. al. 2009](#Altvater2009)).
+  2) *Leicht:* Befinden wir uns auf feindlichem Gebiet, doch nicht sehr weit,
+     handelt es sich um leichtes Gelände. Die Beendigung des Derivatehandels
+     ([Altvater et. al. 2009](#Altvater2009)) ist ein solches Gebiet, das
+     den Feind schwächt und uns nicht weit in feindliches Gebit treibt.
 
-  2) *Leichte:* Verbot der Pornographie ([Holland 2018](#Holland2018)).
+  3) *Umstritten:* Gelände, das für beide Seiten sehr vorteilhaft ist, wird 
+     umstrittenes Gelände genannt. Über den UN-Menschenrechtsrat werden
+     große Teile der weichen Gewalt umgesetzt. Ein Austritt einzelner 
+     Staaten ist nur eine Notwehroperation, die aus der Unmöglichkeit
+     der Reformation herrührt ([Wrouten 2018](#Wrouten2018)).
 
-  3) *Umstrittene:* Austritt aus dem UN-Menschenrechtsrat 
-     ([Wrouten 2018](#Wrouten2018)).
+  4) *Offen:* Gelände, auf dem beide Seiten sich frei bewegen können, heißt 
+     offenes Gelände. Die Kontrolle und Abschwächung des Bevölkerungswachstums 
+     ([Seitz 2019](#Seitz2019)) ist in aller Interesse, auch nimmt sie der
+     Migrationswaffe die Kraft.
 
-  4) *Nach allen Seiten offene:* Kontrolle des Bevölkerungswachstums 
-     ([Seitz 2019](#Seitz2019)).
+  5) *Kreuzend:* Gelände, das den Schlüssel zu drei aneinandergrenzenden 
+     Staaten bildet, so daß der erste, der es besetzt, den größten Teil des 
+     Königreichs in seiner Gewalt hat, heißt Gelände mit Kreuzenden Straßen.
+     Die Einführung einer regionalisierten Handelspolitik ist solch ein
+     Handlungsfeld ([Groll 2019](#Groll2019)), denn wer den Handel lokal
+     kontrollieren kann, besetzt und besitzt das Gebiet.
 
-  5) *Sich kreuzende Straßen:* Einführung einer regionalisierten Handelspolitik 
-     ([Groll 2019](#Groll2019)).
+  7) *Gefährlich:* Wenn eine Armee ins Herz des feindlichen Landes 
+     vorgedrungen ist und eine Anzahl befestigter Städte im Rücken hat, 
+     dann ist dies gefährliches Gelände.
+     Das "Council on Foreign Affairs" und die ihm verwandten Organisationen 
+     sind weit fortgeschritten in der Unterwerfung der Länder unter die 
+     amerikanische Ökonomie. 
+     Diese sollen als Feinde der ganzen Welt benannt und geächtet 
+     werden ([SWPR 2017](#Swpr2017), [Chomsky1985](#Chomsky1985)).
 
-  7) *Gefährliche:* Das "Council on Foreign Affairs" und die ihm verwandten 
-     Organisationen sollen als Feinde der ganzen Welt benannt und geächtet 
-     werden ([SWPR 2017](#Swpr2017)).
-
-  6) *Schwierige:* Entpolitisierung der öffentlich-rechtlichen 
+  6) *Schwierig:* Jedes Gelände, das schwer zu durchqueren ist, ist 
+     schwieriges Gelände. 
+     Ein solcher Bereich ist die Entpolitisierung der öffentlich-rechtlichen 
      Rundfunkanstalten ([Schauenburg 2018](#Schauenburg2018)]).
 
-  8) *Eingeschränkte:* Vollständiges Verbot des Exportes von Rüstungsgütern
-      ([Brzoska 2017](#Brzoska2017)).
+  8) *Eingeengt:* Gelände, in dem eine kleine Anzahl von Feinden 
+     ausreicht, um großen Schaden anzurichten heißt eingeengtes Gelände. 
+     Das vollständiges Verbot des Exportes von Rüstungsgütern ist solch
+     ein Bereich ([Brzoska 2017](#Brzoska2017)).
 
-  9) *Hoffnungslose:* Beendigung des Schuldgeldsystems 
-      ([Schwertmann 2018](#Schwertmann2018)).
+  9) *Hoffnungslos:* Gelände, auf dem wir dem Untergang nur entgehen, 
+     wenn wir ohne Zögern kämpfen, heißt hoffnungsloses Gelände.
+     Eine Schadensbegrenzung und Rückkehr zu menschlichen Lebensverhältnissen
+     ist allein möglich durch eine weltweite rigorose und humane 
+     Geburtenkontrollen für alle Menschen 
+     ([Stiftung Der Klub der Zehn Millionen 2018](#overpop2018),
+       [Klingholz 2018](#Klingholz2018)).
+
 
 
 > *Es reicht nicht, Pferde anzubinden und Wagenräder im Boden einzugraben. 
@@ -745,6 +772,7 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
 > machen. Du hast keinen Erfolg, wenn deine Männer nicht standhaft und im 
 > Willen geeint sind; vor allem müssen sie von einem Gemeinschaftsgefühl 
 > beseelt sein.*
+
 
 
 
@@ -886,6 +914,10 @@ _____________________________________________________________________________
   Beschäftigungsbedingungen und die Qualität der Versorgung aus 
   gewerkschaftlicher Sicht*. [WSI-Mitteilungen Jahrgang 70 (2017) Heft 3
   ](https://www.nomos-elibrary.de/10.5771/0342-300X-2017-3-218.pdf).
+
+  [Chomsky, N. (1998)](#Chomsky1985).
+  American Foreign Policy. 
+  [Harvard University, March 19, 1985}(https://chomsky.info/19850319).
 
   [Chomsky, N. (1998)](#Chomsky1998).
   Haben und Nichthaben. Bodenheim.
@@ -1169,6 +1201,10 @@ _____________________________________________________________________________
   Spengler, O. (1921). *Preußentum und Sozialismus*. 
   [C. H. Beck'sche Verlagsbuchhandlung
   ](http://gutenberg.spiegel.de/buch/preussentum-und-sozialismus-5331/1).
+
+  [Stiftung Klub der Zehn Millionen (2018)](#overpop2018).
+  Dreizehn Missverständnisse über Überbevölkerung.
+  [overpopulationawareness.org, 25.4.2018](https://www.overpopulationawareness.org/de/artikel/dreizehn-missverstandnisse-uber-uberbevolkerung).
 
   [Stein, B. (2006)](#Stein2006).
   *In Class Warfare, Guess Which Class Is Winning*. 
