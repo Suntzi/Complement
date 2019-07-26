@@ -15,7 +15,7 @@ publisher: Soft Power Press
 >>> ![](png/tao.png){height=256px width=100%}
 
 >  Nach Jahrhunderten von Religions-, Kabinetts- und Nationalkriegen schien
->  es einige Zeit so, als wäre schlußendlich Frieden in den europäischen
+>  es einige Zeit so, als wäre schlussendlich Frieden in den europäischen
 >  Nationalstaaten eingekehrt.
 >
 >  In der sich globalisierenden Welt ändert nun aber der Krieg seine Gestalt 
@@ -60,7 +60,7 @@ publisher: Soft Power Press
   Vorteil der verborgenen Gestalt. Sun Tzu sagt:
 
 > *Der Höhepunkt militärischer Entfaltung findet sich im Formlosen: Weiset 
->  keine Form auf und sogar der sinnestiefste Spion suchet Euch vergebens 
+>  keine Form auf und sogar der sinnestiefste Spion sucht Euch vergebens 
 >  und der Weise kann keine Pläne gegen Euch schmieden*.
 
   Einen ersten vorläufigen Blick auf den angelegten Konflikt ermöglicht aber
@@ -69,7 +69,7 @@ publisher: Soft Power Press
   ([Müller 2019](#Mueller2019), [Stein 2006](#Stein2006)).
 
   Die gesellschaftliche Klasse, die hier alle Anderen bedroht, ist überaus
-  erfolgreich auf der Grundlage einer äußerst effektven Strategie,
+  erfolgreich auf der Grundlage einer äußerst effektiven Strategie,
   die nach der Übertragung des Maschinenbegriffs mitsamt seiner mechanistischen
   Methodik auf Gesellschaft und Staat ([Hobbes, Leviathan, 1651](#Hobbes1651))
   mit den jetzt entstandenen globalistischen
@@ -102,7 +102,7 @@ publisher: Soft Power Press
   diese gewaltige, Matrix genannte Maschine antreten kann. 
   Er klärt Neo über die Beschaffenheit der Matrix auf, übernimmt seine
   Ausbildung und bereitet ihn auf seine Aufgabe vor.
-  Der Abschluß dieser Vorberreitungen besteht in der Begegnung Neos mit dem 
+  Der Abschluss dieser Vorbereitungen besteht in der Begegnung Neos mit dem 
   Orakel. Dieses soll Neo einen Hinweis auf seine Bestimmung geben und seine 
   Ausbildung damit vollenden.
 
@@ -112,7 +112,7 @@ publisher: Soft Power Press
   Als Neo antwortet, das er dies selbst nicht weis, nimmt die Seherin diese 
   Antwort hin und bittet Neo, sich herumzuwenden und die Inschrift auf dem 
   Türsturz der Küchentür zu studieren. Dort steht auf Latein: 
-  „Temet nosce!”, was soviel heisst wie „Erkenne dich selbst”.
+  „Temet nosce!”, was soviel heißt wie „Erkenne dich selbst”.
 
   Nach dieser Antwort beginnt die eigentliche Sitzung, in der die Seherein
   das tut, was gemeinhin erwartet wird. Sie prüft Hände und Augen, liest 
@@ -146,7 +146,7 @@ publisher: Soft Power Press
   Neo dahin führt, seine Bestimmung von sich aus anzuerkennen.
   Die zunächst beiläufig vorgebrachte Antwort „Temet nosce!“ - *erkenne dich 
   selbst* - ist das eigentliche Hauptmotiv und die entscheidende 
-  Vorraussetzung, um gegen die Agenten der Matrix zu bestehen.
+  Voraussetzung, um gegen die Agenten der Matrix zu bestehen.
 
 > *Wenn du den Feind nicht kennst, doch dich selbst, wirst du
 > für jede Niederlage, die du erleidest, einen Sieg erringen*.
@@ -167,7 +167,7 @@ publisher: Soft Power Press
   an. Zwei wesentliche Schritte sind erkennbar ([Kjos 2006](#Kjos2006)):
 
    - Implementierung eines effektiven Systems zum globalen Management aller
-     Resourcen, welches die Nationen der Welt durch demokratisch scheinende 
+     Ressourcen, welches die Nationen der Welt durch demokratisch scheinende 
      Prozesse zusammenführt und für eine willfährige Beachtung einer 
      spezifischen Menge von Regeln und Standards sorgt.
 
@@ -211,10 +211,10 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   darüber die freiheitliche Rechtsordnung selbst aufhebt.“ -- so eine
   Bemerkung des ehemaligen Richters Ernst-Wolfgang Böckenförde in einem
   Beschluss des Zweiten Senats vom 22. Juni 1995 (2 BvL 37/91).
-  Und zwei Absätze weiter: "Der Staat kann die Leistungsfähigkeit, 
+  Und zwei Absätze weiter: „Der Staat kann die Leistungsfähigkeit, 
   die in der Innehabung großer Vermögen liegt, nicht mehr nutzen und wird 
   gegenüber einer möglichen Eigendynamik, die sich aus der Akkumulation von 
-  Vermögenswerten ergeben kann, machtlos." In gewisser Weise hat Böckenförde 
+  Vermögenswerten ergeben kann, machtlos.“ In gewisser Weise hat Böckenförde 
   hier den entfesselten Markt vorausgesehen und die Gefahr des Niedergangs 
   der „freiheitlichen Rechtsordnung“ erkannt.
 
@@ -228,21 +228,20 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   Mechanismen genauer kennenzulernen. 
 
 
-  Die Kräfte der Macht wirken nun abstrakt. Die Mechanismen der menschlichen 
-  Gesellschaften sind bekannt und werden zu Ihrer Unterwerfung verwendet.
-  In der globalisierten Welt muß jede menschliche Abweichung und Eigenheit 
-  zugunsten einer effektiven und automatisierbaren Kontrolle unterdrückt 
-  werden.
-  Dies ist der *mechanische Staat*, Inkarnation des Kapitals, 
+  Die Kräfte der Macht wirken abstrakt, kennen die Mechanismen der menschlichen 
+  Gesellschaften und verwenden diese zu Ihrer Unterwerfung.
+  In sich der globalisierenden Welt muss jede menschliche Abweichung und 
+  Eigenheit zugunsten einer effektiven und automatisierbaren Kontrolle 
+  unterdrückt werden.
+  Diese Macht bildet den *mechanischen Staat*, Inkarnation des Feudalkapitals, 
   Feind aller Menschen und Nationen.
-
 
 
 
 > *Wer den Gegner kennt und sich selbst muß den Ausgang von hundert 
 >  Schlachten nicht fürchten*.
 
-  [^1]: Osho: [„After Friedrich Nietzsche declared that "God is Dead" - 
+  [^1]: Osho: [„After Friedrich Nietzsche declared that „God is Dead“ - 
   the word FUCK has become the most important word in the English 
   language“](https://www.youtube.com/watch?v=6D7rWLzloOI).
 
@@ -255,9 +254,9 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
 
   Der politisch-mediale Komplex kennt die Macht der Moral, die dafür sorgt, 
   das die Menschen von ihrem eigenen Verstand keinen Gebrauch machen und
-  sich gegen die sie beherschenden Strukturen nicht wehren können.
+  sich gegen die sie beherrschenden Strukturen nicht wehren können.
 
->> *Das Gesetz der Moral veranlaßt die Menschen, mit ihrem Herrscher völlig 
+>> *Das Gesetz der Moral veranlasst die Menschen, mit ihrem Herrscher völlig 
 >> übereinzustimmen, so daß sie ihm ohne Rücksicht auf ihr Leben folgen und 
 >> sich durch keine Gefahr erschrecken lassen*.
 
@@ -281,13 +280,13 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   Scheitern des Marktradikalismus und der Deregulierungsideologie unerkannt zu 
   lassen. 
   Öffentliche Diskussionen über die Verwandlung eines funktionierenden 
-  Staatwesens in ein Shithole-Country werden effektiv unterbunden 
+  Staatswesens in ein Shithole-Country werden effektiv unterbunden 
   ([Berger 2018](#Berger2018), [Gärtner 2019](#Gaertner2019)).
 
   Chomsky ([2000](#Chomsky2000)) nennt die globale Macht der Märkte „eine neue 
   Form leninistischer Elitenherrschaft“. Die neoliberalen Reformen der letzten 
   Jahrzehnte haben zur Ausbildung eines konkurrenzlosen Ordnungsmodells
-  geführt, dem die Menschheit ausgeliefert ist und das für Ressourcenmißbrauch,
+  geführt, dem die Menschheit ausgeliefert ist und das für Ressourcenmissbrauch,
   Artensterben und Zerstörung ihrer natürlicher Lebensgrundlagen sorgt.
 
   Es kommt zu einer Zersetzung der bürgerlichen Identität, mit der 
@@ -311,10 +310,10 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   Dabei ist ihm die vernunftbegabten Wesen eingebaute Doppelmoral nicht 
   entgangen, die darin besteht, die Einhaltung allgemeiner Gesetze zu
   verlangen und selbst aber bereit zu sein, sich insgeheim davon auszunehmen.
-  Gegen soche Doppelmoral hilft 
+  Gegen solche Doppelmoral hilft 
   [Recht](https://www.youtube.com/watch?v=1Bvej14BrFU):
   Die Möglichkeit zum ewigen Frieden beruht nach Kant deshalb auf einem 
-  Förderalismus freier Staaten, die sich im Rechtszustand befinden und zum 
+  Föderalismus freier Staaten, die sich im Rechtszustand befinden und zum 
   Wohle ihrer Bürger handeln, also die bürgerliche Moral auf ihr Staatswesen 
   fortsetzen ([Meggle 2019](#Meggle2019b)).
 
@@ -324,8 +323,8 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   und folglich auf dem globalen Markt kein Recht sondern die gnadenlose 
   Brutalität der Macht sich Geltung verschafft.
 
-  Die allgegenwärtige Privatisiserung von Gewinnen und Sozialisierung von 
-  Verlusten, die Macht der Konzerne und die zertörerische Kraft der 
+  Die allgegenwärtige Privatisierung von Gewinnen und Sozialisierung von 
+  Verlusten, die Macht der Konzerne und die zerstörerische Kraft der 
   Finanzkrisen werden Dank der Meinungsführerschaft von Think-Tanks und 
   Lobbyvereinen öffentlich ignoriert.
 
@@ -335,7 +334,7 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
 
 ## [IV. Taktik](#IV "Migration") 
 
-  Der Club der globalen Großkonzerne, der die postkapitalistische Maschine
+  Der Club der globalen Großkonzerne, der die spätkapitalistische Maschine
   antreibt und deren Vertreter sich jährlich in Davos zu einem Stelldichein 
   zusammenfinden, hat enormen politischen Einfluss gewonnen
   ([Häring 2018](#Haering2018), [Jaeger 2019](#Jaeger2019)).
@@ -367,7 +366,7 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   ([Haering 2018](#Haering2018b)).
 
   Das führt zu einem Mehrumsatz mittels alimentierter Konsumenten von per anno
-  bis zu 55 Mrd. €, aber auch zum Anstieg der Miet- und Immobielienpreise und 
+  bis zu 55 Mrd. €, aber auch zum Anstieg der Miet- und Immobilienpreise und 
   zum Anstieg des Staatsschuldenniveaus.
 
 > *Soweit der Sieg durch Umstände errungen wurde, die nicht ans Licht kommen, 
@@ -382,7 +381,7 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   logischerweise durch die sukzessive Auflösung der Souveränität der 
   Nationalstaaten vorangetrieben werden.
 
-  Schon der Umbbau der EU in eine „demkoratiefreien Herrschaftsarchitektur“
+  Schon der Umbau der EU in eine „demkoratiefreien Herrschaftsarchitektur“
   ([Wehr 2016](#Wehr2016)) bedarf der Überwindung der nationalen Identitäten 
   in den Mitgliedsstaaten.
   
@@ -393,7 +392,7 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   politischen Willensbildung in Europa werden übergangen.
   Schon das EU-Parlament ist nicht nach Regeln freier Wahlen gewählt,
   die Anzahl der für einen Parlamentssitz erforderlichen Stimmen fallen 
-  zwischen den einzelnen Mitgliedssataaten weit auseinander und ein großer
+  zwischen den einzelnen Mitgliedsstaaten weit auseinander und ein großer
   Teil der Bürger beachtet die lebensfremd wirkende im fernen Brüssel 
   besprochene Politik nicht und beteiligt sich gar nicht erst an Wahlen 
   zum Parlament.
@@ -418,7 +417,7 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
 
   Nicht nur Nationalstaaten, auch der Mensch selbst wird umgestaltet:
   Der um sich greifende Finanzkapitalismus reduziert die Komplexität des Lebens
-  tatsächlich auf ein einziges "gestaltendes Prinzip", eine einzige Zahl: 
+  tatsächlich auf ein einziges „gestaltendes Prinzip“, eine einzige Zahl: 
   die Rendite ([Otte 2018](#Otte2018)).
   Neben der Expansion in die Breite entfaltet also dieses Prinzip eine 
   Tiefenwirkung bis in die Psyche des einzelnen hinein.
@@ -428,7 +427,7 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   muß die sehr grundsätzliche Frage beantwortet werden, wie eine politisch
   apathische und konformistische Generation von Menschen herangebildet
   werden konnte. 
-  Jochen Krautz ([Krautz 2012](#Krautz2012)) weits auf die Reformflut hin,
+  Jochen Krautz ([Krautz 2012](#Krautz2012)) weist auf die Reformflut hin,
   mit der gegen den Willen der betroffenen Pädagogen ein ökonomistisches
   Denken in Schulen und Hochschulen verankert wird.
 
@@ -464,12 +463,12 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
 > werden, was schwach ist*.
 
   Konnte der Idealist Johann Gottlieb Fichte noch die Unsinnigkeit der
-  Gleichzeitigkeit von Überfluß und Mangel bemängeln, so hat sich bei
-  fortgesetztem Überfluß nun die Feindschaft des globalen Marktes gegen 
+  Gleichzeitigkeit von Überfluss und Mangel bemängeln, so hat sich bei
+  fortgesetztem Überfluss nun die Feindschaft des globalen Marktes gegen 
   alles noch nicht Privatisierte fortgesetzt und diese Unsinnigkeit auf
   die Spitze getrieben.
 
-  Die wohl sichbarsten Folgen des Entzugs ehemaligen Gemeineigentums und
+  Die wohl sichtbarsten Folgen des Entzugs ehemaligen Gemeineigentums und
   der damit verbundenen Umverteilung beschreibt Deckwirth 
   ([2008](#Deckwirth2008)):
   „Bei der Liberalisierung und Privatisierung von Einrichtungen der 
@@ -516,7 +515,7 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   Schon der unwissende Scharlatan[^5] Georg Friedrich Wilhelm Hegel, 
   Stammvater aller Linksideologen, beschied einem Studenten, der ihn auf den 
   Widerspruch einer seiner Theorien mit der Wirklichkeit hinwies: 
-  "Umso schlimmer für die Wirklichkeit". 
+  „Umso schlimmer für die Wirklichkeit“. 
 
   Diana Johnstone ([2017](#Johnstone2017)) beschreibt die doppelte Täuschung 
   der politischen Linken, die nicht nur den wahren Charakter des 
@@ -555,14 +554,14 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   von Diskurs auf lenkende und ausschließende Propaganda umgeschaltet. 
   So wird das Denken und Handeln kontrolliert.
 
-  Die sich gerne als Marxisten tarnenden angeblichen "Linksparteien" befinden 
-  sich "im ideologischen Mahlstrom des bunten globalkapitalistischen 
-  Herrschaftskartells." ([Jellen 2019](#Jellen2019)).
+  Die sich gerne als Marxisten tarnenden angeblichen “Linksparteien“ befinden 
+  sich “im ideologischen Mahlstrom des bunten globalkapitalistischen 
+  Herrschaftskartells.“ ([Jellen 2019](#Jellen2019)).
   Der Okkultist[^3] Karl Marx hat sich einst im Aufdecken und kognitiven 
   Verarbeiten realer Widersprüche versucht, nur war seinerzeit noch nicht 
   abzusehen, das der Interessens- und Aktionshorizont des großen Kapitals 
   nicht mehr nationalstaatlich ausgerichtet ist; 
-  nun aber dominiert unter dem Mantel von global governance eine 
+  nun aber dominiert unter dem Mantel von „Global Governance“ eine 
   profitstrategische (Verflechtungs-)Orientierung in unterschiedlichste 
   Herrschafts- und Kulturregionen hinein; die multinational zusammengesetzten 
   Konzerne sind „divers“ und „bunt“ zusammengesetzt und gieren nach 
@@ -598,13 +597,13 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   Hargot ([2017](#Hargot2017)) beschreibt die von der Porno-Industrie
   ausgehende Tyrannei, die das einstmals Animalische des Menschen den 
   Maschinen angleicht:
-  "In jeder dieser Geschichten sind die Akteure oder Amateure letztlich nur 
+  „In jeder dieser Geschichten sind die Akteure oder Amateure letztlich nur 
   nacktes, kopulierendes Fleisch, was sicherlich auf den ersten Blick den 
   Fantasievorstellungen der Schaulustigen entspricht, aber im Grunde findet 
   alles nach festen stereotypen Regeln statt. 
   Dieser Wunsch, alles zu zeigen, enthüllt lediglich den mechanischen Akt 
   und reduziert die Sexualität auf technische Fertigkeiten, die es für 
-  besonders lustvolles Erleben zu beherrschen gilt." 
+  besonders lustvolles Erleben zu beherrschen gilt.“ 
 
 > *Schwäche die feindlichen Anführer, indem du ihnen Schaden zufügst; mache 
 >  ihnen Schwierigkeiten und halte sie ständig in Atem; täusche sie mit 
@@ -617,7 +616,7 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   Strukturen aus dem demokratischen Diskursraum; der Neoliberalismus hat 
   sich den Staat zur Beute gemacht und ihn zu einem Interventions- und
   Subventionsstaat für die Reichen umgebaut ([Eisleben 2018](#Eisleben2018b)). 
-  Diese Machstrukturen sind nicht abwählbar, diese Bedeutungszusammenhänge 
+  Diese Machtstrukturen sind nicht abwählbar, diese Bedeutungszusammenhänge 
   sind öffentlich nicht wahrnehmbar. Die Stellung ist uneinnehmbar, 
   „Die Herde schweigt“ ([Mausfeld 2015](#Mausfeld2015)).
 
@@ -657,7 +656,7 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
 >  Dies sind die fünf schrecklichen Sünden eines Generals, die für
 >  die Kriegführung verhängnisvoll sind.*
  
-  Wenn alles verloren ist, ist gewiß einer dieser fünf gefährlichen Fehler 
+  Wenn alles verloren ist, ist gewiss einer dieser fünf gefährlichen Fehler 
   die Ursache. Sun Tzu sagt: 
 
 >  *[Mache sie zum Gegenstand deiner Meditation](https://www.youtube.com/watch?v=ljvTwbxrylc).*
@@ -676,26 +675,27 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   Die konkrete Struktur des globalen Netzwerkes internationaler Konzerne 
   lässt sich anhand ihrer finanziellen Beteiligungsverhältnisse darstellen.
   Vitali et. al. ([2011](#Vitali2011)) verwenden zur quantitativen Analyse 
-  dieses Netzwerkes eine "ownership matrix", in der für jede Komponente der 
+  dieses Netzwerkes eine „ownership matrix“, in der für jede Komponente der 
   Matrix der Eigentumsanteil eines Beteiligten an einer Firma notiert wird.
   Es zeigt sich, das ein kleiner Kern eng miteinander verbundender 
   Finanzinstitutionen einen sehr großen Teil aller transnationalen
   Organsiationen kontrolliert. 
-  Dieses sogenannte Phänomen des "Clubs der Reichen" beschreibt die Tendenz 
-  "mächtiger" Knoten, selbst in komplexen Netzwerken stark miteinander 
+  Dieses sogenannte Phänomen des „Clubs der Reichen“ beschreibt die Tendenz 
+  „mächtiger“ Knoten, selbst in komplexen Netzwerken stark miteinander 
   verbunden zu sein.
 
 
   Die Verlagerung der Entscheidungsstrukturen weg vom Volk auf supranationale 
-  Institutionen hilt dabei die schon von Hayek erträumte und vorgeschlagene 
+  Institutionen hilft dabei die schon von Hayek erträumte und vorgeschlagene 
   Elitendiktatur mit Demokratiesimulation zu errichten.
   Dabei ist „das Schild der Humanität die beste, sicherste Decke der 
   niederträchtigsten öffentlichen Gaunerei.” (Johann Gottfried Seume)  
 
-  Die Dystopie eines totalitären Überwachungsstaats, in dem die 
+  Die bereits von George Orwell im Jahre 1948 (["1984"](#Orwell1948)) 
+  beschriebene Dystopie eines totalitären Überwachungsstaates, in dem die 
   herrschende Oligarchie mit Hilfe von „Teleschirmen“ die Gedanken der
-  Bürger kontrolliert und so ihren Machtanspruch durchsetzt, wird bereits
-  von George Orwell (["1984"](#Orwell1948)) beschrieben.
+  Bürger kontrolliert und so ihren Machtanspruch durchsetzt, ist mit
+  der globalistischen Governance wahr geworden.
 
 >> “...war is not meant to be won, it is meant to be continuous” – George Orwell
 
@@ -707,18 +707,18 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
 >> eingeengtes Gelände; hoffnungsloses Gelände*.
 
   So wie sich das Gelände der Kriegführung unterscheiden lässt, so lassen
-  sich auch die maßgeblichen Handlungsfelder in der Auseinandersetzung
-  gegen die neoliberale Globalisierung unterscheiden.
+  sich auch die Handlungsfelder in der Auseinandersetzung gegen die 
+  neoliberale und feudalistische Globalisierung unterscheiden.
 
   1) *Auseinanderspringend:* Kämpfen wir auf eigenem Gelände, wird es 
      auseinanderspringend genannt. Ein solches ist der Versuch, die Verbreitung
      maschinengestützter Pornographie zu unterbinden
-     [Holland 2018](#Holland2018)).
+     ([Holland 2018](#Holland2018)).
 
   2) *Leicht:* Befinden wir uns auf feindlichem Gebiet, doch nicht sehr weit,
      handelt es sich um leichtes Gelände. Die Beendigung des Derivatehandels
      ([Altvater et. al. 2009](#Altvater2009)) ist ein solches Gebiet, das
-     den Feind schwächt und uns nicht weit in feindliches Gebit treibt.
+     den Feind schwächt und uns nicht weit in feindliches Gebiet treibt.
 
   3) *Umstritten:* Gelände, das für beide Seiten sehr vorteilhaft ist, wird 
      umstrittenes Gelände genannt. Über den UN-Menschenrechtsrat werden
@@ -741,7 +741,7 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   7) *Gefährlich:* Wenn eine Armee ins Herz des feindlichen Landes 
      vorgedrungen ist und eine Anzahl befestigter Städte im Rücken hat, 
      dann ist dies gefährliches Gelände.
-     Das "Council on Foreign Affairs" und die ihm verwandten Organisationen 
+     Das „Council on Foreign Affairs“ und die ihm verwandten Organisationen 
      sind weit fortgeschritten in der Unterwerfung der Länder unter die 
      amerikanische Ökonomie. 
      Diese sollen als Feinde der ganzen Welt benannt und geächtet 
@@ -809,8 +809,8 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
 
   In einem Interview über die Geschichte der Geheimdienste und ihren
   verdeckten Operationen sagt Edward Snowden ([2017](#Raza2017)):
-  "Der Glaube, dass unsere sogenannten gewählten Volksvertreter unsere 
-  Probleme lösen werden, ist der Fehler, den wir immer wiederholen." 
+  „Der Glaube, dass unsere sogenannten gewählten Volksvertreter unsere 
+  Probleme lösen werden, ist der Fehler, den wir immer wiederholen.“ 
 
   Die Subversion durch Spionage ist langfristig angelegt.
   Der übergelaufene KGB-Agent Yuri Bezmenov ([Bezmenov 2011](#Bezmenov2011)) 
@@ -826,11 +826,11 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   Sicherung der Herrschaft ist die dauernde Überwachung des Verhaltens von
   Menschen, bei denen abweichendes Verhalten zu befürchten ist.
   Dazu ist die gesamte moderne Maschinerie der Informationssammlung und
-  -übermittlung hervorragedn geeignet. Alle modernen Staaten und alle großen 
+  -übermittlung hervorragend geeignet. Alle modernen Staaten und alle großen 
   Social-Media-Konzerne führen eine Massenüberwachung über Aufzeichnungen von 
   Kommunikation durch.
 
-  Die maschinelle Auswerung dieser Daten ist zum Teil noch mühsam, da viele 
+  Die maschinelle Auswertung dieser Daten ist zum Teil noch mühsam, da viele 
   Nuancen der menschlichen Sprache wie Ironie und Humor von Maschinen nicht 
   oder falsch verstanden werden und für ein genaueres maschinelles Verständnis 
   ganze Dialoge mathematisch modelliert werden müssen. 
@@ -994,7 +994,7 @@ _____________________________________________________________________________
   https://www.weltwirtschaft-und-entwicklung.org/downloads/hammlang.pdf
 
   [Heinsohn, G. (2018)](#Heihnsohn2018). 
-  "Seehofer hat mehr gegen sich als Merkel". [Achgut.com, 16.6.2018
+  *Seehofer hat mehr gegen sich als Merkel*. [Achgut.com, 16.6.2018
   ](http://www.achgut.com/artikel/seehofer_hat_mehr_gegen_sich_als_merkel).
 
   [Heinsohn, G. (2019)](#Heihnsohn2019). 
