@@ -6,11 +6,6 @@ author: Carl Roßmann
 rights: © CC BY-NC
 cover-image: png/tao.png
 publisher: Soft Power Press
-lang: german
-documentclass: extbook
-papersize: a4
-fontsize: 12pt
-geometry: paperwidth=6in, paperheight=9in
 ---
 
 
@@ -885,7 +880,7 @@ _____________________________________________________________________________
 
 ## Bibliographie
 
-  Titelbild: AlexHe34 [CC BY-SA 3.0]
+  Titelbild: Wikimedia, AlexHe34 [CC BY-SA 3.0]
 
   [Adorno, T. W. (1955)](#Adorno1955). 
   *Spengler nach dem Untergang. Zu Oswald Spenglers 70.  Geburtstag*. 
