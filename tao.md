@@ -6,11 +6,17 @@ author: Carl Roßmann
 rights: © CC BY-NC
 cover-image: png/tao.png
 publisher: Soft Power Press
+lang: german
+documentclass: extbook
+papersize: a4
+fontsize: 12pt
+geometry: paperwidth=6in, paperheight=9in
 ---
 
 
   [Die Kunst des Krieges im mechanischen Staat](01Contents.txt)
 ================================================================
+\thispagestyle{empty}
 
 >>> ![](png/tao.png){height=256px width=100%}
 
@@ -40,6 +46,8 @@ publisher: Soft Power Press
 >> Deshalb darf sie unter keinen Umständen vernachlässigt werden.*
 >>
 
+\clearpage
+\newpage
 
   _In die Unlesbarkeit unserer Zeit sind die Zeichen der Krise geschrieben; 
   der gesellschaftliche Zusammenhalt schwindet, politische Strukturen 
@@ -453,7 +461,7 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   Die Messlatte auf diesem Schlachtfeld sind die Werte, die in den PISA-Studien
   ermittelt werde. Den Studien also, die die OECD, die Institution zur 
   Förderung der Wirtschaft, in einem geschickten Coup den meisten 
-  Gesellschaften oktroyiert hat ((Schleim 2019)[#Schleim2019]).
+  Gesellschaften oktroyiert hat ([Schleim 2019](#Schleim2019])).
 
 
 ## [VI. Schwache und starke Punkte](#VI "Privatisierung") 
@@ -877,8 +885,7 @@ _____________________________________________________________________________
 
 ## Bibliographie
 
-  Titelbild: AlexHe34 [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) oder GFDL (http://www.gnu.org/copyleft/fdl.html)], von Wikimedia Commons.
-
+  Titelbild: AlexHe34 [CC BY-SA 3.0]
 
   [Adorno, T. W. (1955)](#Adorno1955). 
   *Spengler nach dem Untergang. Zu Oswald Spenglers 70.  Geburtstag*. 
@@ -973,7 +980,7 @@ _____________________________________________________________________________
   [Groll, F. (2019](#Groll2019).
   Regionalisierung statt Globalisierung – Plädoyer für eine neue Handels- 
   und Entwicklungspolitik. 
-  [AttacTheorieblog 5.1.2019](https://theorieblog.attac.de/?p=1016).
+  [Attac.de 5.1.2019](https://theorieblog.attac.de/?p=1016).
 
   [Hargot T. (2018)](#Hargot2017). 
   *Die Porno-Tyrannei*. In: Sexuelle Freiheit aufgedeckt. 
@@ -986,12 +993,12 @@ _____________________________________________________________________________
 
   [Häring, N. (2018)](#Haering2018b). 
   *Bertelsmann, die Willkommenskultur und der UN-Migrationspakt: Teil 2*.
-  [16.12.2018](http://norberthaering.de/de/27-german/news/1082-bertelsmann-willkommenskultur-2)
+  [Norberthaering.de, 16.12.2018](http://norberthaering.de/de/27-german/news/1082-bertelsmann-willkommenskultur-2)
 
 
   [Hamm, B. (2014)](#Hamm2014). 
   *Das Ende der Demokratie – wie wir sie kennen*. 
-  https://www.weltwirtschaft-und-entwicklung.org/downloads/hammlang.pdf
+  [Weltwirtschaft-und-entwicklung.org](https://www.weltwirtschaft-und-entwicklung.org/downloads/hammlang.pdf)
 
   [Heinsohn, G. (2018)](#Heihnsohn2018). 
   *Seehofer hat mehr gegen sich als Merkel*. [Achgut.com, 16.6.2018
@@ -1025,7 +1032,7 @@ _____________________________________________________________________________
 
 
 
-  [Jellen, R. (2019)](#Jellen2019(. 
+  [Jellen, R. (2019)](#Jellen2019). 
   *Aufdecken und kognitives Verarbeiten von realen Widersprüchen*. 
   [Telepolis, 3.1.2019](https://heise.de/-4252407).
 
@@ -1087,11 +1094,12 @@ _____________________________________________________________________________
   *Il principe*. Milano : Augeri, 1967.
 
   [Mausfeld, R. (2015)](#Mausfeld2015). 
-  [Warum schweigen die Lämmer ?](https://www.youtube.com/watch?v=QlMsEmpdC0E).
+  *Warum schweigen die Lämmer ?*
+  [Youtube, 28.6.2015](https://www.youtube.com/watch?v=QlMsEmpdC0E).
 
   [Mausfeld, R. (2017)](#Mausfeld2017). 
   *Wie werden Meinung und Demokratie gesteuert ?*
-  [Youtube](https://www.youtube.com/watch?v=-hItt4cE0Pk).
+  [Youtube, 15.5.2017](https://www.youtube.com/watch?v=-hItt4cE0Pk).
 
   [Mausfeld, R. (2018)](#Mausfeld2018). 
   *Wie werden politische Debatten gesteuert ?*
@@ -1111,7 +1119,7 @@ _____________________________________________________________________________
 
   [Meyen, M. (2019)](#Meyen2019).
   *Noch einmal Walter Lippmann*.
-  [Medienblog.hypotheses.org, 7.1.2019](https://medienblog.hypotheses.org/4749)
+  [hypotheses.org, 7.1.2019](https://medienblog.hypotheses.org/4749)
 
 
 
