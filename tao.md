@@ -2,7 +2,7 @@
 date: 2019
 tags: [Soft Power Technology, Social Engineering, Mechanical State]
 title: Die Kunst des Krieges im mechanischen Staat
-author: Susanne Schrott
+author: Carl Roßmann
 rights: © CC BY-NC
 cover-image: png/tao.png
 publisher: Soft Power Press
@@ -56,7 +56,7 @@ publisher: Soft Power Press
   ([Kollmann2019](#Kollmann2019)). 
   Doch lässt sich für dieses Syndikat aus Moral, medialer Macht und 
   ökonomischer Ordnung keine ladungsfähige Adresse ermitteln. 
-  Damit ist auch keinesfalls zu rechnen; ein starker Gegner kennt den 
+  Damit ist auch keinesfalls zu rechnen, denn ein starker Gegner kennt den 
   Vorteil der verborgenen Gestalt. Sun Tzu sagt:
 
 > *Der Höhepunkt militärischer Entfaltung findet sich im Formlosen: Weiset 
@@ -449,7 +449,7 @@ Die Transformation bestehender Strukturen in die Verfügungsgewalt dieser
   Der ökonomische Imperialismus als methodisch einzige Weltsicht soll demnach 
   zur allgemeinen Einstellung werden. 
   Eine solche Vereinheitlichung von Vorstellungen hatte Walter Lippmann als 
-  „manufacturing of consent“ beschrieben.
+  „manufacturing of consent“ beschrieben ([Meyen 2019](#Meyen2019)).
   Die Messlatte auf diesem Schlachtfeld sind die Werte, die in den PISA-Studien
   ermittelt werde. Den Studien also, die die OECD, die Institution zur 
   Förderung der Wirtschaft, in einem geschickten Coup den meisten 
@@ -1108,6 +1108,10 @@ _____________________________________________________________________________
   [Meggle, G. (2019)](#Meggle2019b). 
   *Drei Formen des Friedens*. 
   [Telepolis, 6.1.2019](https://heise.de/-4260385).
+
+  [Meyen, M. (2019)](#Meyen2019).
+  *Noch einmal Walter Lippmann*.
+  [Medienblog.hypotheses.org, 7.1.2019](https://medienblog.hypotheses.org/4749)
 
 
 
